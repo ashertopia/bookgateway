@@ -1,2 +1,3 @@
 # bookgateway
-BookGateway.com Book reviews and recommendations. Your gateway to great books.
+BookGateway.com - Your Gateway to Great Books.
+Book reviews and recommendations. 
