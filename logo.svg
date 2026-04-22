@@ -1,25 +1,25 @@
 <svg width="220" height="58" viewBox="0 0 220 58" xmlns="http://www.w3.org/2000/svg">
-  <\!-- Open book icon -->
-  <\!-- Left page -->
+  <!-- Open book icon -->
+  <!-- Left page -->
   <path d="M2 47 L2 13 Q2 7 8 7 L32 10 L32 51 L8 54 Q2 54 2 47Z" fill="#b5121b"/>
-  <\!-- Right page -->
+  <!-- Right page -->
   <path d="M63 47 L63 13 Q63 7 57 7 L32 10 L32 51 L57 54 Q63 54 63 47Z" fill="#9a1016"/>
-  <\!-- Spine -->
+  <!-- Spine -->
   <rect x="30.5" y="10" width="3" height="41" rx="0.5" fill="#6e0a10"/>
-  <\!-- Left page text lines -->
+  <!-- Left page text lines -->
   <line x1="10" y1="21" x2="27" y2="22" stroke="rgba(255,255,255,0.65)" stroke-width="1.5" stroke-linecap="round"/>
   <line x1="10" y1="28" x2="27" y2="29" stroke="rgba(255,255,255,0.65)" stroke-width="1.5" stroke-linecap="round"/>
   <line x1="10" y1="35" x2="27" y2="36" stroke="rgba(255,255,255,0.4)" stroke-width="1.2" stroke-linecap="round"/>
   <line x1="10" y1="41" x2="20" y2="42" stroke="rgba(255,255,255,0.25)" stroke-width="1" stroke-linecap="round"/>
-  <\!-- Right page text lines -->
+  <!-- Right page text lines -->
   <line x1="35" y1="22" x2="53" y2="21" stroke="rgba(255,255,255,0.65)" stroke-width="1.5" stroke-linecap="round"/>
   <line x1="35" y1="29" x2="53" y2="28" stroke="rgba(255,255,255,0.65)" stroke-width="1.5" stroke-linecap="round"/>
   <line x1="35" y1="36" x2="53" y2="35" stroke="rgba(255,255,255,0.4)" stroke-width="1.2" stroke-linecap="round"/>
   <line x1="35" y1="42" x2="46" y2="41" stroke="rgba(255,255,255,0.25)" stroke-width="1" stroke-linecap="round"/>
-  <\!-- Wordmark: Book + Gateway -->
+  <!-- Wordmark: Book + Gateway -->
   <text font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#1a1a2e" font-weight="normal">
     <tspan x="74" y="37">Book</tspan><tspan fill="#b5121b" font-style="italic">Gateway</tspan>
   </text>
-  <\!-- Tagline -->
+  <!-- Tagline -->
   <text x="75" y="51" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8" fill="#9090b0" letter-spacing="2.8">BOOK REVIEWS &amp; MORE</text>
 </svg>
