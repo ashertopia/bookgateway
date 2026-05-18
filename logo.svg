@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 44" height="44">
-  <!-- Open book icon -->
-  <!-- Left page (red) -->
-  <path d="M4,8 Q5,5 8,5 L20,6.5 L20,36 L8,34.5 Q5,34 4,31 Z" fill="#cc0000"/>
-  <!-- Right page (dark) -->
-  <path d="M20,6.5 L32,5 Q35,5 36,8 L36,31 Q35,34 32,34.5 L20,36 Z" fill="#1a1a2e"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 248 44" height="44">
+  <!-- Open book — left page red, right page dark navy -->
+  <path d="M4,8 Q5,5 8,5 L20,7 L20,37 L8,35 Q5,34 4,31 Z" fill="#cc0000"/>
+  <path d="M20,7 L32,5 Q35,5 36,8 L36,31 Q35,34 32,35 L20,37 Z" fill="#1a1a2e"/>
   <!-- Spine -->
-  <rect x="19.5" y="5" width="1.5" height="31" fill="#fff" opacity="0.6"/>
-  <!-- Lines left page -->
-  <line x1="7" y1="14" x2="18" y2="14.5" stroke="#fff" stroke-width="1" opacity="0.55"/>
-  <line x1="7" y1="19" x2="18" y2="19.5" stroke="#fff" stroke-width="1" opacity="0.55"/>
-  <line x1="7" y1="24" x2="18" y2="24.5" stroke="#fff" stroke-width="1" opacity="0.55"/>
-  <!-- Lines right page -->
-  <line x1="22" y1="14.5" x2="33" y2="14" stroke="#fff" stroke-width="1" opacity="0.35"/>
-  <line x1="22" y1="19.5" x2="33" y2="19" stroke="#fff" stroke-width="1" opacity="0.35"/>
-  <line x1="22" y1="24.5" x2="33" y2="24" stroke="#fff" stroke-width="1" opacity="0.35"/>
-  <!-- "Book" text -->
-  <text x="46" y="31" font-family="Georgia,'Times New Roman',serif" font-size="26"
-        font-weight="normal" letter-spacing="-0.5" fill="#111111">Book</text>
-  <!-- "Gateway" text italic red -->
-  <text x="112" y="31" font-family="Georgia,'Times New Roman',serif" font-size="26"
-        font-style="italic" letter-spacing="-0.5" fill="#cc0000">Gateway</text>
+  <rect x="19.5" y="5" width="1.5" height="32" fill="#fff" opacity="0.7"/>
+  <!-- Page lines left -->
+  <line x1="7"  y1="14" x2="18" y2="15" stroke="#fff" stroke-width="1.2" opacity="0.6"/>
+  <line x1="7"  y1="20" x2="18" y2="21" stroke="#fff" stroke-width="1.2" opacity="0.6"/>
+  <line x1="7"  y1="26" x2="18" y2="27" stroke="#fff" stroke-width="1.2" opacity="0.6"/>
+  <!-- Page lines right -->
+  <line x1="22" y1="15" x2="33" y2="14" stroke="#fff" stroke-width="1.2" opacity="0.35"/>
+  <line x1="22" y1="21" x2="33" y2="20" stroke="#fff" stroke-width="1.2" opacity="0.35"/>
+  <line x1="22" y1="27" x2="33" y2="26" stroke="#fff" stroke-width="1.2" opacity="0.35"/>
+  <!-- "Book" — dark ink, visible on white header background -->
+  <text x="46" y="32" font-family="Georgia,'Times New Roman',serif"
+        font-size="26" font-weight="normal" letter-spacing="-0.5" fill="#111111">Book</text>
+  <!-- "Gateway" — red italic -->
+  <text x="113" y="32" font-family="Georgia,'Times New Roman',serif"
+        font-size="26" font-style="italic" letter-spacing="-0.5" fill="#cc0000">Gateway</text>
 </svg>

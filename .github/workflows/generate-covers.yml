@@ -1,0 +1,58 @@
+name: Generate Book Covers
+
+on:
+  workflow_dispatch:        # run manually any time from the Actions tab
+  schedule:
+    - cron: '0 8 * * 0'    # also runs every Sunday at 8am UTC automatically
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run cover generator
+        run: python3 generate_covers.py
+
+      - name: Commit covers.json if changed
+        run: |
+          git config user.name  "BookGateway Bot"
+          git config user.email "bot@bookgateway.com"
+          git add covers.json
+          if git diff --staged --quiet; then
+            echo "No changes to covers.json"
+          else
+            TOTAL=$(python3 -c "import json; d=json.load(open('covers.json')); print(sum(1 for v in d.values() if v.get('cover')))")
+            git commit -m "chore: update covers.json ($TOTAL covers found) [skip ci]"
+            git push
+          fi
+
+      - name: Summary
+        run: |
+          python3 - <<'EOF'
+          import json
+          try:
+              d = json.load(open("covers.json"))
+              total = len(d)
+              found = sum(1 for v in d.values() if v.get("cover"))
+              non_book = sum(1 for v in d.values() if v.get("non_book"))
+              missing = total - found - non_book
+              print(f"## Cover Generation Results")
+              print(f"| Stat | Count |")
+              print(f"|------|-------|")
+              print(f"| Total processed | {total} |")
+              print(f"| Covers found ✓ | {found} |")
+              print(f"| Non-books (logo shown) | {non_book} |")
+              print(f"| Still missing | {missing} |")
+          except Exception as e:
+              print(f"Could not read covers.json: {e}")
+          EOF

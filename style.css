@@ -210,3 +210,8 @@ footer a:hover { color: white; text-decoration: none; }
   .cards-grid { grid-template-columns: 1fr; }
   .card-cover { height: 200px; }
 }
+
+/* ── Hero brand text (white on dark hero bg) ── */
+.hero-brand { display: inline-flex; align-items: baseline; gap: 0; margin-bottom: 8px; }
+.hero-book    { font-family: Georgia,'Times New Roman',serif; font-size: 2.4rem; font-weight: normal; color: #ffffff; letter-spacing: -0.5px; }
+.hero-gateway { font-family: Georgia,'Times New Roman',serif; font-size: 2.4rem; font-style: italic; color: #e05555; letter-spacing: -0.5px; }
