@@ -1,9 +1,9 @@
 name: Generate Book Covers
 
 on:
-  workflow_dispatch:        # run manually any time from the Actions tab
+  workflow_dispatch:
   schedule:
-    - cron: '0 8 * * 0'    # also runs every Sunday at 8am UTC automatically
+    - cron: '0 8 * * 0'
 
 jobs:
   generate:
@@ -20,39 +20,80 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Run cover generator
+      - name: Run cover generator v2
         run: python3 generate_covers.py
 
-      - name: Commit covers.json if changed
+      - name: Update Amazon links on post pages
+        run: |
+          python3 - << 'PYEOF'
+          import json, re
+          from pathlib import Path
+
+          covers = json.load(open("covers.json", encoding="utf-8"))
+          posts_dir = Path("posts")
+          updated = 0
+
+          for fpath in sorted(posts_dir.glob("*.html")):
+              slug = fpath.stem
+              entry = covers.get(slug)
+              if not entry or not entry.get("amazon"):
+                  continue
+              amazon_url = entry["amazon"]
+              html = fpath.read_text(encoding="utf-8", errors="ignore")
+              # Replace any existing amazon-btn href
+              new_html = re.sub(
+                  r'(<a [^>]*class="[^"]*amazon-btn[^"]*"[^>]*href=")[^"]*(")',
+                  r'\g<1>' + amazon_url + r'\2',
+                  html
+              )
+              # Also replace href="https://www.amazon.com/..." on buy buttons
+              new_html = re.sub(
+                  r'(href=")(https://www\.amazon\.com/[^"]*)(")([^>]*>(?:Buy on Amazon|View on Amazon|Amazon))',
+                  r'\g<1>' + amazon_url + r'\3\4',
+                  new_html
+              )
+              if new_html != html:
+                  fpath.write_text(new_html, encoding="utf-8")
+                  updated += 1
+
+          print(f"Updated Amazon links on {updated} post pages")
+          PYEOF
+
+      - name: Commit changes if any
         run: |
           git config user.name  "BookGateway Bot"
           git config user.email "bot@bookgateway.com"
-          git add covers.json
+          git add covers.json posts/
           if git diff --staged --quiet; then
-            echo "No changes to covers.json"
+            echo "No changes"
           else
             TOTAL=$(python3 -c "import json; d=json.load(open('covers.json')); print(sum(1 for v in d.values() if v.get('cover')))")
-            git commit -m "chore: update covers.json ($TOTAL covers found) [skip ci]"
+            ISBNS=$(python3 -c "import json; d=json.load(open('covers.json')); print(sum(1 for v in d.values() if v.get('isbn10')))")
+            git commit -m "chore: update covers.json ($TOTAL covers, $ISBNS ISBNs) [skip ci]"
             git push
           fi
 
       - name: Summary
         run: |
-          python3 - <<'EOF'
+          python3 - << 'EOF'
           import json
           try:
               d = json.load(open("covers.json"))
-              total = len(d)
-              found = sum(1 for v in d.values() if v.get("cover"))
+              total    = len(d)
+              found    = sum(1 for v in d.values() if v.get("cover"))
               non_book = sum(1 for v in d.values() if v.get("non_book"))
-              missing = total - found - non_book
+              isbn10   = sum(1 for v in d.values() if v.get("isbn10"))
+              direct   = sum(1 for v in d.values() if v.get("amazon","").startswith("https://www.amazon.com/dp/"))
+              missing  = total - found - non_book
               print(f"## Cover Generation Results")
               print(f"| Stat | Count |")
               print(f"|------|-------|")
               print(f"| Total processed | {total} |")
-              print(f"| Covers found ✓ | {found} |")
-              print(f"| Non-books (logo shown) | {non_book} |")
+              print(f"| Covers found | {found} |")
+              print(f"| Non-books | {non_book} |")
               print(f"| Still missing | {missing} |")
+              print(f"| ISBN-10 found | {isbn10} |")
+              print(f"| Direct Amazon /dp/ links | {direct} |")
           except Exception as e:
-              print(f"Could not read covers.json: {e}")
+              print(f"Error: {e}")
           EOF
