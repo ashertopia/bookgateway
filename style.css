@@ -75,8 +75,16 @@ nav a.nav-link.nav-all:hover { color: rgba(255,255,255,0.85); }
   flex-direction: column;
   transition: box-shadow 0.18s, transform 0.15s;
   cursor: pointer;
+  position: relative;
 }
 .review-card:hover { box-shadow: var(--shadow-lg); transform: translateY(-3px); }
+/* Entire card is clickable via the title link overlay */
+.card-title a::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
 
 /* Cover — top of card, fixed height */
 .card-cover {
