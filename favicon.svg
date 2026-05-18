@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Background -->
+  <rect width="32" height="32" rx="4" fill="#1a1a2e"/>
+  <!-- "B" red, "G" white -->
+  <text x="2" y="24" font-family="Georgia,'Times New Roman',serif" font-size="20" font-weight="bold" fill="#cc0000">B</text>
+  <text x="15" y="24" font-family="Georgia,'Times New Roman',serif" font-size="20" font-style="italic" fill="#ffffff">G</text>
+</svg>
