@@ -28,10 +28,9 @@ a:hover { text-decoration: underline; }
 img { max-width: 100%; height: auto; display: block; }
 
 /* ── Site Logo ──────────────────────────────────────────────── */
-.site-logo { display: inline-flex; align-items: baseline; gap: 0; text-decoration: none !important; line-height: 1; }
-.site-logo span:first-child { font-family: var(--font-serif); font-size: 1.7rem; font-weight: normal; color: var(--ink); letter-spacing: -0.5px; }
-.site-logo span:last-child  { font-family: var(--font-serif); font-size: 1.7rem; font-weight: normal; font-style: italic; color: var(--red); letter-spacing: -0.5px; }
-.site-logo:hover { text-decoration: none !important; }
+.site-logo { display: inline-flex; align-items: center; text-decoration: none !important; line-height: 1; }
+.site-logo img { height: 36px; width: auto; display: block; }
+.site-logo:hover { opacity: 0.85; text-decoration: none !important; }
 
 /* ── Header ─────────────────────────────────────────────────── */
 header { background: #fff; border-bottom: 2px solid var(--rule); position: sticky; top: 0; z-index: 100; }
