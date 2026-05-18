@@ -1,1 +1,5525 @@
-{}
+{
+  "1-girl-nation-cd-and-giveaway": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "10-ultimate-truths-girls-should-know-by-kampakis": {
+    "cover": "https://covers.openlibrary.org/b/id/11023109-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=10%20Ultimate%20Truths%20Girls%20Should%20Know&tag=bookgateway02-20"
+  },
+  "12-rules-for-life-by-peterson": {
+    "cover": "https://covers.openlibrary.org/b/id/8131760-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=12%20Rules%20for%20Life&tag=bookgateway02-20"
+  },
+  "17x23-showcase-1": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "2011-booky": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "2012-booky": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "2013-bookgateway-com-booky-awards": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "2014-bookgateway-com-booky-awards": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "2016-booky-awards": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "30-days-to-understanding-the-bible-by-anders": {
+    "cover": "https://covers.openlibrary.org/b/id/762774-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=30%20Days%20to%20Understanding%20the%20Bible&tag=bookgateway02-20"
+  },
+  "40-days-joyful-motherhood-humphrey": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=40%20Days%20to%20a%20Joyful%20Motherhood&tag=bookgateway02-20"
+  },
+  "40-loaves": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=40%20Loaves&tag=bookgateway02-20"
+  },
+  "4159": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "4570": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "4764": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "5-conversations": {
+    "cover": "https://covers.openlibrary.org/b/id/10214750-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=5%20Conversations%20You%20Must%20Have%20with%20Your%20Daughter&tag=bookgateway02-20"
+  },
+  "5-minute-apologetics": {
+    "cover": "https://covers.openlibrary.org/b/id/14349293-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=5%20Minute%20Apologetics&tag=bookgateway02-20"
+  },
+  "6606": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "6612": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "6617": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "7-secrets-to-an-awesome-marriage-by-kimberling-phd": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=7%20Secrets%20to%20an%20Awesome%20Marriage&tag=bookgateway02-20"
+  },
+  "7090-2": {
+    "cover": "https://covers.openlibrary.org/b/id/8643103-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Extracted&tag=bookgateway02-20"
+  },
+  "8-bit-bastards-level-2-by-mason": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=8-Bit%20Bastards%20Level%202&tag=bookgateway02-20"
+  },
+  "8-simple-tools-raising-great-kids-dr-cartmell": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=8%20Simple%20Tools%20for%20Raising%20Great%20Kids&tag=bookgateway02-20"
+  },
+  "99-ways-to-build-job-security": {
+    "cover": "https://covers.openlibrary.org/b/id/9260823-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=99%20Ways%20to%20Build%20Job%20Security&tag=bookgateway02-20"
+  },
+  "a-beautiful-truth-by-mcadams": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Beautiful%20Truth&tag=bookgateway02-20"
+  },
+  "a-bride-for-keeps-by-melissa-jagears": {
+    "cover": "https://covers.openlibrary.org/b/id/8122712-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Bride%20for%20Keeps&tag=bookgateway02-20"
+  },
+  "a-call-to-arms-by-p-g-nagle": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Call%20to%20Arms&tag=bookgateway02-20"
+  },
+  "a-captive-heart": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Captive%20Heart&tag=bookgateway02-20"
+  },
+  "a-chance-in-the-world": {
+    "cover": "https://covers.openlibrary.org/b/id/9048651-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Chance%20in%20the%20World&tag=bookgateway02-20"
+  },
+  "a-christmas-gift-for-rose-by-tricia-goyer": {
+    "cover": "https://covers.openlibrary.org/b/id/7623565-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Christmas%20Gift%20for%20Rose&tag=bookgateway02-20"
+  },
+  "a-connecticut-yankee-in-king-arthurs-court-by-twain": {
+    "cover": "https://covers.openlibrary.org/b/id/9168732-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Connecticut%20Yankee%20in%20King%20Arthur%E2%80%99s%20Court&tag=bookgateway02-20"
+  },
+  "a-daughters-walk": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Daughter%27s%20Walk&tag=bookgateway02-20"
+  },
+  "a-different-dream-for-my-child": {
+    "cover": "https://covers.openlibrary.org/b/id/11620032-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Different%20Dream%20for%20My%20Child&tag=bookgateway02-20"
+  },
+  "a-good-and-perfect-gift": {
+    "cover": "https://covers.openlibrary.org/b/id/8254381-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Good%20and%20Perfect%20Gift&tag=bookgateway02-20"
+  },
+  "a-heart-most-worthy-by-siri-mitchell": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Heart%20Most%20Worthy&tag=bookgateway02-20"
+  },
+  "a-hearts-home-by-laura-j-marshall": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Heart%E2%80%99s%20Home&tag=bookgateway02-20"
+  },
+  "a-home-at-trails-end-by-melody-carlson": {
+    "cover": "https://covers.openlibrary.org/b/id/8119464-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Home%20at%20Trail%E2%80%99s%C2%A0End&tag=bookgateway02-20"
+  },
+  "a-home-in-drayton-valley": {
+    "cover": "https://covers.openlibrary.org/b/id/8265365-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Home%20in%20Drayton%20Valley&tag=bookgateway02-20"
+  },
+  "a-hopeful-heart-by-amy-clipston": {
+    "cover": "https://covers.openlibrary.org/b/id/8209228-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Hopeful%20Heart&tag=bookgateway02-20"
+  },
+  "a-hopeful-heart-by-clipston": {
+    "cover": "https://covers.openlibrary.org/b/id/11719617-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Hopeful%20Heart&tag=bookgateway02-20"
+  },
+  "a-lasting-impression": {
+    "cover": "https://covers.openlibrary.org/b/id/8193726-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Lasting%20Impression&tag=bookgateway02-20"
+  },
+  "a-marriage-carol": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Marriage%20Carol&tag=bookgateway02-20"
+  },
+  "a-match-made-in-texas-a-novella-collection-by-mary-connealy-karen-witemeyer-and-": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Match%20Made%20in%20Texas%3A%20A%20Novella%20Collection&tag=bookgateway02-20"
+  },
+  "a-match-of-wits-by-jen-turano": {
+    "cover": "https://covers.openlibrary.org/b/id/8999818-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Match%20of%20Wits&tag=bookgateway02-20"
+  },
+  "a-measure-of-mercy-by-lauraine-snelling": {
+    "cover": "https://covers.openlibrary.org/b/id/8273342-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Measure%20of%20Mercy&tag=bookgateway02-20"
+  },
+  "a-most-unsuitable-match-by-stephanie-grace-whitson": {
+    "cover": "https://covers.openlibrary.org/b/id/15020793-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Most%20Unsuitable%20Match&tag=bookgateway02-20"
+  },
+  "a-noble-groom": {
+    "cover": "https://covers.openlibrary.org/b/id/7754693-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Noble%20Groom&tag=bookgateway02-20"
+  },
+  "a-once-crowded-sky": {
+    "cover": "https://covers.openlibrary.org/b/id/14558795-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Once%20Crowded%20Sky&tag=bookgateway02-20"
+  },
+  "a-place-to-call-home-by-merrillee-whren": {
+    "cover": "https://covers.openlibrary.org/b/id/11227057-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Place%20to%20Call%20Home&tag=bookgateway02-20"
+  },
+  "a-plain-disappearance-by-amanda-flower": {
+    "cover": "https://covers.openlibrary.org/b/id/13003240-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Plain%20Disappearance&tag=bookgateway02-20"
+  },
+  "a-plain-scandal-by-amanda-flower": {
+    "cover": "https://covers.openlibrary.org/b/id/14653500-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Plain%20Scandal&tag=bookgateway02-20"
+  },
+  "a-promise-for-miriam": {
+    "cover": "https://covers.openlibrary.org/b/id/9462732-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Promise%20for%20Miriam&tag=bookgateway02-20"
+  },
+  "a-reluctant-queen": {
+    "cover": "https://covers.openlibrary.org/b/id/8573411-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Reluctant%20Queen&tag=bookgateway02-20"
+  },
+  "a-rush-of-wings": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "a-season-for-tending": {
+    "cover": "https://covers.openlibrary.org/b/id/9833954-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Season%20for%20Tending&tag=bookgateway02-20"
+  },
+  "a-season-of-tending": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Season%20of%20Tending&tag=bookgateway02-20"
+  },
+  "a-sensible-arrangement-by-tracie-peterson": {
+    "cover": "https://covers.openlibrary.org/b/id/12671864-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Sensible%20Arrangement&tag=bookgateway02-20"
+  },
+  "a-shining-light-by-judith-miller": {
+    "cover": "https://covers.openlibrary.org/b/id/7934920-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Shining%20Light&tag=bookgateway02-20"
+  },
+  "a-shot-of-faith-to-the-head": {
+    "cover": "https://covers.openlibrary.org/b/id/7248819-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Shot%20of%20Faith%20to%20the%20Head&tag=bookgateway02-20"
+  },
+  "a-simple-change-by-judith-miller": {
+    "cover": "https://covers.openlibrary.org/b/id/10333612-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Simple%20Change&tag=bookgateway02-20"
+  },
+  "a-trap-for-the-potentate-by-atamanov": {
+    "cover": "https://covers.openlibrary.org/b/id/9219569-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Trap%20for%20the%20Potentate&tag=bookgateway02-20"
+  },
+  "a-womans-walk-in-grace": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Woman%27s%20Walk%20In%20Grace&tag=bookgateway02-20"
+  },
+  "a-year-with-g-k-chesterton": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Year%20with%20G.K.%20Chesterton&tag=bookgateway02-20"
+  },
+  "a-young-wife": {
+    "cover": "https://covers.openlibrary.org/b/id/8311136-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Young%20Wife&tag=bookgateway02-20"
+  },
+  "abhorsen-the-abhorsen-trilogy-by-garth-nix": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "abolition-man-b-lewis": {
+    "cover": "https://covers.openlibrary.org/b/id/6379595-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Abolition%20of%20Man&tag=bookgateway02-20"
+  },
+  "action-bible": {
+    "cover": "https://covers.openlibrary.org/b/id/6939389-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Action%20Bible&tag=bookgateway02-20"
+  },
+  "admiral-by-danker": {
+    "cover": "https://covers.openlibrary.org/b/id/13072049-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Admiral&tag=bookgateway02-20"
+  },
+  "after-the-fall-by-kylie-ladd": {
+    "cover": "https://covers.openlibrary.org/b/id/7331680-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=After%20The%20Fall&tag=bookgateway02-20"
+  },
+  "after-the-snow-falls-by-carey-jane-clark": {
+    "cover": "https://covers.openlibrary.org/b/id/12035995-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=After%20the%20Snow%20Falls&tag=bookgateway02-20"
+  },
+  "against-the-tide": {
+    "cover": "https://covers.openlibrary.org/b/id/10410679-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Against%20The%20Tide&tag=bookgateway02-20"
+  },
+  "agent-stars-scalzi": {
+    "cover": "https://covers.openlibrary.org/b/id/876292-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Agent%20to%20the%20Stars&tag=bookgateway02-20"
+  },
+  "alexis-arizona-escape": {
+    "cover": "https://covers.openlibrary.org/b/id/8317794-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Alexis%20and%20the%20Arizona%20Escapade&tag=bookgateway02-20"
+  },
+  "aliens-fast-track-to-heaven": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Aliens%3A%20Fast%20Track%20to%20Heaven&tag=bookgateway02-20"
+  },
+  "all-fall-down-by-ally-carter": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "all-for-a-story-by-allison-pittman": {
+    "cover": "https://covers.openlibrary.org/b/id/8179502-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=All%20For%20a%20Story&tag=bookgateway02-20"
+  },
+  "all-in-by-batterson": {
+    "cover": "https://covers.openlibrary.org/b/id/8968769-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=All%20In&tag=bookgateway02-20"
+  },
+  "all-things-bright-and-strange-by-markert": {
+    "cover": "https://covers.openlibrary.org/b/id/13796403-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=All%20Things%20Bright%20And%20Strange&tag=bookgateway02-20"
+  },
+  "all-things-hidden-by-tracie-peterson-kimberley-woodhouse": {
+    "cover": "https://covers.openlibrary.org/b/id/8049868-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=All%20Things%20Hidden&tag=bookgateway02-20"
+  },
+  "almost-true-story": {
+    "cover": "https://covers.openlibrary.org/b/id/2364763-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Almost%20True%20Story%20of%20Ryan%20Fisher&tag=bookgateway02-20"
+  },
+  "along-wooded-paths": {
+    "cover": "https://covers.openlibrary.org/b/id/11587503-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Along%20Wooded%20Paths&tag=bookgateway02-20"
+  },
+  "alvaro-zinos-amaro": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "amazing-screw-on-head": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Amazing%20Screw-On%20Head&tag=bookgateway02-20"
+  },
+  "amped-by-wilson": {
+    "cover": "https://covers.openlibrary.org/b/id/9071058-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Amped&tag=bookgateway02-20"
+  },
+  "an-american-spy": {
+    "cover": "https://covers.openlibrary.org/b/id/8093656-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=An%20American%20Spy&tag=bookgateway02-20"
+  },
+  "an-unlikely-suitor-by-nancy-moser": {
+    "cover": "https://covers.openlibrary.org/b/id/12711417-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=An%20Unlikely%20Suitor&tag=bookgateway02-20"
+  },
+  "angel-eyes": {
+    "cover": "https://covers.openlibrary.org/b/id/12703886-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Angel%20Eyes&tag=bookgateway02-20"
+  },
+  "angels": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Angels&tag=bookgateway02-20"
+  },
+  "animal-man-volume-1": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Animal%20Man%20Volume%201%3A%20The%20Hunt&tag=bookgateway02-20"
+  },
+  "apocalypse-z-beginning-end-loureiro": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Apocalypse%20Z%3A%20The%20Beginning%20of%20the%20End&tag=bookgateway02-20"
+  },
+  "aquaman": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Aquaman%20Vol.%201&tag=bookgateway02-20"
+  },
+  "arms-of-love": {
+    "cover": "https://covers.openlibrary.org/b/id/11590414-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Arms%20of%20Love&tag=bookgateway02-20"
+  },
+  "art-of-mass-effect": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Art%20of%20the%20Mass%20Effect%20Universe&tag=bookgateway02-20"
+  },
+  "asher-boys-bible-app-for-kids-series": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-dragon-videos-2019": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-fish-fish-squish": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-80-days": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-angry-birds-2": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-bad-traffic": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-blocky-roads": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-brain-teaser": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-civ-revolution-2": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-crazy-tanks": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-crossy-road": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-deal-or-no-deal": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-earn-to-die": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-educational-games": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-jetpack-joyride": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-lego-worlds": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-minecraft-card-game": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-minecraft-timed-labyrinth": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-nba-jam-classic-lakers": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-pixel-heroes": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-princess-bride": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-qwop": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-shadowblade": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-ski-safari-adventure-time": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-snotling-fling": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-sonic-dash": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-space-explorer": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-thomas-musical-day": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-play-uebs-on-pc": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-pokemon-go-august-2017": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-pokemon-go-july-11-2017": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-pokemon-go-july-24-2017": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-pokemon-go-september-2017": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-pokemon-go-spring-2017": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-review-arbi": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-watch-angry-birds-2": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-watch-dragonslayer": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-watch-fox-and-the-hound": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-watch-karate-kid": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-watch-rampage": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-watch-shazam": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-boys-watch-we-bought-a-zoo": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-dad-opens-eso-dwarven-crates": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-dad-plays-elder-scrolls-online": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-dad-plays-hey-mr-president": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-dad-plays-retro-bowl": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-dad-plays-solitaire-grand-harvest": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-dad-reviews-canary-security-system": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-dad-reviews-cbs-franchise-hockey": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-dad-reviews-football-gm": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-dad-unboxes-amazon-luna": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-dad-watches-avengers-endgame": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "asher-friends-build-lego-star-wars-echo-base": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "ashers-play-adventure-time-fluxx": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "ashers-play-five-nights-at-freddys": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "ashers-play-jenga-quake": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "ashers-play-star-trek-trexels": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "ask-me-to-stay-by-kade": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Ask%20Me%20to%20Stay&tag=bookgateway02-20"
+  },
+  "at-the-edge-of-a-dark-forest": {
+    "cover": "https://covers.openlibrary.org/b/id/11724110-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=At%20the%20Edge%20of%20a%20Dark%20Forest&tag=bookgateway02-20"
+  },
+  "attack-of-the-arena": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Imagination%20Station%3A%20Attack%20of%20the%20Arena&tag=bookgateway02-20"
+  },
+  "attack1": {
+    "cover": "https://covers.openlibrary.org/b/id/7471058-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Attack%20on%20Titan%201&tag=bookgateway02-20"
+  },
+  "audrey-bunny-giveaway": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "avenged": {
+    "cover": "https://covers.openlibrary.org/b/id/7580226-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Avenged&tag=bookgateway02-20"
+  },
+  "b-is-for-buffleheads": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=B%20is%20for%20Bufflehead&tag=bookgateway02-20"
+  },
+  "babys-in-black": {
+    "cover": "https://covers.openlibrary.org/b/id/12177652-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Baby%27s%20in%20Black&tag=bookgateway02-20"
+  },
+  "back-to-work": {
+    "cover": "https://covers.openlibrary.org/b/id/9942981-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Back%20to%20Work&tag=bookgateway02-20"
+  },
+  "bad-radio-the-emergent-earth-by-michael-langlois": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "band-of-sisters": {
+    "cover": "https://covers.openlibrary.org/b/id/11593298-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Band%20of%20Sisters&tag=bookgateway02-20"
+  },
+  "batman-vol-1-the-court-of-owls": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Batman%20Vol.%201%3A%20The%20Court%20of%20Owls&tag=bookgateway02-20"
+  },
+  "battle-for-cannibal-island": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Battle%20for%20Cannibal%20Island&tag=bookgateway02-20"
+  },
+  "batwoman": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Batwoman%20Vol.%201%3A%20Hydrology&tag=bookgateway02-20"
+  },
+  "beauty-beast-2017-review": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Beauty%20and%20the%20Beast%20%282017%29%20Review&tag=bookgateway02-20"
+  },
+  "beckon": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Beckon&tag=bookgateway02-20"
+  },
+  "becoming-a-woman-of-destiny": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Becoming%20A%20Woman%20Of%20Destiny&tag=bookgateway02-20"
+  },
+  "becoming-the-talbot-sisters-by-linden": {
+    "cover": "https://covers.openlibrary.org/b/id/12401687-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Becoming%20the%20Talbot%20Sisters&tag=bookgateway02-20"
+  },
+  "beer-a-cookbook": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Beer%20-%20A%20Cookbook&tag=bookgateway02-20"
+  },
+  "before-i-fall-review": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Before%20I%20Fall%20Review&tag=bookgateway02-20"
+  },
+  "beforever-a-brighter-tomorrow-by-mcdonald": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Beforever%3A%20A%20Brighter%20Tomorrow&tag=bookgateway02-20"
+  },
+  "beforever-full-speed-ahead-by-tripp": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Beforever%3A%20Full%20Speed%20Ahead&tag=bookgateway02-20"
+  },
+  "befriend-by-sauls": {
+    "cover": "https://covers.openlibrary.org/b/id/8893957-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Befriend&tag=bookgateway02-20"
+  },
+  "beguiled-by-deeanne-gist-and-j-mark-bertrand": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Beguiled&tag=bookgateway02-20"
+  },
+  "beguiled-by-deeanne-gist-j-mark-bertrand": {
+    "cover": "https://covers.openlibrary.org/b/id/7926900-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Beguiled&tag=bookgateway02-20"
+  },
+  "behind-the-veils-of-yemen": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Behind%20the%20Veils%20of%20Yemen&tag=bookgateway02-20"
+  },
+  "being-esther": {
+    "cover": "https://covers.openlibrary.org/b/id/8184039-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Being%20Esther&tag=bookgateway02-20"
+  },
+  "beirut-39": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Beirut%2039%20edited&tag=bookgateway02-20"
+  },
+  "best-american-comics-2010": {
+    "cover": "https://covers.openlibrary.org/b/id/6597062-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Best%20American%20Comics%202010&tag=bookgateway02-20"
+  },
+  "best-american-comics-2011-edited-by-alison-bechdel": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Best%20American%20Comics%202011%20edited&tag=bookgateway02-20"
+  },
+  "between-sundays-by-karen-kingsbury": {
+    "cover": "https://covers.openlibrary.org/b/id/1166292-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Between%20Sunday%27s&tag=bookgateway02-20"
+  },
+  "beyond-edward-snowden-by-dorazio-and-lauer": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Beyond%3A%20Edward%20Snowden&tag=bookgateway02-20"
+  },
+  "beyond-molasses-creek": {
+    "cover": "https://covers.openlibrary.org/b/id/12455833-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Beyond%20Molasses%20Creek&tag=bookgateway02-20"
+  },
+  "beyond-the-valley-of-thorns": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "biblical-hebrew-by-alef-press": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Biblical%20Hebrew&tag=bookgateway02-20"
+  },
+  "big-book-of-american-trivia": {
+    "cover": "https://covers.openlibrary.org/b/id/638506-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Big%20Book%20of%20American%20Trivia&tag=bookgateway02-20"
+  },
+  "big-nate-strikes-again": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Big%20Nate%20Strikes%20Again&tag=bookgateway02-20"
+  },
+  "black-city-saint-by-knaak": {
+    "cover": "https://covers.openlibrary.org/b/id/15157727-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Black%20City%20Saint&tag=bookgateway02-20"
+  },
+  "black-eyed-susans": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "black-guard-smith": {
+    "cover": "https://covers.openlibrary.org/b/id/11976565-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Black%20Guard&tag=bookgateway02-20"
+  },
+  "blending-time": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Blending%20Time&tag=bookgateway02-20"
+  },
+  "blessed-misfits-hanson": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Blessed%20are%20the%20Misfits&tag=bookgateway02-20"
+  },
+  "blessing-by-lyn-cote": {
+    "cover": "https://covers.openlibrary.org/b/id/14445952-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Blessing&tag=bookgateway02-20"
+  },
+  "blood-covenant-2": {
+    "cover": "https://covers.openlibrary.org/b/id/9928693-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Blood%20Covenant&tag=bookgateway02-20"
+  },
+  "blood-covenant": {
+    "cover": "https://covers.openlibrary.org/b/id/9928693-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Blood%20Covenant&tag=bookgateway02-20"
+  },
+  "blossom-street-brides-by-debbie-macomber": {
+    "cover": "https://covers.openlibrary.org/b/id/7819683-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Blossom%20Street%20Brides&tag=bookgateway02-20"
+  },
+  "blue-to-remember-by-suzanne-d-williams": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Blue%20to%20Remember&tag=bookgateway02-20"
+  },
+  "bound-for-glory": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Bound%20For%20Glory&tag=bookgateway02-20"
+  },
+  "brain-in-love": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=This%20is%20Your%20Brain%20in%20Love&tag=bookgateway02-20"
+  },
+  "branded": {
+    "cover": "https://covers.openlibrary.org/b/id/11598016-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Branded&tag=bookgateway02-20"
+  },
+  "breath-of-angel": {
+    "cover": "https://covers.openlibrary.org/b/id/9587069-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Breath%20of%20Angel&tag=bookgateway02-20"
+  },
+  "bullet": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Bullet&tag=bookgateway02-20"
+  },
+  "bullies-by-shapiro": {
+    "cover": "https://covers.openlibrary.org/b/id/10713459-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Bullies&tag=bookgateway02-20"
+  },
+  "buried-alive": {
+    "cover": "https://covers.openlibrary.org/b/id/9507273-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Buried%20Alive&tag=bookgateway02-20"
+  },
+  "but-i-love-him": {
+    "cover": "https://covers.openlibrary.org/b/id/14833578-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=But%20I%20Love%20Him&tag=bookgateway02-20"
+  },
+  "calico-spy-by-brownley": {
+    "cover": "https://covers.openlibrary.org/b/id/12717352-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Calico%20Spy&tag=bookgateway02-20"
+  },
+  "called-to-worship": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Called%20to%20Worship&tag=bookgateway02-20"
+  },
+  "camp-club-girls-sydneys-d-c-discovery-by-jean-fischer": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "candace-patton-qa-video-wizardworld-comic-con-nashville": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "candle-bedtime-bible-by-williamson-and-tappin": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Candle%20Bedtime%20Bible&tag=bookgateway02-20"
+  },
+  "candlewax": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "cant-wait-willow": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Can%27t%20Wait%20Willow&tag=bookgateway02-20"
+  },
+  "captains-daughter-delamere": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Captain%E2%80%99s%20Daughter&tag=bookgateway02-20"
+  },
+  "captive-heart": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Captive%20Heart&tag=bookgateway02-20"
+  },
+  "cassidys-guide-to-everyday-etiquette-and-obfuscation-by-stauffacher": {
+    "cover": "https://covers.openlibrary.org/b/id/10737825-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Cassidy%27s%20Guide%20to%20Everyday%20Etiquette%20%28and%20Obfuscation%29&tag=bookgateway02-20"
+  },
+  "cast-of-characters": {
+    "cover": "https://covers.openlibrary.org/b/id/8292616-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Cast%20of%20Characters&tag=bookgateway02-20"
+  },
+  "casting-shadows": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "castle-on-the-rise-by-cambron": {
+    "cover": "https://covers.openlibrary.org/b/id/8802549-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Castle%20on%20the%20Rise&tag=bookgateway02-20"
+  },
+  "catch-the-wind-my-journey-with-caroline-american-girl-beforever-series-caroline": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Beforever%3A%20Catch%20the%20Wind&tag=bookgateway02-20"
+  },
+  "catching-fire": {
+    "cover": "https://covers.openlibrary.org/b/id/12646539-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Catching%20Fire&tag=bookgateway02-20"
+  },
+  "catwoman": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Catwoman%20Vol.%201&tag=bookgateway02-20"
+  },
+  "ceb-deep-blue-kids-bible": {
+    "cover": "https://covers.openlibrary.org/b/id/12430044-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=CEB%20Deep%20Blue%20Kid%27s%20Bible&tag=bookgateway02-20"
+  },
+  "ceb-with-apocrypha": {
+    "cover": "https://covers.openlibrary.org/b/id/7569637-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Common%20English%20Bible%20with%20the%20Apocrypha&tag=bookgateway02-20"
+  },
+  "cellar-doors": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Cellar%20Doors&tag=bookgateway02-20"
+  },
+  "chasing-francis-by-ian-morgan-cron": {
+    "cover": "https://covers.openlibrary.org/b/id/831832-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Chasing%20Francis&tag=bookgateway02-20"
+  },
+  "child-of-mine-by-david-beverly-lewis": {
+    "cover": "https://covers.openlibrary.org/b/id/8451697-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Child%20of%20Mine&tag=bookgateway02-20"
+  },
+  "chimichanga": {
+    "cover": "https://covers.openlibrary.org/b/id/8817438-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Chimichanga&tag=bookgateway02-20"
+  },
+  "christmas-ball": {
+    "cover": "https://covers.openlibrary.org/b/id/6608842-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Two%20Tickets%20to%20the%20Christmas%20Ball&tag=bookgateway02-20"
+  },
+  "christmas-singing": {
+    "cover": "https://covers.openlibrary.org/b/id/10406275-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Christmas%20Singing&tag=bookgateway02-20"
+  },
+  "christmas-stories": {
+    "cover": "https://covers.openlibrary.org/b/id/10071799-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Christmas%20Stories&tag=bookgateway02-20"
+  },
+  "chuggie": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "cinco-de-mayo-by-michael-j-martineck": {
+    "cover": "https://covers.openlibrary.org/b/id/11604425-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Cinco%20De%20Mayo&tag=bookgateway02-20"
+  },
+  "cinder": {
+    "cover": "https://covers.openlibrary.org/b/id/6998634-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Cinder&tag=bookgateway02-20"
+  },
+  "circumnavigated-fairyland": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "city-on-our-knees": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=City%20on%20Our%20Knees&tag=bookgateway02-20"
+  },
+  "cleaning-house": {
+    "cover": "https://covers.openlibrary.org/b/id/7268906-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Cleaning%20House&tag=bookgateway02-20"
+  },
+  "clone-10": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Clone%20%2310&tag=bookgateway02-20"
+  },
+  "closer": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Closer&tag=bookgateway02-20"
+  },
+  "coffee-tea-and-holy-water-by-hudson": {
+    "cover": "https://covers.openlibrary.org/b/id/10992424-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Coffee%2C%20Tea%2C%20and%20Holy%20Water&tag=bookgateway02-20"
+  },
+  "cold-wind": {
+    "cover": "https://covers.openlibrary.org/b/id/6684802-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Cold%20Wind&tag=bookgateway02-20"
+  },
+  "coldwater": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Coldwater&tag=bookgateway02-20"
+  },
+  "comic-con-nashville-friday-interviews": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "common-english-bible": {
+    "cover": "https://covers.openlibrary.org/b/id/7714926-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Common%20English%20Bible&tag=bookgateway02-20"
+  },
+  "company-man": {
+    "cover": "https://covers.openlibrary.org/b/id/9825428-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Company%20Man&tag=bookgateway02-20"
+  },
+  "cooking-up-love-by-cynthia-hickey": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Cooking%20Up%20Love&tag=bookgateway02-20"
+  },
+  "cottonwood-summer-45": {
+    "cover": "https://covers.openlibrary.org/b/id/15190890-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Cottonwood%20Summer%20%2745&tag=bookgateway02-20"
+  },
+  "courting-cate-by-gould": {
+    "cover": "https://covers.openlibrary.org/b/id/9683311-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Courting%20Cate&tag=bookgateway02-20"
+  },
+  "covenant-child": {
+    "cover": "https://covers.openlibrary.org/b/id/1471435-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Covenant%20Child&tag=bookgateway02-20"
+  },
+  "crave": {
+    "cover": "https://covers.openlibrary.org/b/id/9784658-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Crave&tag=bookgateway02-20"
+  },
+  "crazy-dangerous": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Crazy%20Dangerous&tag=bookgateway02-20"
+  },
+  "crazy-stories": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Crazy%20Stories%20Sane%20God&tag=bookgateway02-20"
+  },
+  "creative-slow-cooker-meals": {
+    "cover": "https://covers.openlibrary.org/b/id/14356162-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Creative%20Slow-Cooker%20Meals&tag=bookgateway02-20"
+  },
+  "critical-pursuit-by-janice-cantore": {
+    "cover": "https://covers.openlibrary.org/b/id/8918866-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Critical%20Pursuit&tag=bookgateway02-20"
+  },
+  "crosscut": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Crosscut&tag=bookgateway02-20"
+  },
+  "crossed": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "dance-with-dragons": {
+    "cover": "https://covers.openlibrary.org/b/id/11298743-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Dance%20with%20Dragons&tag=bookgateway02-20"
+  },
+  "danger-girl-revolver-1": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Danger%20Girl%3A%20Revolver%20%231&tag=bookgateway02-20"
+  },
+  "dark-blood-smith": {
+    "cover": "https://covers.openlibrary.org/b/id/10160125-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Dark%20Blood&tag=bookgateway02-20"
+  },
+  "dark-hills-divide": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "darkness-becomes-her": {
+    "cover": "https://covers.openlibrary.org/b/id/7064451-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Darkness%20Becomes%20Her&tag=bookgateway02-20"
+  },
+  "darling-jasmine": {
+    "cover": "https://covers.openlibrary.org/b/id/828796-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Darling%20Jasmine&tag=bookgateway02-20"
+  },
+  "darth-vader-and-friends-by-brown": {
+    "cover": "https://covers.openlibrary.org/b/id/12722599-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Darth%20Vader%20and%20Friends&tag=bookgateway02-20"
+  },
+  "date-your-wife": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Date%20Your%20Wife&tag=bookgateway02-20"
+  },
+  "daughters-night-sky-runyan": {
+    "cover": "https://covers.openlibrary.org/b/id/9214561-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Daughters%20of%20the%20Night%20Sky&tag=bookgateway02-20"
+  },
+  "david-trotter": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "daylight-on-iron-mountain-by-wingrove": {
+    "cover": "https://covers.openlibrary.org/b/id/13267227-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Daylight%20on%20Iron%20Mountain&tag=bookgateway02-20"
+  },
+  "dead-ringer-by-v-b-tenery-2": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Dead%20Ringer&tag=bookgateway02-20"
+  },
+  "dead-six-by-correia-kupari": {
+    "cover": "https://covers.openlibrary.org/b/id/8448575-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Dead%20Six&tag=bookgateway02-20"
+  },
+  "deadly-ties": {
+    "cover": "https://covers.openlibrary.org/b/id/6683461-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Deadly%20Ties&tag=bookgateway02-20"
+  },
+  "death-on-lindisfarne-by-fay-sampson": {
+    "cover": "https://covers.openlibrary.org/b/id/7685181-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Death%20on%20Lindisfarne&tag=bookgateway02-20"
+  },
+  "deep-black-sea-by-david-m-salkin": {
+    "cover": "https://covers.openlibrary.org/b/id/14457181-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Deep%20Black%20Sea&tag=bookgateway02-20"
+  },
+  "deja-vu-bride-by-debra-ullrick": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Deja%20Vu%20Bride&tag=bookgateway02-20"
+  },
+  "deja-vu-card-game": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "dejah-thoris": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Dejah%20Thoris%20and%20the%20White%20Apes%20of%20Mars&tag=bookgateway02-20"
+  },
+  "delayed-justice-by-putnam": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Delayed%20Justice&tag=bookgateway02-20"
+  },
+  "department-zero-crilley": {
+    "cover": "https://covers.openlibrary.org/b/id/14457549-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Department%20Zero&tag=bookgateway02-20"
+  },
+  "destiny-binds": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "devastator-11-otaku": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Devastator%20%2311%3A%20Otaku&tag=bookgateway02-20"
+  },
+  "devil-all-the-time": {
+    "cover": "https://covers.openlibrary.org/b/id/9295250-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Devil%20All%20the%20Time&tag=bookgateway02-20"
+  },
+  "devils-kiss": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Devil%27s%20Kiss&tag=bookgateway02-20"
+  },
+  "deweys-nine-lives": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Dewey%27s%20Nine%20Lives&tag=bookgateway02-20"
+  },
+  "discriminations-and-disparities-by-sowell": {
+    "cover": "https://covers.openlibrary.org/b/id/9167492-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Discriminations%20and%20Disparities&tag=bookgateway02-20"
+  },
+  "disestablishment-of-paradise-by-mann": {
+    "cover": "https://covers.openlibrary.org/b/id/7645863-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Disestablishment%20of%20Paradise&tag=bookgateway02-20"
+  },
+  "divine-dungeon-1-4-by-krout": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Divine%20Dungeon%201-4&tag=bookgateway02-20"
+  },
+  "do-hard-things": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Start%20Here&tag=bookgateway02-20"
+  },
+  "does-god-exist": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Does%20God%20Exist%3F%20from%20Focus%20on%20the%20Family&tag=bookgateway02-20"
+  },
+  "dogfight-a-love-story-by-matt-burgess": {
+    "cover": "https://covers.openlibrary.org/b/id/6593863-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Dogfight%2C%20A%20Love%20Story&tag=bookgateway02-20"
+  },
+  "doll-bones-by-black": {
+    "cover": "https://covers.openlibrary.org/b/id/8188147-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Doll%20Bones&tag=bookgateway02-20"
+  },
+  "down-fall-by-suzanne-d-williams": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Down%20Fall&tag=bookgateway02-20"
+  },
+  "down-in-flames-by-kade": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Down%20in%20Flames&tag=bookgateway02-20"
+  },
+  "dragons-of-chiril": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Dragons%20of%20Chiril&tag=bookgateway02-20"
+  },
+  "dreamer": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Dreamer%2C%20Volume%201&tag=bookgateway02-20"
+  },
+  "dressmaker": {
+    "cover": "https://covers.openlibrary.org/b/id/6608058-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Dressmaker&tag=bookgateway02-20"
+  },
+  "dug-down-deep": {
+    "cover": "https://covers.openlibrary.org/b/id/12189596-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Dug%20Down%20Deep&tag=bookgateway02-20"
+  },
+  "dukes-of-hazzard-reunion-qa-video-wizardworld-comic-con-nashville": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "earth-awakens-by-card-and-johnston": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Earth%20Awakens&tag=bookgateway02-20"
+  },
+  "earth-unaware": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Earth%20Unaware&tag=bookgateway02-20"
+  },
+  "ebb-tide-lewis": {
+    "cover": "https://covers.openlibrary.org/b/id/8243230-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Ebb%20Tide&tag=bookgateway02-20"
+  },
+  "ebb-tide": {
+    "cover": "https://covers.openlibrary.org/b/id/8243230-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Ebb-Tide&tag=bookgateway02-20"
+  },
+  "echoes": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Echoes&tag=bookgateway02-20"
+  },
+  "eeny-meeny": {
+    "cover": "https://covers.openlibrary.org/b/id/8469292-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Eeny%20Meeny&tag=bookgateway02-20"
+  },
+  "eighteen-acres": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Eighteen%20Acres&tag=bookgateway02-20"
+  },
+  "embassytown": {
+    "cover": "https://covers.openlibrary.org/b/id/7276258-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Embassytown&tag=bookgateway02-20"
+  },
+  "emerald-atlas-give-away": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Give%20Away%3A%20The%20Emerald%20Atlas&tag=bookgateway02-20"
+  },
+  "emerald-atlas": {
+    "cover": "https://covers.openlibrary.org/b/id/6744271-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Emerald%20Atlas&tag=bookgateway02-20"
+  },
+  "empires-by-hillsong-united": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "enhancer-by-kane": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Enhancer&tag=bookgateway02-20"
+  },
+  "escape-to-the-hiding": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Escape%20to%20the%20Hiding%20Place&tag=bookgateway02-20"
+  },
+  "esv-mens-devotional-bible": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=ESV%20Men%27s%20Devotional%20Bible&tag=bookgateway02-20"
+  },
+  "eternally-bound-by-davies": {
+    "cover": "https://covers.openlibrary.org/b/id/10457073-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Eternally%20Bound&tag=bookgateway02-20"
+  },
+  "eternity-falls": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Eternity%20Falls&tag=bookgateway02-20"
+  },
+  "everybody-always-by-goff": {
+    "cover": "https://covers.openlibrary.org/b/id/9185954-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Everybody%2C%20Always&tag=bookgateway02-20"
+  },
+  "ex-heroes-by-clines": {
+    "cover": "https://covers.openlibrary.org/b/id/7704430-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Ex%20Heroes&tag=bookgateway02-20"
+  },
+  "exhale-by-plumb": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "expats": {
+    "cover": "https://covers.openlibrary.org/b/id/8114432-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Expats&tag=bookgateway02-20"
+  },
+  "explore-meteor-crater-and-petrified-forest-dvd-and-study-guide": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Explore%20Meteor%20Crater%20and%20Petrified%20Forest%20DVD%20and%20Study%20Guide&tag=bookgateway02-20"
+  },
+  "exposure-by-askew-and-helmes": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "fahrenheit-451-by-bradbury": {
+    "cover": "https://covers.openlibrary.org/b/id/12993656-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Fahrenheit%20451&tag=bookgateway02-20"
+  },
+  "faith-of-my-fathers": {
+    "cover": "https://covers.openlibrary.org/b/id/170654-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Faith%20of%20My%20Fathers&tag=bookgateway02-20"
+  },
+  "faith-of-our-fathers-by-pure-flix-entertainment": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Faith%20of%20Our%20Fathers&tag=bookgateway02-20"
+  },
+  "faithful": {
+    "cover": "https://covers.openlibrary.org/b/id/6583083-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Faithful&tag=bookgateway02-20"
+  },
+  "falcon-down-by-cobb": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Falcon%20Down&tag=bookgateway02-20"
+  },
+  "false-witness": {
+    "cover": "https://covers.openlibrary.org/b/id/8213787-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=False%20Witness&tag=bookgateway02-20"
+  },
+  "family-christian-store-giveaway": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "famous-daves-bar-b-cue-party-cookbook": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Famous%20Dave%27s%20Bar-B-Cue%20Party%20Cookbook&tag=bookgateway02-20"
+  },
+  "farm-fresh-southern-cooking": {
+    "cover": "https://covers.openlibrary.org/b/id/10368921-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Farm%20Fresh%20Southern%20Cooking&tag=bookgateway02-20"
+  },
+  "fear-by-woodward": {
+    "cover": "https://covers.openlibrary.org/b/id/8315580-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Fear&tag=bookgateway02-20"
+  },
+  "fifteen-years": {
+    "cover": "https://covers.openlibrary.org/b/id/10040298-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Fifteen%20Years&tag=bookgateway02-20"
+  },
+  "fight-2-nobrow-serial-box-teagle": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=FIGHT%21%20%232%20%28Nobrow%20Serial%20Box%29&tag=bookgateway02-20"
+  },
+  "finding-god-in-the-hunger-games": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Finding%20God%20in%20the%20Hunger%20Games&tag=bookgateway02-20"
+  },
+  "finding-noah": {
+    "cover": "https://covers.openlibrary.org/b/id/1460606-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Finding%20Noah&tag=bookgateway02-20"
+  },
+  "firebrand": {
+    "cover": "https://covers.openlibrary.org/b/id/7772900-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Firebrand&tag=bookgateway02-20"
+  },
+  "firefly-w-staite-baldwin-qa-video-wizardworld-comic-con-nashville": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "firewall-by-diann-mills": {
+    "cover": "https://covers.openlibrary.org/b/id/9860950-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Firewall&tag=bookgateway02-20"
+  },
+  "first-book-hockey-sports-illustrated": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=My%20First%20Book%20of%20Hockey&tag=bookgateway02-20"
+  },
+  "first-comes-love-by-heyford": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=First%20Comes%20Love&tag=bookgateway02-20"
+  },
+  "flame-of-resistence": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Flame%20of%20Resistence&tag=bookgateway02-20"
+  },
+  "flight-of-shadows": {
+    "cover": "https://covers.openlibrary.org/b/id/9127316-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Flight%20of%20Shadows&tag=bookgateway02-20"
+  },
+  "flight-risk-by-suzanne-d-williams": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Flight%20Risk&tag=bookgateway02-20"
+  },
+  "fool-proofing-your-life": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Fool-Proofing%20Your%20Life&tag=bookgateway02-20"
+  },
+  "fools-gold-by-melody-carlson": {
+    "cover": "https://covers.openlibrary.org/b/id/831755-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Fool%27s%20Gold&tag=bookgateway02-20"
+  },
+  "fools-rush-in": {
+    "cover": "https://covers.openlibrary.org/b/id/367367-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Fools%20Rush%20in&tag=bookgateway02-20"
+  },
+  "for-better-or-for-worse": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=For%20Better%20or%20For%20Worse&tag=bookgateway02-20"
+  },
+  "forget-me-not-by-vicki-hinze": {
+    "cover": "https://covers.openlibrary.org/b/id/7995377-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Forget%20Me%20Not&tag=bookgateway02-20"
+  },
+  "fortune-gray-by-scudiere": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Fortune%20Gray&tag=bookgateway02-20"
+  },
+  "fortune-red-by-scudiere": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Fortune%20Red&tag=bookgateway02-20"
+  },
+  "forty-days-of-celebration-by-baxter": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Forty%20Days%20of%20Celebration&tag=bookgateway02-20"
+  },
+  "forty-days-of-meditation-by-hawkins": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Forty%20Days%20of%20Meditation&tag=bookgateway02-20"
+  },
+  "founders": {
+    "cover": "https://covers.openlibrary.org/b/id/13122248-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Founders&tag=bookgateway02-20"
+  },
+  "fragile-and-perfectly-cracked": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Fragile%20and%20Perfectly%20Cracked&tag=bookgateway02-20"
+  },
+  "freedoms-light-by-coble": {
+    "cover": "https://covers.openlibrary.org/b/id/9185915-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Freedom%27s%20Light&tag=bookgateway02-20"
+  },
+  "freedoms-stand": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Freedom%27s%20Stand&tag=bookgateway02-20"
+  },
+  "fresh-off-the-boat": {
+    "cover": "https://covers.openlibrary.org/b/id/10246618-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Fresh%20off%20the%20Boat&tag=bookgateway02-20"
+  },
+  "friends-with-boys": {
+    "cover": "https://covers.openlibrary.org/b/id/9261335-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Friends%20with%20Boys&tag=bookgateway02-20"
+  },
+  "front-and-center": {
+    "cover": "https://covers.openlibrary.org/b/id/11958889-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Front%20and%20Center&tag=bookgateway02-20"
+  },
+  "full-steam-ahead-by-karen-witemeyer": {
+    "cover": "https://covers.openlibrary.org/b/id/12472262-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Full%20Steam%20Ahead&tag=bookgateway02-20"
+  },
+  "fury": {
+    "cover": "https://covers.openlibrary.org/b/id/7072963-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Fury&tag=bookgateway02-20"
+  },
+  "fyodor-dostoevsky": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Fyodor%20Dostoevsky&tag=bookgateway02-20"
+  },
+  "galaxy-buck-mission-to-sector-9": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Galaxy%20Buck%3A%20Mission%20to%20Sector%209&tag=bookgateway02-20"
+  },
+  "galaxys-most-wanted-by-kloepfer-and-edwards": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Galaxy%27s%20Most%20Wanted&tag=bookgateway02-20"
+  },
+  "garden-of-bone-by-scudiere": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Garden%20of%20Bone&tag=bookgateway02-20"
+  },
+  "ghost-of-hannah-mendes": {
+    "cover": "https://covers.openlibrary.org/b/id/178117-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Ghost%20of%20Hannah%20Mendes&tag=bookgateway02-20"
+  },
+  "ghost-shell-2017-review": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Ghost%20in%20the%20Shell%20%282017%29%20Review&tag=bookgateway02-20"
+  },
+  "ghostbusters-meets-sherlock": {
+    "cover": "https://covers.openlibrary.org/b/id/14369277-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Screaming%20Staircase&tag=bookgateway02-20"
+  },
+  "ghosted-1-by-williamson-sudzuka-and-mrva": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Ghosted%20%231&tag=bookgateway02-20"
+  },
+  "ghosted-5": {
+    "cover": "https://covers.openlibrary.org/b/id/10654948-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Ghosted%20%235&tag=bookgateway02-20"
+  },
+  "gigi-gods-little-princess-gigis-big-break-by-sheila-walsh": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=GiGi%2C%20God%27s%20Little%20Princess%3A%20Gigi%27s%20Big%20Break&tag=bookgateway02-20"
+  },
+  "girl-parts": {
+    "cover": "https://covers.openlibrary.org/b/id/9123432-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Girl%20Parts&tag=bookgateway02-20"
+  },
+  "girls-guide-to-love-and-supper-clubs": {
+    "cover": "https://covers.openlibrary.org/b/id/11459776-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Girls%20Guide%20to%20Love%20and%20Supper%20Clubs&tag=bookgateway02-20"
+  },
+  "glamorous-illusions": {
+    "cover": "https://covers.openlibrary.org/b/id/7733184-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Glamorous%20Illusions&tag=bookgateway02-20"
+  },
+  "glass-by-suzanne-d-williams": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Glass&tag=bookgateway02-20"
+  },
+  "glittering-promises-by-lisa-t-bergren": {
+    "cover": "https://covers.openlibrary.org/b/id/7732365-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Glittering%20Promises&tag=bookgateway02-20"
+  },
+  "glory-song-redman-answer-camp": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "glow": {
+    "cover": "https://covers.openlibrary.org/b/id/6891632-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Glow&tag=bookgateway02-20"
+  },
+  "god-and-dog": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=GoD%20and%20DoG&tag=bookgateway02-20"
+  },
+  "god-gave-us-christmas-by-lisa-tawn-bergren": {
+    "cover": "https://covers.openlibrary.org/b/id/12637072-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=God%20Gave%20Us%20Christmas&tag=bookgateway02-20"
+  },
+  "god-gave-us-love-by-lisa-tawn-bergren": {
+    "cover": "https://covers.openlibrary.org/b/id/7447423-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=God%20Gave%20Us%20Love&tag=bookgateway02-20"
+  },
+  "gods-at-war-by-idleman": {
+    "cover": "https://covers.openlibrary.org/b/id/7281296-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Gods%20at%20War&tag=bookgateway02-20"
+  },
+  "gods-eye-2": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "gods-eye": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=God%27s%20Eye&tag=bookgateway02-20"
+  },
+  "gods-not-dead-2": {
+    "cover": "https://covers.openlibrary.org/b/id/11629432-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=God%27s%20Not%20Dead%202&tag=bookgateway02-20"
+  },
+  "gods-not-dead-by": {
+    "cover": "https://covers.openlibrary.org/b/id/7277265-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=God%27s%20Not%20Dead&tag=bookgateway02-20"
+  },
+  "godzilla": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Godzilla%3A%20Gangsters%20and%20Goliaths&tag=bookgateway02-20"
+  },
+  "gone-south-by-moseley": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Gone%20South&tag=bookgateway02-20"
+  },
+  "goose": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Goose&tag=bookgateway02-20"
+  },
+  "gospel-science-fiction": {
+    "cover": "https://covers.openlibrary.org/b/id/399044-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Gospel%20According%20to%20Science%20Fiction&tag=bookgateway02-20"
+  },
+  "grace-of-god": {
+    "cover": "https://covers.openlibrary.org/b/id/2763351-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Grace%20of%20God&tag=bookgateway02-20"
+  },
+  "graces-pictures-by-cindy-thomson": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Grace%E2%80%99s%20Pictures&tag=bookgateway02-20"
+  },
+  "grave-consequences-by-lisa-t-bergren": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Grave%20Consequences&tag=bookgateway02-20"
+  },
+  "great-divorce-lewis": {
+    "cover": "https://covers.openlibrary.org/b/id/6984074-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Great%20Divorce&tag=bookgateway02-20"
+  },
+  "green-by-ted-dekker": {
+    "cover": "https://covers.openlibrary.org/b/id/7118283-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Green&tag=bookgateway02-20"
+  },
+  "green-ember-smith": {
+    "cover": "https://covers.openlibrary.org/b/id/7423157-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Green%20Ember&tag=bookgateway02-20"
+  },
+  "green-river-killer": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Green%20River%20Killer&tag=bookgateway02-20"
+  },
+  "grieving-people-wish-knew-really-helps-guthrie": {
+    "cover": "https://covers.openlibrary.org/b/id/7881195-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=What%20Grieving%20People%20Wish%20You%20Knew%20about%20What%20Really%20Helps&tag=bookgateway02-20"
+  },
+  "growing-in-faith-hope-and-love-niv-bible-for-teen-girls": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Growing%20in%20Faith%2C%20Hope%2C%20and%20Love%20NIV%20Bible%20for%20Teen%20Girls&tag=bookgateway02-20"
+  },
+  "guardian-herd-starfire-by-alvarez": {
+    "cover": "https://covers.openlibrary.org/b/id/8474042-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Guardian%20Herd%3A%20Starfire&tag=bookgateway02-20"
+  },
+  "guardians-galaxy-vol-2-review": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Guardians%20of%20the%20Galaxy%20Vol.%202%20Review&tag=bookgateway02-20"
+  },
+  "gunpowder-tea-by-margaret-brownley": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Gunpowder%20Tea&tag=bookgateway02-20"
+  },
+  "hacked": {
+    "cover": "https://covers.openlibrary.org/b/id/1984286-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Hacked&tag=bookgateway02-20"
+  },
+  "hades": {
+    "cover": "https://covers.openlibrary.org/b/id/6906467-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Hades&tag=bookgateway02-20"
+  },
+  "hands-of-darkness-by-heather-james": {
+    "cover": "https://covers.openlibrary.org/b/id/7809519-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Hands%20of%20Darkness&tag=bookgateway02-20"
+  },
+  "hannahs-hope": {
+    "cover": "https://covers.openlibrary.org/b/id/831793-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Hannah%27s%20Hope&tag=bookgateway02-20"
+  },
+  "happiness-1-oshimi": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Happiness%201&tag=bookgateway02-20"
+  },
+  "hard-carbon-by-david-m-salkin": {
+    "cover": "https://covers.openlibrary.org/b/id/11641883-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Hard%20Carbon&tag=bookgateway02-20"
+  },
+  "harriet-beamer-strikes-gold-by-joyce-magnin": {
+    "cover": "https://covers.openlibrary.org/b/id/12987924-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Harriet%20Beamer%20Strikes%20Gold&tag=bookgateway02-20"
+  },
+  "harry-potter-and-the-sorcerers-stone-by-rowling": {
+    "cover": "https://covers.openlibrary.org/b/id/276518-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Harry%20Potter%20and%20the%20Sorcerer%E2%80%99s%20Stone&tag=bookgateway02-20"
+  },
+  "has-god-spoken": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Has%20God%20Spoken%3F&tag=bookgateway02-20"
+  },
+  "hatteras-girl": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "hawaiian-crosswinds": {
+    "cover": "https://covers.openlibrary.org/b/id/8063569-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Hawaiian%20Crosswinds&tag=bookgateway02-20"
+  },
+  "he-chose-the-nails": {
+    "cover": "https://covers.openlibrary.org/b/id/645738-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=He%20Chose%20the%20Nails&tag=bookgateway02-20"
+  },
+  "hear-no-evil": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Hear%20No%20Evil&tag=bookgateway02-20"
+  },
+  "heart-of-the-country-by-rene-gutteridge-john-ward": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Heart%20of%20the%20Country&tag=bookgateway02-20"
+  },
+  "heaven-is-for-real": {
+    "cover": "https://covers.openlibrary.org/b/id/6669280-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Heaven%20is%20for%20Real&tag=bookgateway02-20"
+  },
+  "hell-divers-smith": {
+    "cover": "https://covers.openlibrary.org/b/id/10882433-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Hell%20Divers&tag=bookgateway02-20"
+  },
+  "hell-to-pay-by-chmilenko": {
+    "cover": "https://covers.openlibrary.org/b/id/8566813-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Hell%20to%20Pay&tag=bookgateway02-20"
+  },
+  "hellbent": {
+    "cover": "https://covers.openlibrary.org/b/id/9098900-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Hellbent&tag=bookgateway02-20"
+  },
+  "hellhound-on-his-trail": {
+    "cover": "https://covers.openlibrary.org/b/id/6447130-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Hellhound%20On%20His%20Trail&tag=bookgateway02-20"
+  },
+  "here-burns-my-candle-by-liz-curtis-higgs": {
+    "cover": "https://covers.openlibrary.org/b/id/10647003-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Here%20Burns%20My%20Candle&tag=bookgateway02-20"
+  },
+  "here-lies-bridget": {
+    "cover": "https://covers.openlibrary.org/b/id/6680119-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Here%20Lies%20Bridget&tag=bookgateway02-20"
+  },
+  "hide-and-seek": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Hide%20and%20Seek&tag=bookgateway02-20"
+  },
+  "hilo-the-boy-who-crashed-to-earth-by-winick": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Hilo%3A%20The%20Boy%20Who%20Crashed%20to%20Earth&tag=bookgateway02-20"
+  },
+  "his-majestys-hope-by-macneal": {
+    "cover": "https://covers.openlibrary.org/b/id/7974838-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=His%20Majesty%27s%20Hope&tag=bookgateway02-20"
+  },
+  "holliday": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Holliday&tag=bookgateway02-20"
+  },
+  "home-by-yttrup": {
+    "cover": "https://covers.openlibrary.org/b/id/10831272-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Home&tag=bookgateway02-20"
+  },
+  "homeschooling-for-the-rest-of-us": {
+    "cover": "https://covers.openlibrary.org/b/id/10336467-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Homeschooling%20for%20the%20Rest%20of%20Us&tag=bookgateway02-20"
+  },
+  "homosexuality-christian": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Homosexuality%20and%20the%20Christian&tag=bookgateway02-20"
+  },
+  "hot-buttons-series-by-odell": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Hot%20Buttons%20Series&tag=bookgateway02-20"
+  },
+  "hot-x": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "how-to-behave-at-a-tea-party-by-rosenberg-and-ross": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=How%20to%20Behave%20at%20a%20Tea%20Party&tag=bookgateway02-20"
+  },
+  "how-to-slay-a-dragon": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "hug-machine-by-campbell": {
+    "cover": "https://covers.openlibrary.org/b/id/14416488-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Hug%20Machine&tag=bookgateway02-20"
+  },
+  "humanitarian-jesus": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Humanitarian%20Jesus&tag=bookgateway02-20"
+  },
+  "humble-audiobook-bundle-worlds-doctor": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "humble-comics-bundle-doctor-presented-titan-comics": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "hunt-for-valamon-by-mok": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Hunt%20for%20Valamon&tag=bookgateway02-20"
+  },
+  "hunters-moon-2": {
+    "cover": "https://covers.openlibrary.org/b/id/11649563-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Hunter%27s%20Moon&tag=bookgateway02-20"
+  },
+  "hunters-moon": {
+    "cover": "https://covers.openlibrary.org/b/id/11649563-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Hunter%27s%20Moon&tag=bookgateway02-20"
+  },
+  "hypocrites": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Christians%20Are%20Hate-Filled%20Hypocrites%20...and%20Other%20Lies%20You%27ve%20Been%20Told&tag=bookgateway02-20"
+  },
+  "i-am-half-sick-of-shadows": {
+    "cover": "https://covers.openlibrary.org/b/id/7371181-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=I%20Am%20Half-Sick%20of%20Shadows&tag=bookgateway02-20"
+  },
+  "i-am-legend-by-mattheson": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=I%20Am%20Legend&tag=bookgateway02-20"
+  },
+  "i-am-princess-x-by-priest": {
+    "cover": "https://covers.openlibrary.org/b/id/8497818-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=I%20Am%20Princess%20X&tag=bookgateway02-20"
+  },
+  "i-choose-you-today-31-choices-to-make-love-last-by-dearmond": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=I%20Choose%20You%20Today%3A%2031%20Choices%20to%20Make%20Love%20Last&tag=bookgateway02-20"
+  },
+  "i-love-gods-green-earth-by-michael-caroline-carroll": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=I%20Love%20God%27s%20Green%20Earth&tag=bookgateway02-20"
+  },
+  "ice-and-fire-by-wingrove": {
+    "cover": "https://covers.openlibrary.org/b/id/10243886-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Ice%20and%20Fire&tag=bookgateway02-20"
+  },
+  "ice-dragon-preview": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Ice%20Dragon%20Preview&tag=bookgateway02-20"
+  },
+  "if-i-could-ask-god-anything": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "if-i-run-by-blackstock": {
+    "cover": "https://covers.openlibrary.org/b/id/12685644-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=If%20I%20Run&tag=bookgateway02-20"
+  },
+  "if-i-stay": {
+    "cover": "https://covers.openlibrary.org/b/id/6300478-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=If%20I%20Stay&tag=bookgateway02-20"
+  },
+  "illustrated-family-bible": {
+    "cover": "https://covers.openlibrary.org/b/id/551699-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Illustrated%20Family%20Bible&tag=bookgateway02-20"
+  },
+  "im-feeling-lucky": {
+    "cover": "https://covers.openlibrary.org/b/id/6878757-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=I%27m%20Feeling%20Lucky&tag=bookgateway02-20"
+  },
+  "imperfect-birds": {
+    "cover": "https://covers.openlibrary.org/b/id/10370814-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Imperfect%20Birds&tag=bookgateway02-20"
+  },
+  "implications-abound-by-adam4d": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Implications%20Abound&tag=bookgateway02-20"
+  },
+  "in-every-heartbeat-by-kim-vogel-sawyer": {
+    "cover": "https://covers.openlibrary.org/b/id/10072466-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=In%20Every%20Heartbeat&tag=bookgateway02-20"
+  },
+  "in-every-heartbeat": {
+    "cover": "https://covers.openlibrary.org/b/id/10072466-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=In%20Every%20Heartbeat&tag=bookgateway02-20"
+  },
+  "in-the-field-of-grace-by-tessa-afshar": {
+    "cover": "https://covers.openlibrary.org/b/id/8987521-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=In%20the%20Field%20of%20Grace&tag=bookgateway02-20"
+  },
+  "indivisible-by-thrasher": {
+    "cover": "https://covers.openlibrary.org/b/id/9185958-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Indivisible&tag=bookgateway02-20"
+  },
+  "inescapable-2": {
+    "cover": "https://covers.openlibrary.org/b/id/12650880-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Inescapable&tag=bookgateway02-20"
+  },
+  "inescapable": {
+    "cover": "https://covers.openlibrary.org/b/id/12650880-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Inescapable&tag=bookgateway02-20"
+  },
+  "infected-by-littlefield": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "infected": {
+    "cover": "https://covers.openlibrary.org/b/id/11120511-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Infected&tag=bookgateway02-20"
+  },
+  "internet-is-a-playground": {
+    "cover": "https://covers.openlibrary.org/b/id/6737760-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Internet%20is%20a%20Playground&tag=bookgateway02-20"
+  },
+  "interview-aly-malchaka": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "interview-lou-ferrigno": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "interview-michael-golden": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "interview-mike-mckone": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "interview-robert-and-shawn-lamb": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "interview-ron-garney": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "invincible-universe-4-by-hester-nauck-eltaeb": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Invincible%20Universe%20%234&tag=bookgateway02-20"
+  },
+  "iq-by-ide": {
+    "cover": "https://covers.openlibrary.org/b/id/10163381-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=IQ&tag=bookgateway02-20"
+  },
+  "iron-or-the-war-after": {
+    "cover": "https://covers.openlibrary.org/b/id/10300964-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Iron%3A%20or%2C%20The%20War%20After&tag=bookgateway02-20"
+  },
+  "ishine-bible-by-tyndale": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=iShine%20Bible&tag=bookgateway02-20"
+  },
+  "isis-orb-anthony": {
+    "cover": "https://covers.openlibrary.org/b/id/12514291-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Isis%20Orb&tag=bookgateway02-20"
+  },
+  "israel-under-fire": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Israel%20Under%20Fire&tag=bookgateway02-20"
+  },
+  "it-can-t-happen-here-by-lewis": {
+    "cover": "https://covers.openlibrary.org/b/id/12719018-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=It%20Can%E2%80%99t%20Happen%20Here&tag=bookgateway02-20"
+  },
+  "jack-and-the-giant-barbecue": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Jack%20and%20the%20Giant%20Barbecue&tag=bookgateway02-20"
+  },
+  "janus-stone": {
+    "cover": "https://covers.openlibrary.org/b/id/6678896-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Janus%20Stone&tag=bookgateway02-20"
+  },
+  "jennifer-an-omalley-love-story-by-dee-henderson": {
+    "cover": "https://covers.openlibrary.org/b/id/8451675-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Jennifer%3A%20An%20O%27Malley%20Love%20Story&tag=bookgateway02-20"
+  },
+  "jennifer-blood-vol-1-by-ennis-and-batista": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Jennifer%20Blood%2C%20Vol.%201&tag=bookgateway02-20"
+  },
+  "jesus-freaks": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Jesus%20Freaks%20%28Voice%20of%20the%20Martyrs%29&tag=bookgateway02-20"
+  },
+  "jesus-is-the-question-by-copenhaver": {
+    "cover": "https://covers.openlibrary.org/b/id/12753972-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Jesus%20is%20the%20Question&tag=bookgateway02-20"
+  },
+  "jesus-nothing-everything": {
+    "cover": "https://covers.openlibrary.org/b/id/7010464-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Jesus%20%2B%20Nothing%20%3D%20Everything&tag=bookgateway02-20"
+  },
+  "jesus-today-by-young-fortner": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Jesus%20Today&tag=bookgateway02-20"
+  },
+  "jolines-redemption-by-mcdonough": {
+    "cover": "https://covers.openlibrary.org/b/id/10353320-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Joline%27s%20Redemption&tag=bookgateway02-20"
+  },
+  "josiahs-treasure": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Josiah%27s%20Treasure&tag=bookgateway02-20"
+  },
+  "journey-captain-scaredy-cat-andres-wimmer": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Journey%20of%20Captain%20Scaredy%20Cat&tag=bookgateway02-20"
+  },
+  "joyful-by-shelley-shepard-gray": {
+    "cover": "https://covers.openlibrary.org/b/id/10421462-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Joyful&tag=bookgateway02-20"
+  },
+  "justice-by-scudiere": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Justice&tag=bookgateway02-20"
+  },
+  "justice-league": {
+    "cover": "https://covers.openlibrary.org/b/id/12666959-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Justice%20League%20Vol.%201&tag=bookgateway02-20"
+  },
+  "kaplan-act-premier-2016": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "kasey-to-the-rescue": {
+    "cover": "https://covers.openlibrary.org/b/id/7492190-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Kasey%20to%20the%20Rescue&tag=bookgateway02-20"
+  },
+  "keep-the-change": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Keep%20the%20Change&tag=bookgateway02-20"
+  },
+  "keeping-the-feast": {
+    "cover": "https://covers.openlibrary.org/b/id/8247550-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Keeping%20The%20Feast&tag=bookgateway02-20"
+  },
+  "kidnapped": {
+    "cover": "https://covers.openlibrary.org/b/id/8267822-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Kidnapped&tag=bookgateway02-20"
+  },
+  "kings-faith-movie-and-giveaway": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "kiss-for-cade": {
+    "cover": "https://covers.openlibrary.org/b/id/6583577-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=A%20Kiss%20for%20Cade&tag=bookgateway02-20"
+  },
+  "kobane-calling-zerocalcare": {
+    "cover": "https://covers.openlibrary.org/b/id/9379584-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Kobane%20Calling&tag=bookgateway02-20"
+  },
+  "kylie-jean-blueberry-queen": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Kylie%20Jean%20Blueberry%20Queen&tag=bookgateway02-20"
+  },
+  "kylie-jean-drama-queen-by-peschke": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Kylie%20Jean%20Drama%20Queen&tag=bookgateway02-20"
+  },
+  "kylie-jean-hoop-queen": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Kylie%20Jean%20Hoop%20Queen&tag=bookgateway02-20"
+  },
+  "la-la-land-review": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=La%20La%20Land%20Review&tag=bookgateway02-20"
+  },
+  "lady-carliss-and-the-waters-of-moorue-by-chuck-black": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Lady%20Carliss%20and%20the%20Waters%20of%20Moorue&tag=bookgateway02-20"
+  },
+  "lady-of-bolton-hill": {
+    "cover": "https://covers.openlibrary.org/b/id/12137596-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Lady%20of%20Bolton%20Hill&tag=bookgateway02-20"
+  },
+  "larrabees-luck-by-mcbride-choate": {
+    "cover": "https://covers.openlibrary.org/b/id/10775533-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Larrabee%27s%20Luck&tag=bookgateway02-20"
+  },
+  "last-call": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Last%20Call%3A%20The%20Rise%20and%20Fall%20of%20Prohibition&tag=bookgateway02-20"
+  },
+  "last-dragon": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Last%20Dragon&tag=bookgateway02-20"
+  },
+  "last-plea-bargain": {
+    "cover": "https://covers.openlibrary.org/b/id/7995307-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Last%20Plea%20Bargain&tag=bookgateway02-20"
+  },
+  "latter-day-cipher-by-latayne-c-scott": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Latter-Day%20Cipher&tag=bookgateway02-20"
+  },
+  "learn-to-study-the-bible": {
+    "cover": "https://covers.openlibrary.org/b/id/5729322-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Learn%20to%20Study%20the%20Bible&tag=bookgateway02-20"
+  },
+  "left-neglected": {
+    "cover": "https://covers.openlibrary.org/b/id/6677179-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Left%20Neglected&tag=bookgateway02-20"
+  },
+  "legends-by-scudiere": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Legends&tag=bookgateway02-20"
+  },
+  "let-it-be-jesus-by-christy-nockels": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "lies-beneath": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "life-with-lily": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Life%20with%20Lily&tag=bookgateway02-20"
+  },
+  "like-clockwork": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Like%20Clockwork&tag=bookgateway02-20"
+  },
+  "lirael-the-abhorsen-trilogy-by-garth-nix": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "lit": {
+    "cover": "https://covers.openlibrary.org/b/id/6945174-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Lit%21&tag=bookgateway02-20"
+  },
+  "little-book-of-great-dates-by-smalley-and-smalley": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Little%20Book%20of%20Great%20Dates&tag=bookgateway02-20"
+  },
+  "little-princes": {
+    "cover": "https://covers.openlibrary.org/b/id/6680706-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Little%20Princes&tag=bookgateway02-20"
+  },
+  "little-women-letters": {
+    "cover": "https://covers.openlibrary.org/b/id/11436619-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Little%20Women%20Letters&tag=bookgateway02-20"
+  },
+  "live-blog-day-1-2017-wizardworld-comic-con": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "live-blog-day-2-2015-wizardworld-comic-con-nashville": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Live%20Blog%3A%20Day%202%2C%202015%20%23WizardWorld%20Comic%20Con%20Nashville&tag=bookgateway02-20"
+  },
+  "live-blog-day-2-2017-wizardworld-comic-con": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "live-blog-opening-night-2015-wizardworld-comic-con-nashville": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "live-blog-wizardworld-comic-con-nashville-day-2": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "live-blog-wizardworld-comic-con-nashville": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "long-way-home": {
+    "cover": "https://covers.openlibrary.org/b/id/6685743-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Long%20Way%20Home&tag=bookgateway02-20"
+  },
+  "looking-for-jake": {
+    "cover": "https://covers.openlibrary.org/b/id/211605-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Looking%20for%20Jake&tag=bookgateway02-20"
+  },
+  "lords-prayer": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Lord%27s%20Prayer&tag=bookgateway02-20"
+  },
+  "lostfound": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Lost%2BFound&tag=bookgateway02-20"
+  },
+  "louder-than-words": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "louise-loves-art-by-kelly-light": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Louise%20Loves%20Art&tag=bookgateway02-20"
+  },
+  "love-in-disguise": {
+    "cover": "https://covers.openlibrary.org/b/id/8331193-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Love%20in%20Disguise&tag=bookgateway02-20"
+  },
+  "love-letter-by-hauck": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Love%20Letter&tag=bookgateway02-20"
+  },
+  "love-on-the-line": {
+    "cover": "https://covers.openlibrary.org/b/id/8044736-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Love%20on%20the%20Line&tag=bookgateway02-20"
+  },
+  "love-the-least-of-these-a-lot": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Love%20the%20Least%20of%20These%20%28A%20Lot%29&tag=bookgateway02-20"
+  },
+  "love-war": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Love%20%26%20War&tag=bookgateway02-20"
+  },
+  "love-wins": {
+    "cover": "https://covers.openlibrary.org/b/id/6712211-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Love%20Wins&tag=bookgateway02-20"
+  },
+  "loves-first-bloom": {
+    "cover": "https://covers.openlibrary.org/b/id/10229603-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Love%27s%20First%20Bloom&tag=bookgateway02-20"
+  },
+  "lucifers-tears": {
+    "cover": "https://covers.openlibrary.org/b/id/6685148-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Lucifer%27s%20Tears&tag=bookgateway02-20"
+  },
+  "lucky-by-kade": {
+    "cover": "https://covers.openlibrary.org/b/id/14794101-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Lucky&tag=bookgateway02-20"
+  },
+  "lucys-mansion-by-deanne-durrett": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Lucy%27s%20Mansion&tag=bookgateway02-20"
+  },
+  "makai-queen-by-tara-fairfield": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Makai%20Queen&tag=bookgateway02-20"
+  },
+  "make-a-difference": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "male-factor": {
+    "cover": "https://covers.openlibrary.org/b/id/7258908-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Male%20Factor&tag=bookgateway02-20"
+  },
+  "manara-library": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Manara%20Library%2C%20Volume%20One&tag=bookgateway02-20"
+  },
+  "manifest-destinty-1": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Manifest%20Destiny&tag=bookgateway02-20"
+  },
+  "manifest-destiny-4-by-dingess-and-roberts": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Manifest%20Destiny%20%234&tag=bookgateway02-20"
+  },
+  "map-of-time": {
+    "cover": "https://covers.openlibrary.org/b/id/7026716-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Map%20of%20Time&tag=bookgateway02-20"
+  },
+  "map-of-true-places": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Map%20of%20True%20Places&tag=bookgateway02-20"
+  },
+  "masquerade": {
+    "cover": "https://covers.openlibrary.org/b/id/10243426-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Masquerade&tag=bookgateway02-20"
+  },
+  "masquerade2": {
+    "cover": "https://covers.openlibrary.org/b/id/10243426-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Masquerade&tag=bookgateway02-20"
+  },
+  "master-of-the-world": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Master%20of%20the%20World&tag=bookgateway02-20"
+  },
+  "masters-and-slayers": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Masters%20and%20Slayers&tag=bookgateway02-20"
+  },
+  "matched-by-ally-condie": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "matched-gr": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Matched&tag=bookgateway02-20"
+  },
+  "matt-mikalatos": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "maybe-this-time-by-jennifer-crusie": {
+    "cover": "https://covers.openlibrary.org/b/id/8020035-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Maybe%20This%20Time&tag=bookgateway02-20"
+  },
+  "mckenzies-montana-mystery": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "meet-the-bigfeet-by-sherry": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Meet%20the%20Bigfeet&tag=bookgateway02-20"
+  },
+  "megaskull-by-platts": {
+    "cover": "https://covers.openlibrary.org/b/id/7648841-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Megaskull&tag=bookgateway02-20"
+  },
+  "memoirs-of-sherman": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Memoirs%20of%20General%20W.%20T.%20Sherman&tag=bookgateway02-20"
+  },
+  "messiah-origin": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Messiah%3A%20Origin&tag=bookgateway02-20"
+  },
+  "midway-monkey-madness": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Midway%20Monkey%20Madness&tag=bookgateway02-20"
+  },
+  "minding-molly-by-leslie-gould": {
+    "cover": "https://covers.openlibrary.org/b/id/7271975-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Minding%20Molly&tag=bookgateway02-20"
+  },
+  "misery-loves-company-by-rene-gutteridge": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Misery%20Loves%20Company&tag=bookgateway02-20"
+  },
+  "moms-night-out-by-goyer": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Mom%27s%20Night%20Out&tag=bookgateway02-20"
+  },
+  "moms-night-out-devotional-by-pomarolli": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Mom%27s%20Night%20Out%20Devotional&tag=bookgateway02-20"
+  },
+  "moondogs": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Moondogs&tag=bookgateway02-20"
+  },
+  "more-than-a-skeleton": {
+    "cover": "https://covers.openlibrary.org/b/id/874695-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=More%20Than%20a%20Skeleton&tag=bookgateway02-20"
+  },
+  "morlock-night": {
+    "cover": "https://covers.openlibrary.org/b/id/7318915-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Morlock%20Night&tag=bookgateway02-20"
+  },
+  "mornings-in-jenin": {
+    "cover": "https://covers.openlibrary.org/b/id/6935052-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Mornings%20In%20Jenin&tag=bookgateway02-20"
+  },
+  "mosaic-holy-bible": {
+    "cover": "https://covers.openlibrary.org/b/id/7745830-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Mosaic%20Holy%20Bible&tag=bookgateway02-20"
+  },
+  "mountains-echoed-hosseini": {
+    "cover": "https://covers.openlibrary.org/b/id/7258558-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=And%20the%20Mountains%20Echoed&tag=bookgateway02-20"
+  },
+  "much-ado-about-magic": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "murder-simply-brewed-by-vannetta-chapman": {
+    "cover": "https://covers.openlibrary.org/b/id/7805537-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Murder%20Simply%20Brewed&tag=bookgateway02-20"
+  },
+  "must-have-marvin-by-ziglar-and-marten": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Must%20Have%20Marvin&tag=bookgateway02-20"
+  },
+  "my-final-word-by-colson-and-morse": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=My%20Final%20Word&tag=bookgateway02-20"
+  },
+  "my-first-handy-bible": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=My%20First%20Handy%20Bible&tag=bookgateway02-20"
+  },
+  "my-hope-is-found-by-joanne-bischof": {
+    "cover": "https://covers.openlibrary.org/b/id/12760376-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=My%20Hope%20Is%20Found&tag=bookgateway02-20"
+  },
+  "my-once-and-future-love": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=My%20Once%20and%20Future%20Love&tag=bookgateway02-20"
+  },
+  "mystery-at-discovery-lake": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "named-by-god": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Named&tag=bookgateway02-20"
+  },
+  "nameless-by-conlan": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Nameless&tag=bookgateway02-20"
+  },
+  "nashville-comic-con-cosplayers": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Nashville%20Comic%20Con%20Cosplayers&tag=bookgateway02-20"
+  },
+  "nearing-home-by-graham": {
+    "cover": "https://covers.openlibrary.org/b/id/6949208-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Nearing%20Home&tag=bookgateway02-20"
+  },
+  "nearing-home": {
+    "cover": "https://covers.openlibrary.org/b/id/6949208-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Nearing%20Home&tag=bookgateway02-20"
+  },
+  "never-far-from-home-by-mary-ellis": {
+    "cover": "https://covers.openlibrary.org/b/id/10250633-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Never%20Far%20From%20Home&tag=bookgateway02-20"
+  },
+  "never-fight-again-guaranteed-by-hawkins": {
+    "cover": "https://covers.openlibrary.org/b/id/12413466-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Never%20Fight%20Again%20.%20.%20.%20Guaranteed%21&tag=bookgateway02-20"
+  },
+  "never-let-you-go": {
+    "cover": "https://covers.openlibrary.org/b/id/7096371-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Never%20Let%20You%20Go&tag=bookgateway02-20"
+  },
+  "never-say-never-by-lisa-wingate-2": {
+    "cover": "https://covers.openlibrary.org/b/id/8803461-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Never%20Say%20Never&tag=bookgateway02-20"
+  },
+  "never-say-never-by-lisa-wingate": {
+    "cover": "https://covers.openlibrary.org/b/id/8803461-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Never%20Say%20Never&tag=bookgateway02-20"
+  },
+  "new-living-translation-contest-giveaway": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=New%20Living%20Translation%20Contest%20%26%20Giveaway&tag=bookgateway02-20"
+  },
+  "new-moody-atlas": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20New%20Moody%20Atlas%20of%20the%20Bible&tag=bookgateway02-20"
+  },
+  "newcomer-woods-fisher": {
+    "cover": "https://covers.openlibrary.org/b/id/14372787-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Newcomer&tag=bookgateway02-20"
+  },
+  "nice-try-jane-sinner-by-oelke": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Nice%20Try%2C%20Jane%20Sinner&tag=bookgateway02-20"
+  },
+  "nick-and-teslas-high-voltage-danger-lab-by-hockensmith-and-pflugfelder": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Nick%20and%20Tesla%E2%80%99s%20High-Voltage%20Danger%20Lab&tag=bookgateway02-20"
+  },
+  "night-again": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=30%20Days%20of%20Night%3A%20Night%2C%20Again&tag=bookgateway02-20"
+  },
+  "night-bird-freeman": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Night%20Bird&tag=bookgateway02-20"
+  },
+  "night-of-the-living-dead-christian": {
+    "cover": "https://covers.openlibrary.org/b/id/12883257-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Night%20of%20the%20Living%20Dead%20Christian&tag=bookgateway02-20"
+  },
+  "night-road": {
+    "cover": "https://covers.openlibrary.org/b/id/6680499-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Night%20Road&tag=bookgateway02-20"
+  },
+  "ninja-versus-pirate-featuring-zombies": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "niv-boys-bible": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=NIV%20Boys%20Bible&tag=bookgateway02-20"
+  },
+  "niv-college-devotional-bible": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=NIV%20College%20Devotional%20Bible&tag=bookgateway02-20"
+  },
+  "niv-essentials-study-bible": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=NIV%20Essentials%20Study%20Bible&tag=bookgateway02-20"
+  },
+  "niv-faithgirlz-bible-revised-edition": {
+    "cover": "https://covers.openlibrary.org/b/id/9071029-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=NIV%20Faithgirlz%21%20Bible%2C%20Revised%20Edition&tag=bookgateway02-20"
+  },
+  "niv-kids-visual-study-bible": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=NIV%20Kids%27%20Visual%20Study%20Bible&tag=bookgateway02-20"
+  },
+  "niv-life-journey-bible": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=NIV%20Life%20Journey%20Bible&tag=bookgateway02-20"
+  },
+  "niv-one-impact-bible": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=NIV%20One%20Impact%20Bible&tag=bookgateway02-20"
+  },
+  "niv-ragamuffin-bible": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=NIV%20Ragamuffin%20Bible&tag=bookgateway02-20"
+  },
+  "nnewts-by-doug-tennapel": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Nnewts&tag=bookgateway02-20"
+  },
+  "no-more-christian-nice-girl": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=No%20More%20Christian%20Nice%20Girl&tag=bookgateway02-20"
+  },
+  "nooks-crannies-by-lawson": {
+    "cover": "https://covers.openlibrary.org/b/id/11024361-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Nooks%20%26%20Crannies&tag=bookgateway02-20"
+  },
+  "not-a-sparrow-falls-by-linda-nichols-2": {
+    "cover": "https://covers.openlibrary.org/b/id/1818010-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Not%20a%20Sparrow%20Falls&tag=bookgateway02-20"
+  },
+  "not-a-sparrow-falls-by-linda-nichols": {
+    "cover": "https://covers.openlibrary.org/b/id/1818010-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Not%20a%20Sparrow%20Falls&tag=bookgateway02-20"
+  },
+  "not-by-sight-by-kathy-herman": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Not&tag=bookgateway02-20"
+  },
+  "not-so-humble-pies": {
+    "cover": "https://covers.openlibrary.org/b/id/8136275-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Not-So-Humble%20Pies&tag=bookgateway02-20"
+  },
+  "off-road": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Off%20Road&tag=bookgateway02-20"
+  },
+  "off-wizard-meyer": {
+    "cover": "https://covers.openlibrary.org/b/id/10880285-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Off%20to%20be%20the%20Wizard&tag=bookgateway02-20"
+  },
+  "on-the-blue-comet": {
+    "cover": "https://covers.openlibrary.org/b/id/8045575-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=On%20The%20Blue%20Comet&tag=bookgateway02-20"
+  },
+  "once-an-arafat-man": {
+    "cover": "https://covers.openlibrary.org/b/id/5358238-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Once%20an%20Arafat%20Man&tag=bookgateway02-20"
+  },
+  "once-wicked-always-dead": {
+    "cover": "https://covers.openlibrary.org/b/id/6607867-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Once%20Wicked%20Always%20Dead&tag=bookgateway02-20"
+  },
+  "one-amazing-thing": {
+    "cover": "https://covers.openlibrary.org/b/id/6390733-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=One%20Amazing%20Thing&tag=bookgateway02-20"
+  },
+  "one-bloody-thing": {
+    "cover": "https://covers.openlibrary.org/b/id/6463318-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=One%20Bloody%20Thing%20After%20Another&tag=bookgateway02-20"
+  },
+  "one-day": {
+    "cover": "https://covers.openlibrary.org/b/id/8580421-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=One%20Day&tag=bookgateway02-20"
+  },
+  "one-second-after-by-forstchen": {
+    "cover": "https://covers.openlibrary.org/b/id/6457468-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=One%20Second%20After&tag=bookgateway02-20"
+  },
+  "one-way-love-giveaway": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "oops": {
+    "cover": "https://covers.openlibrary.org/b/id/8166729-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Oops%21&tag=bookgateway02-20"
+  },
+  "original-sin-by-beth-mcmullen": {
+    "cover": "https://covers.openlibrary.org/b/id/9487247-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Original%20Sin&tag=bookgateway02-20"
+  },
+  "origins-d-list-supervillain-bernheimer": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Origins%20of%20a%20D-List%20Supervillain&tag=bookgateway02-20"
+  },
+  "other-worlds-than-these": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "out-of-a-far-country-2": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Out%20of%20a%20Far%20Country&tag=bookgateway02-20"
+  },
+  "out-of-a-far-country": {
+    "cover": "https://covers.openlibrary.org/b/id/10997486-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Out%20of%20a%20Far%20Country&tag=bookgateway02-20"
+  },
+  "out-of-darkness-by-darrell-case": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Out%20of%20Darkness&tag=bookgateway02-20"
+  },
+  "outcast-1-by-kirkman-and-azaceta": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Outcast%20%231&tag=bookgateway02-20"
+  },
+  "oxblood-by-grant": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Oxblood&tag=bookgateway02-20"
+  },
+  "panga-online-death-and-axes-by-rowland": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Panga%20Online%3A%20Death%20and%20Axes&tag=bookgateway02-20"
+  },
+  "paradise-valley": {
+    "cover": "https://covers.openlibrary.org/b/id/12488884-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Paradise%20Valley&tag=bookgateway02-20"
+  },
+  "patterns-evidence-exodus": {
+    "cover": "https://covers.openlibrary.org/b/id/8960083-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Patterns%20of%20Evidence%3A%20Exodus&tag=bookgateway02-20"
+  },
+  "paul-behaving-badly": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Paul%20Behaving%20Badly&tag=bookgateway02-20"
+  },
+  "paws-and-tales": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Paws%20and%20Tales%3A%20God%20Cares%20for%20You%20DVD%20%28%2B%20Giveaway%21%21%21%29&tag=bookgateway02-20"
+  },
+  "pennsylvania-patchwork-by-kate-lloyd": {
+    "cover": "https://covers.openlibrary.org/b/id/7706696-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Pennsylvania%20Patchwork&tag=bookgateway02-20"
+  },
+  "persecuted-by-parrish": {
+    "cover": "https://covers.openlibrary.org/b/id/8245001-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Persecuted&tag=bookgateway02-20"
+  },
+  "personal-by-lee-child": {
+    "cover": "https://covers.openlibrary.org/b/id/14425062-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Personal&tag=bookgateway02-20"
+  },
+  "philosophical-practitioner": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Philosophical%20Practitioner&tag=bookgateway02-20"
+  },
+  "phoenix-by-scudiere": {
+    "cover": "https://covers.openlibrary.org/b/id/11450645-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Phoenix&tag=bookgateway02-20"
+  },
+  "phoenix-rising": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Phoenix%20Rising&tag=bookgateway02-20"
+  },
+  "pilot-x-by-merritt": {
+    "cover": "https://covers.openlibrary.org/b/id/14506785-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Pilot%20X&tag=bookgateway02-20"
+  },
+  "pirates-ho": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Pirates%2C%20Ho%21&tag=bookgateway02-20"
+  },
+  "plain-jayne-by-hillary-manton-lodge": {
+    "cover": "https://covers.openlibrary.org/b/id/11695521-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Plain%20Jayne&tag=bookgateway02-20"
+  },
+  "play-it-for-me-by-suzanne-d-williams": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Play%20It%20For%20Me&tag=bookgateway02-20"
+  },
+  "playing-with-purpose": {
+    "cover": "https://covers.openlibrary.org/b/id/11720415-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Playing%20With%20Purpose&tag=bookgateway02-20"
+  },
+  "plugged": {
+    "cover": "https://covers.openlibrary.org/b/id/8347406-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Plugged&tag=bookgateway02-20"
+  },
+  "poison": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "postmarked-ever-after-by-mary-l-ball": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Postmarked%20Ever%20After&tag=bookgateway02-20"
+  },
+  "practice-of-godliness": {
+    "cover": "https://covers.openlibrary.org/b/id/688655-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Practice%20of%20Godliness&tag=bookgateway02-20"
+  },
+  "prairie-song-by-mona-hodgson": {
+    "cover": "https://covers.openlibrary.org/b/id/10251377-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Prairie%20Song&tag=bookgateway02-20"
+  },
+  "prepare-to-die-2": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "prepare-to-die": {
+    "cover": "https://covers.openlibrary.org/b/id/8116067-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Prepare%20to%20Die&tag=bookgateway02-20"
+  },
+  "preview-invincible-universe-10": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Preview%3A%20Invincible%20Universe%20%2310&tag=bookgateway02-20"
+  },
+  "primal": {
+    "cover": "https://covers.openlibrary.org/b/id/6429915-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Primal&tag=bookgateway02-20"
+  },
+  "prime-suspects-bernheimer": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Prime%20Suspects&tag=bookgateway02-20"
+  },
+  "princess-elizabeths-spy": {
+    "cover": "https://covers.openlibrary.org/b/id/10338643-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Princess%20Elizabeth%E2%80%99s%20Spy&tag=bookgateway02-20"
+  },
+  "progeny": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Progeny%3A%20The%20Children%20of%20The%20White%20Lions&tag=bookgateway02-20"
+  },
+  "progeny1": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "promise-me-always-by-kade": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Promise%20Me%20Always&tag=bookgateway02-20"
+  },
+  "promises-to-keep-by-ann-tatlock": {
+    "cover": "https://covers.openlibrary.org/b/id/7373051-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Promises%20to%20Keep&tag=bookgateway02-20"
+  },
+  "promises-to-keep": {
+    "cover": "https://covers.openlibrary.org/b/id/7373051-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Promises%20to%20Keep&tag=bookgateway02-20"
+  },
+  "prophet": {
+    "cover": "https://covers.openlibrary.org/b/id/688298-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Prophet&tag=bookgateway02-20"
+  },
+  "qa-with-william-shatner-video": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "qa-with-wwes-kane-video": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "radiance-by-alyson-noel": {
+    "cover": "https://covers.openlibrary.org/b/id/8022179-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Radiance&tag=bookgateway02-20"
+  },
+  "radical-taking-back-your-faith-from-the-american-dream-by-david-platt": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Radical%20Taking%20Back%20Your%20Faith%20From%20the%20American%20Dream&tag=bookgateway02-20"
+  },
+  "rainbows-for-rainy-days-by-campbell": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Rainbows%20for%20Rainy%20Days&tag=bookgateway02-20"
+  },
+  "raising-steam-by-terry-pratchett": {
+    "cover": "https://covers.openlibrary.org/b/id/14646849-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Raising%20Steam&tag=bookgateway02-20"
+  },
+  "ransomed-dreams": {
+    "cover": "https://covers.openlibrary.org/b/id/6425429-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Ransomed%20Dreams&tag=bookgateway02-20"
+  },
+  "ravens-ladder-by-jeffrey-overstreet": {
+    "cover": "https://covers.openlibrary.org/b/id/7119064-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Raven%27s%20Ladder&tag=bookgateway02-20"
+  },
+  "real-life-real-miracles": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Real%20Life%20Real%20Miracles&tag=bookgateway02-20"
+  },
+  "reality-is-broken": {
+    "cover": "https://covers.openlibrary.org/b/id/6680781-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Reality%20is%20Broken&tag=bookgateway02-20"
+  },
+  "rebel-by-kade": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Rebel&tag=bookgateway02-20"
+  },
+  "reclaiming-lily-2": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Reclaiming%20Lily&tag=bookgateway02-20"
+  },
+  "reclaiming-lily": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Reclaiming%20Lily&tag=bookgateway02-20"
+  },
+  "red-dawn-rising-by-sue-duffy-3": {
+    "cover": "https://covers.openlibrary.org/b/id/10800950-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Red%20Dawn%20Rising&tag=bookgateway02-20"
+  },
+  "red-riding-hood": {
+    "cover": "https://covers.openlibrary.org/b/id/12898425-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Honestly%2C%20Red%20Riding%20Hood%20Was%20Rotten%21&tag=bookgateway02-20"
+  },
+  "red-river-by-p-g-nagle": {
+    "cover": "https://covers.openlibrary.org/b/id/8315238-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Red%20River&tag=bookgateway02-20"
+  },
+  "rediscovering-god-in-america": {
+    "cover": "https://covers.openlibrary.org/b/id/8011431-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Rediscovering%20God%20in%20America&tag=bookgateway02-20"
+  },
+  "reluctant-detective": {
+    "cover": "https://covers.openlibrary.org/b/id/10801294-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Reluctant%20Detective&tag=bookgateway02-20"
+  },
+  "resonance": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Resonance&tag=bookgateway02-20"
+  },
+  "restless-in-the-grave": {
+    "cover": "https://covers.openlibrary.org/b/id/7074456-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Restless%20in%20the%20Grave&tag=bookgateway02-20"
+  },
+  "restoration": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Restoration&tag=bookgateway02-20"
+  },
+  "restorer": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Restorer%3A%20Expanded%20Edition&tag=bookgateway02-20"
+  },
+  "return-to-me-by-lynn-austin": {
+    "cover": "https://covers.openlibrary.org/b/id/7262744-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Return%20to%20Me&tag=bookgateway02-20"
+  },
+  "reunited-at-christmas-by-debra-ullrick": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Reunited%20at%20Christmas&tag=bookgateway02-20"
+  },
+  "review-accidentally-demonic": {
+    "cover": "https://covers.openlibrary.org/b/id/9454179-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Accidentally%20Demonic&tag=bookgateway02-20"
+  },
+  "review-beaded-hope": {
+    "cover": "https://covers.openlibrary.org/b/id/9811448-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Beaded%20Hope&tag=bookgateway02-20"
+  },
+  "review-becoming-a-woman-of-faith": {
+    "cover": "https://covers.openlibrary.org/b/id/537656-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Becoming%20a%20Woman%20of%20Faith&tag=bookgateway02-20"
+  },
+  "review-before-i-fall": {
+    "cover": "https://covers.openlibrary.org/b/id/6310486-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Before%20I%20Fall&tag=bookgateway02-20"
+  },
+  "review-chasing-francis": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Chasing%20Francis%3A%20A%20Pilgrim%27s%20Tale&tag=bookgateway02-20"
+  },
+  "review-eternal-on-the-water": {
+    "cover": "https://covers.openlibrary.org/b/id/9064282-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Eternal%20on%20the%20Water&tag=bookgateway02-20"
+  },
+  "review-fools-gold": {
+    "cover": "https://covers.openlibrary.org/b/id/831755-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Fool%27s%20Gold&tag=bookgateway02-20"
+  },
+  "review-inspirational-zingers-jumble": {
+    "cover": "https://covers.openlibrary.org/b/id/7711225-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Inspirational%20Zingers%20Jumble&tag=bookgateway02-20"
+  },
+  "review-nkjv-greatest-stories-of-the-bible": {
+    "cover": "https://covers.openlibrary.org/b/id/7588196-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=NKJV%20Greatest%20Stories%20of%20the%20Bible&tag=bookgateway02-20"
+  },
+  "review-once-an-arafat-man": {
+    "cover": "https://covers.openlibrary.org/b/id/5358238-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Once%20An%20Arafat%20Man&tag=bookgateway02-20"
+  },
+  "review-pursuit-of-justice": {
+    "cover": "https://covers.openlibrary.org/b/id/8001864-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Pursuit%20of%20Justice&tag=bookgateway02-20"
+  },
+  "review-saving-cicadas": {
+    "cover": "https://covers.openlibrary.org/b/id/7979643-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Saving%20Cicadas&tag=bookgateway02-20"
+  },
+  "review-sense-and-sensiblity-insight-edition": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Sense%20and%20Sensiblity%20Insight%20Edition&tag=bookgateway02-20"
+  },
+  "review-shes-so-dead-to-us": {
+    "cover": "https://covers.openlibrary.org/b/id/8311500-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=She%27s%20So%20Dead%20to%20Us&tag=bookgateway02-20"
+  },
+  "review-the-clouds-roll-away": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Clouds%20Roll%20Away&tag=bookgateway02-20"
+  },
+  "review-the-silent-governess": {
+    "cover": "https://covers.openlibrary.org/b/id/8189062-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Silent%20Governess&tag=bookgateway02-20"
+  },
+  "ricky-the-remarkable-raccoon-unlike-any-other-by-roger-carey-and-miles": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Ricky%2C%20The%20Remarkable%20Raccoon%20%28Unlike%20Any%20Other%29&tag=bookgateway02-20"
+  },
+  "rise-of-the-governor": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Rise%20of%20the%20Governor&tag=bookgateway02-20"
+  },
+  "river-oaks-plantation-by-b-j-robinson": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=River%20Oaks%20Plantation&tag=bookgateway02-20"
+  },
+  "robbie-forester": {
+    "cover": "https://covers.openlibrary.org/b/id/11706913-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Robbie%20Forester%20and%20the%20Outlaws%20of%20Sherwood%20St&tag=bookgateway02-20"
+  },
+  "robert-b-parkers-ironhorse": {
+    "cover": "https://covers.openlibrary.org/b/id/8368375-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Robert%20B.%20Parker%27s%20Ironhorse&tag=bookgateway02-20"
+  },
+  "robopocalypse": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Robopocalypse%3A%20A%20Novel&tag=bookgateway02-20"
+  },
+  "rodeo-queen": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Kylie%20Jean%20Rodeo%20Queen&tag=bookgateway02-20"
+  },
+  "rose-conspiracy": {
+    "cover": "https://covers.openlibrary.org/b/id/10251459-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Rose%20Conspiracy&tag=bookgateway02-20"
+  },
+  "rufus-and-ryan-giveaway": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Rufus%20and%20Ryan%20Giveaway%21&tag=bookgateway02-20"
+  },
+  "rufus-and-ryan-go-to-church-by-bostrom-and-thornburgh": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Rufus%20and%20Ryan%20Go%20to%20Church&tag=bookgateway02-20"
+  },
+  "ruined-by-kade": {
+    "cover": "https://covers.openlibrary.org/b/id/10620725-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Ruined&tag=bookgateway02-20"
+  },
+  "running-for-my-life": {
+    "cover": "https://covers.openlibrary.org/b/id/11708217-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Running%20For%20My%20Life&tag=bookgateway02-20"
+  },
+  "rust": {
+    "cover": "https://covers.openlibrary.org/b/id/15148256-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Rust&tag=bookgateway02-20"
+  },
+  "sabriel-the-abhorsen-trilogy-by-garth-nix": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "sacramento-surprise": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "sally-sin2": {
+    "cover": "https://covers.openlibrary.org/b/id/9487247-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Original%20Sin&tag=bookgateway02-20"
+  },
+  "salvage-by-scudiere": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Salvage&tag=bookgateway02-20"
+  },
+  "salvage-trouble": {
+    "cover": "https://covers.openlibrary.org/b/id/13861072-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Salvage%20Trouble&tag=bookgateway02-20"
+  },
+  "sausage-makers-daughters": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Sausage%20Maker%27s%20Daughters&tag=bookgateway02-20"
+  },
+  "say-it-with-flowers-by-suzanne-d-williams": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Say%20It%20With%20Flowers&tag=bookgateway02-20"
+  },
+  "scorpion-queen": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Scorpion%20Queen&tag=bookgateway02-20"
+  },
+  "screwtape-letters-audio": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=C.S.%20Lewis%27%20The%20Screwtape%20Letters&tag=bookgateway02-20"
+  },
+  "seasons-of-tomorrow-by-cindy-woodsmall": {
+    "cover": "https://covers.openlibrary.org/b/id/12189789-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Seasons%20of%20Tomorrow&tag=bookgateway02-20"
+  },
+  "secondborn-by-bartol": {
+    "cover": "https://covers.openlibrary.org/b/id/8572104-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Secondborn&tag=bookgateway02-20"
+  },
+  "secrets-by-robin-jones-gunn": {
+    "cover": "https://covers.openlibrary.org/b/id/1472457-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Secrets&tag=bookgateway02-20"
+  },
+  "sense-and-sensibility-insight-edition-by-jane-austen": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Sense%20and%20Sensibility%2C%20Insight%20Edition&tag=bookgateway02-20"
+  },
+  "shades-of-morning-by-marlo-schalesky-2": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Shades%20of%20Morning&tag=bookgateway02-20"
+  },
+  "shades-of-morning-by-marlo-schalesky": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Shades%20of%20Morning&tag=bookgateway02-20"
+  },
+  "shadows-of-hope-by-daniels": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Shadows%20of%20Hope&tag=bookgateway02-20"
+  },
+  "shawn-kirkham": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "she-walks-in-beauty-2": {
+    "cover": "https://covers.openlibrary.org/b/id/10040369-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=She%20Walks%20In%20Beauty&tag=bookgateway02-20"
+  },
+  "she-walks-in-beauty-by-siri-mitchell": {
+    "cover": "https://covers.openlibrary.org/b/id/10040369-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=She%20Walks%20In%20Beauty&tag=bookgateway02-20"
+  },
+  "she-walks-in-beauty": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "shes-so-dead-to-us": {
+    "cover": "https://covers.openlibrary.org/b/id/8311500-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=She%E2%80%99s%20So%20Dead%20to%20Us&tag=bookgateway02-20"
+  },
+  "shoot-to-thrill": {
+    "cover": "https://covers.openlibrary.org/b/id/6377302-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Shoot%20to%20Thrill&tag=bookgateway02-20"
+  },
+  "shut-up-and-kiss-me-by-christie-craig": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Shut%20Up%20And%20Kiss%20Me&tag=bookgateway02-20"
+  },
+  "silver-streak": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Silver%20Streak%20Archives%20Featuring%20the%20Original%20Daredevil%20Volume%201&tag=bookgateway02-20"
+  },
+  "sir-quinlan-and-the-swords-of-valor": {
+    "cover": "https://covers.openlibrary.org/b/id/8309927-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Sir%20Quinlan%20and%20the%20Swords%20of%20Valor&tag=bookgateway02-20"
+  },
+  "sir-quinlan": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "sir-rowan-and-the-camerian-conquest": {
+    "cover": "https://covers.openlibrary.org/b/id/8227054-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Sir%20Rowan%20and%20the%20Camerian%20Conquest&tag=bookgateway02-20"
+  },
+  "sir-rowan": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "sisterhood-everlasting": {
+    "cover": "https://covers.openlibrary.org/b/id/8118383-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Sisterhood%20Everlasting&tag=bookgateway02-20"
+  },
+  "sixteen-brides-by-stephanie-grace-whitson-2": {
+    "cover": "https://covers.openlibrary.org/b/id/9547674-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Sixteen%20Brides&tag=bookgateway02-20"
+  },
+  "sixteen-brides-by-stephanie-grace-whitson": {
+    "cover": "https://covers.openlibrary.org/b/id/9547674-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Sixteen%20Brides&tag=bookgateway02-20"
+  },
+  "sixty-acres-and-a-bride": {
+    "cover": "https://covers.openlibrary.org/b/id/7379974-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Sixty%20Acres%20and%20a%20Bride&tag=bookgateway02-20"
+  },
+  "sketchy-behavior": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "skid-the-too-tiny-tunnel-by-jeffery-stoddard": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Skid%20%26%20the%20Too%20Tiny%20Tunnel&tag=bookgateway02-20"
+  },
+  "skyfall": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "slender-reeds-gregory": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Slender%20Reeds&tag=bookgateway02-20"
+  },
+  "sluagh-demon-of-the-night-by-darrell-case": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Sluagh%3A%20Demon%20of%20the%20Night&tag=bookgateway02-20"
+  },
+  "small-is-big": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Small%20is%20Big&tag=bookgateway02-20"
+  },
+  "smash-cut": {
+    "cover": "https://covers.openlibrary.org/b/id/9561170-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Smash%20Cut&tag=bookgateway02-20"
+  },
+  "solaris-by-lem": {
+    "cover": "https://covers.openlibrary.org/b/id/12313764-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Solaris&tag=bookgateway02-20"
+  },
+  "soldiers-wife": {
+    "cover": "https://covers.openlibrary.org/b/id/6784864-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Soldier%27s%20Wife&tag=bookgateway02-20"
+  },
+  "someday-someday-maybe-by-graham": {
+    "cover": "https://covers.openlibrary.org/b/id/7436212-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Someday%2C%20Someday%2C%20Maybe&tag=bookgateway02-20"
+  },
+  "something-italian-by-suzanne-d-williams": {
+    "cover": "https://covers.openlibrary.org/b/id/9033687-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Something%20Italian&tag=bookgateway02-20"
+  },
+  "somewhere-to-belong-by-judith-miller-2": {
+    "cover": "https://covers.openlibrary.org/b/id/8279744-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Somewhere%20to%20Belong&tag=bookgateway02-20"
+  },
+  "somewhere-to-belong-by-judith-miller": {
+    "cover": "https://covers.openlibrary.org/b/id/8279744-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Somewhere%20To%20Belong&tag=bookgateway02-20"
+  },
+  "son-of-heaven-by-wingrove": {
+    "cover": "https://covers.openlibrary.org/b/id/7710411-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Son%20of%20Heaven&tag=bookgateway02-20"
+  },
+  "soundless-by-mead": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "spaceheadz-sphdz-book-1-by-jon-scieszka-and-francesco-sedita": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Spaceheadz%3A%20SPHDZ%20Book%20%231&tag=bookgateway02-20"
+  },
+  "spaceheadz": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Spaceheadz&tag=bookgateway02-20"
+  },
+  "speaking-from-among-the-bones": {
+    "cover": "https://covers.openlibrary.org/b/id/7372018-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Speaking%20From%20Among%20the%20Bones&tag=bookgateway02-20"
+  },
+  "spycatcher-by-matthew-dunn": {
+    "cover": "https://covers.openlibrary.org/b/id/10402831-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Spycatcher&tag=bookgateway02-20"
+  },
+  "spycatcher": {
+    "cover": "https://covers.openlibrary.org/b/id/10402831-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Spycatcher&tag=bookgateway02-20"
+  },
+  "star-trek-faq-2-0-by-clark": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Star%20Trek%20FAQ%202.0&tag=bookgateway02-20"
+  },
+  "star-trek-legion-1": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Star%20Trek%20/%20Legion%20of%20Super-Heroes%20%231&tag=bookgateway02-20"
+  },
+  "star-trek-the-next-generationdoctor-who-assimilation2": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Star%20Trek%3A%20The%20Next%20Generation/Doctor%20Who%3A%20Assimilation2&tag=bookgateway02-20"
+  },
+  "star-trek-tng-the-hive": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Star%20Trek%20TNG%3A%20The%20Hive&tag=bookgateway02-20"
+  },
+  "star-wars-annihilation": {
+    "cover": "https://covers.openlibrary.org/b/id/10147174-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Star%20Wars%20Annihilation&tag=bookgateway02-20"
+  },
+  "star-wars-darth-vader-and-the-ghost-prison": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Star%20Wars%3A%20Darth%20Vader%20and%20the%20Ghost%20Prison&tag=bookgateway02-20"
+  },
+  "star-wars-honor-among-thieves-by-corey": {
+    "cover": "https://covers.openlibrary.org/b/id/7484337-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Star%20Wars%3A%20Honor%20Among%20Thieves&tag=bookgateway02-20"
+  },
+  "star-wars-into-the-void-by-lebbon": {
+    "cover": "https://covers.openlibrary.org/b/id/10950026-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Star%20Wars%3A%20Into%20the%20Void&tag=bookgateway02-20"
+  },
+  "star-wars-kenobi": {
+    "cover": "https://covers.openlibrary.org/b/id/8407167-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Star%20Wars%3A%20Kenobi&tag=bookgateway02-20"
+  },
+  "star-wars-razors-edge-by-wells": {
+    "cover": "https://covers.openlibrary.org/b/id/7520431-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Star%20Wars%3A%20Razor%27s%20Edge&tag=bookgateway02-20"
+  },
+  "star-wars-scoundrels": {
+    "cover": "https://covers.openlibrary.org/b/id/11107632-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Star%20Wars%3A%20Scoundrels&tag=bookgateway02-20"
+  },
+  "star-wars-tarkin-by-luceno": {
+    "cover": "https://covers.openlibrary.org/b/id/9041814-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Star%20Wars%3A%20Tarkin&tag=bookgateway02-20"
+  },
+  "star-wars-the-old-republic-annihilation": {
+    "cover": "https://covers.openlibrary.org/b/id/10147174-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Star%20Wars%20The%20Old%20Republic%3A%20Annihilation&tag=bookgateway02-20"
+  },
+  "starcrusher-trap": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Star%20Wars%3A%20The%20Clone%20Wars%20-%20The%20Starcrusher%20Trap&tag=bookgateway02-20"
+  },
+  "stargazer": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "starters": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "stay-on-the-wing-by-atamanov": {
+    "cover": "https://covers.openlibrary.org/b/id/10481403-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Stay%20on%20the%20Wing&tag=bookgateway02-20"
+  },
+  "stay-with-me": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Stay%20With%20Me&tag=bookgateway02-20"
+  },
+  "steal-away-home-by-coffey": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Steal%20Away%20Home&tag=bookgateway02-20"
+  },
+  "steal-my-heart-by-kade": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Steal%20My%20Heart&tag=bookgateway02-20"
+  },
+  "stealing-the-preacher": {
+    "cover": "https://covers.openlibrary.org/b/id/10164331-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Stealing%20the%20Preacher&tag=bookgateway02-20"
+  },
+  "still-missing": {
+    "cover": "https://covers.openlibrary.org/b/id/6762600-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Still%20Missing&tag=bookgateway02-20"
+  },
+  "stone-of-destiny-by-mary-l-ball": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Stone%20of%20Destiny&tag=bookgateway02-20"
+  },
+  "strangers-at-the-feast-by-jennifer-vanderbes": {
+    "cover": "https://covers.openlibrary.org/b/id/8331777-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Strangers%20At%20The%20Feast&tag=bookgateway02-20"
+  },
+  "strategem-by-caroll": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Strategem&tag=bookgateway02-20"
+  },
+  "strong-female-characters-panel-video-wizardworld-comic-con-nashville": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "sunrise-on-the-battery": {
+    "cover": "https://covers.openlibrary.org/b/id/8182514-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Sunrise%20on%20the%20Battery&tag=bookgateway02-20"
+  },
+  "sunset-park": {
+    "cover": "https://covers.openlibrary.org/b/id/8757337-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Sunset%20Park&tag=bookgateway02-20"
+  },
+  "super-dragon": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Super-Dragon&tag=bookgateway02-20"
+  },
+  "super-mario": {
+    "cover": "https://covers.openlibrary.org/b/id/8625427-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Super%20Mario&tag=bookgateway02-20"
+  },
+  "support-a-child": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Help%20Support%20a%20Child%20Affected&tag=bookgateway02-20"
+  },
+  "surprised-by-hope-by-wright": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Surprised&tag=bookgateway02-20"
+  },
+  "sweet-hell-on-fire": {
+    "cover": "https://covers.openlibrary.org/b/id/7751093-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Sweet%20Hell%20on%20Fire&tag=bookgateway02-20"
+  },
+  "sweet-olive-by-judy-christie": {
+    "cover": "https://covers.openlibrary.org/b/id/7765013-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Sweet%20Olive&tag=bookgateway02-20"
+  },
+  "swimming-pool": {
+    "cover": "https://covers.openlibrary.org/b/id/6995988-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Swimming%20Pool&tag=bookgateway02-20"
+  },
+  "tales-fifth-grade-knight-gibson": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Tales%20of%20a%20Fifth-Grade%20Knight&tag=bookgateway02-20"
+  },
+  "tattooed-by-suzanne-d-williams": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Tattooed&tag=bookgateway02-20"
+  },
+  "tea-with-hezbollah": {
+    "cover": "https://covers.openlibrary.org/b/id/6407620-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Tea%20With%20Hezbollah&tag=bookgateway02-20"
+  },
+  "teen-titans": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Teen%20Titans%20Vol.%201&tag=bookgateway02-20"
+  },
+  "tell-her-no-lies-by-irvin": {
+    "cover": "https://covers.openlibrary.org/b/id/9204583-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Tell%20Her%20No%20Lies&tag=bookgateway02-20"
+  },
+  "tell-the-wind-and-fire-by-sarah-rees-brennan": {
+    "cover": "https://covers.openlibrary.org/b/id/12661118-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Tell%20the%20Wind%20and%20Fire&tag=bookgateway02-20"
+  },
+  "tempestuous": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "tenth-crusader": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Tenth%20Crusader&tag=bookgateway02-20"
+  },
+  "thank-you-god-for-daddy": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Thank%20You%2C%20God%2C%20For%20Daddy&tag=bookgateway02-20"
+  },
+  "that-night-in-nashville-by-kade": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=That%20Night%20In%20Nashville&tag=bookgateway02-20"
+  },
+  "the-21-day-dads-challenge": {
+    "cover": "https://covers.openlibrary.org/b/id/14370661-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%2021-Day%20Dad%27s%20Challenge&tag=bookgateway02-20"
+  },
+  "the-5-love-languages-for-men-by-chapman": {
+    "cover": "https://covers.openlibrary.org/b/id/8920896-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%205%20Love%20Languages%20for%20Men&tag=bookgateway02-20"
+  },
+  "the-5th-wave-by-yancy": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%205th%20Wave&tag=bookgateway02-20"
+  },
+  "the-advent-of-murder-by-martha-ockley": {
+    "cover": "https://covers.openlibrary.org/b/id/7761595-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Advent%20of%20Murder&tag=bookgateway02-20"
+  },
+  "the-adventures-of-mickey-matson-and-the-pirates-code": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "the-air-we-breathe-by-parrish": {
+    "cover": "https://covers.openlibrary.org/b/id/10303475-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Air%20We%20Breathe&tag=bookgateway02-20"
+  },
+  "the-almond-tree": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Almond%20Tree%20Michelle&tag=bookgateway02-20"
+  },
+  "the-amish-blacksmith-by-mindy-starns-clark-susan-meissner": {
+    "cover": "https://covers.openlibrary.org/b/id/7284427-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Amish%20Blacksmith&tag=bookgateway02-20"
+  },
+  "the-answer-to-bad-religion-is-not-no-religion-by-thielen": {
+    "cover": "https://covers.openlibrary.org/b/id/7813789-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Answer%20to%20Bad%20Religion%20is%20Not%20No%20Religion&tag=bookgateway02-20"
+  },
+  "the-apothecarys-daughter-by-julie-klassen": {
+    "cover": "https://covers.openlibrary.org/b/id/9905056-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Apothecary%27s%20Daughter&tag=bookgateway02-20"
+  },
+  "the-archived-by-schwab": {
+    "cover": "https://covers.openlibrary.org/b/id/7990181-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Archived&tag=bookgateway02-20"
+  },
+  "the-battle-of-verril-the-book-of-deacon-3-by-joseph-lallo": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "the-bible-as-improv": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Bible%20As%20Improv&tag=bookgateway02-20"
+  },
+  "the-biggest-story-by-deyoung-and-clark": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "the-blood-of-angels-by-sinisalo": {
+    "cover": "https://covers.openlibrary.org/b/id/8669840-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Blood%20of%20Angels&tag=bookgateway02-20"
+  },
+  "the-bloodlight-chronicles": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Bloodlight%20Chronicles%3A%20Reconciliation&tag=bookgateway02-20"
+  },
+  "the-bones-of-you": {
+    "cover": "https://covers.openlibrary.org/b/id/10126250-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Bones%20of%20You&tag=bookgateway02-20"
+  },
+  "the-book-of-deacon-by-joseph-lallo": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "the-breath-of-dawn": {
+    "cover": "https://covers.openlibrary.org/b/id/7253174-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Breath%20of%20Dawn&tag=bookgateway02-20"
+  },
+  "the-brick-bible-by-brendan-powell-smith": {
+    "cover": "https://covers.openlibrary.org/b/id/7013997-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Brick%20Bible&tag=bookgateway02-20"
+  },
+  "the-bride-wore-coveralls-by-debra-ullrick": {
+    "cover": "https://covers.openlibrary.org/b/id/6643966-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Bride%20Wore%20Coveralls&tag=bookgateway02-20"
+  },
+  "the-bridegrooms-by-allison-pittman": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Bridegrooms&tag=bookgateway02-20"
+  },
+  "the-captive-heart": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Captive%20Heart&tag=bookgateway02-20"
+  },
+  "the-christian-atheist": {
+    "cover": "https://covers.openlibrary.org/b/id/6299690-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Christian%20Atheist&tag=bookgateway02-20"
+  },
+  "the-city-on-the-edge-of-forever-by-ellison": {
+    "cover": "https://covers.openlibrary.org/b/id/802468-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20City%20on%20the%20Edge%20of%20Forever&tag=bookgateway02-20"
+  },
+  "the-collapsing-empire-by-scalzi": {
+    "cover": "https://covers.openlibrary.org/b/id/8443364-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Collapsing%20Empire&tag=bookgateway02-20"
+  },
+  "the-crooked-path-by-joubert": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Crooked%20Path&tag=bookgateway02-20"
+  },
+  "the-crossing": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Crossing&tag=bookgateway02-20"
+  },
+  "the-dawn-of-christmas-by-cindy-woodsmall": {
+    "cover": "https://covers.openlibrary.org/b/id/8577240-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Dawn%20of%20Christmas&tag=bookgateway02-20"
+  },
+  "the-death-instinct": {
+    "cover": "https://covers.openlibrary.org/b/id/6681067-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Death%20Instinct&tag=bookgateway02-20"
+  },
+  "the-deavys-by-foster": {
+    "cover": "https://covers.openlibrary.org/b/id/10455110-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Deavys&tag=bookgateway02-20"
+  },
+  "the-deposit-slip": {
+    "cover": "https://covers.openlibrary.org/b/id/8247407-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Deposit%20Slip&tag=bookgateway02-20"
+  },
+  "the-descent-by-bonansinga": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Descent&tag=bookgateway02-20"
+  },
+  "the-devotion-of-suspect-x": {
+    "cover": "https://covers.openlibrary.org/b/id/6677764-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Devotion%20of%20Suspect%20X&tag=bookgateway02-20"
+  },
+  "the-diviners-tale": {
+    "cover": "https://covers.openlibrary.org/b/id/10264690-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Diviner%27s%20Tale&tag=bookgateway02-20"
+  },
+  "the-dog-stars": {
+    "cover": "https://covers.openlibrary.org/b/id/8226289-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Dog%20Stars&tag=bookgateway02-20"
+  },
+  "the-dopple-ganger-chronicles-the-secret-of-indigo-moon-by-g-p-taylor": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Dopple%20Ganger%20Chronicles%3A%20The%20Secret%20of%20Indigo%20Moon&tag=bookgateway02-20"
+  },
+  "the-dressmaker2": {
+    "cover": "https://covers.openlibrary.org/b/id/6608058-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Dressmaker&tag=bookgateway02-20"
+  },
+  "the-eastern-stars": {
+    "cover": "https://covers.openlibrary.org/b/id/11623743-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Eastern%20Stars&tag=bookgateway02-20"
+  },
+  "the-eighth-day-by-john": {
+    "cover": "https://covers.openlibrary.org/b/id/209658-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Eighth%20Day&tag=bookgateway02-20"
+  },
+  "the-emperors-railroad-by-haley": {
+    "cover": "https://covers.openlibrary.org/b/id/9361576-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Emperor%27s%20Railroad&tag=bookgateway02-20"
+  },
+  "the-expanded-bible": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Expanded%20Bible&tag=bookgateway02-20"
+  },
+  "the-extraordinary-secrets-of-april-may-june-by-robin-benway": {
+    "cover": "https://covers.openlibrary.org/b/id/6455279-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Extraordinary%20Secrets%20of%20April%2C%20May%2C%20June&tag=bookgateway02-20"
+  },
+  "the-facebook-diet": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Facebook%20Diet&tag=bookgateway02-20"
+  },
+  "the-fall-of-the-governor": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Fall%20of%20the%20Governor&tag=bookgateway02-20"
+  },
+  "the-falling-away": {
+    "cover": "https://covers.openlibrary.org/b/id/9649414-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Falling%20Away&tag=bookgateway02-20"
+  },
+  "the-family-of-mine": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Family%20of%20Mine&tag=bookgateway02-20"
+  },
+  "the-fashion-designer-by-moser": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Fashion%20Designer&tag=bookgateway02-20"
+  },
+  "the-fiddler-2": {
+    "cover": "https://covers.openlibrary.org/b/id/7941602-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Fiddler&tag=bookgateway02-20"
+  },
+  "the-fiddler": {
+    "cover": "https://covers.openlibrary.org/b/id/7941602-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Fiddler&tag=bookgateway02-20"
+  },
+  "the-first-christmas-night-and-giveaway": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "the-future": {
+    "cover": "https://covers.openlibrary.org/b/id/7891425-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Future&tag=bookgateway02-20"
+  },
+  "the-galaxy-pirates-hunt-for-the-pyxis-by-ferraris": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Galaxy%20Pirates%3A%20Hunt%20for%20the%20Pyxis&tag=bookgateway02-20"
+  },
+  "the-girl-in-the-wall": {
+    "cover": "https://covers.openlibrary.org/b/id/8049119-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Girl%20in%20the%20Wall&tag=bookgateway02-20"
+  },
+  "the-girl-who-wouldnt-die": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "the-god-puzzle-by-ackerman": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20God%20Puzzle&tag=bookgateway02-20"
+  },
+  "the-golden-cross-by-angela-elwell-hunt": {
+    "cover": "https://covers.openlibrary.org/b/id/834879-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Golden%20Cross&tag=bookgateway02-20"
+  },
+  "the-gospel-according-to-lost": {
+    "cover": "https://covers.openlibrary.org/b/id/8256348-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Gospel%20According%20to%20Lost&tag=bookgateway02-20"
+  },
+  "the-grace-effect": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Grace%20Effect&tag=bookgateway02-20"
+  },
+  "the-great-convergence-the-book-of-deacon-volume-2-by-joseph-lallo": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "the-hardbinger": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Harbinger&tag=bookgateway02-20"
+  },
+  "the-harvest-of-grace": {
+    "cover": "https://covers.openlibrary.org/b/id/9916350-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Harvest%20of%20Grace&tag=bookgateway02-20"
+  },
+  "the-hawaiian-discovery-by-brunstett-and-brunstetter": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Hawaiian%20Discovery&tag=bookgateway02-20"
+  },
+  "the-healers-touch-by-lori-copeland": {
+    "cover": "https://covers.openlibrary.org/b/id/7285980-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Healer%27s%20Touch&tag=bookgateway02-20"
+  },
+  "the-healing-quilt-by-wanda-e-brunstetter": {
+    "cover": "https://covers.openlibrary.org/b/id/7285214-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Healing%20Quilt&tag=bookgateway02-20"
+  },
+  "the-help": {
+    "cover": "https://covers.openlibrary.org/b/id/8387264-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Help&tag=bookgateway02-20"
+  },
+  "the-hidden-flame-by-davis-bunn-janette-oke": {
+    "cover": "https://covers.openlibrary.org/b/id/8014655-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Hidden%20Flame&tag=bookgateway02-20"
+  },
+  "the-hole-in-our-gospel": {
+    "cover": "https://covers.openlibrary.org/b/id/6868632-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Hole%20In%20Our%20Gospel&tag=bookgateway02-20"
+  },
+  "the-house-of-tomorrow-by-peter-bognanni": {
+    "cover": "https://covers.openlibrary.org/b/id/7904460-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20House%20of%20Tomorrow&tag=bookgateway02-20"
+  },
+  "the-humming-room": {
+    "cover": "https://covers.openlibrary.org/b/id/9064147-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Humming%20Room&tag=bookgateway02-20"
+  },
+  "the-hunger-games": {
+    "cover": "https://covers.openlibrary.org/b/id/12646537-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Hunger%20Games&tag=bookgateway02-20"
+  },
+  "the-hunted-by-scudiere": {
+    "cover": "https://covers.openlibrary.org/b/id/10678088-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Hunted&tag=bookgateway02-20"
+  },
+  "the-icecutters-daughter-by-tracie-peterson": {
+    "cover": "https://covers.openlibrary.org/b/id/9043617-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Icecutter%E2%80%99s%20Daughter&tag=bookgateway02-20"
+  },
+  "the-innocents": {
+    "cover": "https://covers.openlibrary.org/b/id/10300614-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Innocents&tag=bookgateway02-20"
+  },
+  "the-intercept": {
+    "cover": "https://covers.openlibrary.org/b/id/7941725-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Intercept&tag=bookgateway02-20"
+  },
+  "the-journey-by-sanna": {
+    "cover": "https://covers.openlibrary.org/b/id/13259016-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Journey&tag=bookgateway02-20"
+  },
+  "the-lady-and-the-officer-by-mary-ellis": {
+    "cover": "https://covers.openlibrary.org/b/id/11551584-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Lady%20and%20the%20Officer&tag=bookgateway02-20"
+  },
+  "the-last-christian-by-david-gregory": {
+    "cover": "https://covers.openlibrary.org/b/id/9147019-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Last%20Christian&tag=bookgateway02-20"
+  },
+  "the-lizard-war-by-patton": {
+    "cover": "https://covers.openlibrary.org/b/id/11672617-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Lizard%20War&tag=bookgateway02-20"
+  },
+  "the-lost-summer-of-louisa-may-alcott-by-kelly-oconnor-mcnees": {
+    "cover": "https://covers.openlibrary.org/b/id/6309308-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Lost%20Summer%20Of%20Louisa%20May%20Alcott&tag=bookgateway02-20"
+  },
+  "the-lost-virtue-of-happiness": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Lost%20Virtue%20of%20Happiness&tag=bookgateway02-20"
+  },
+  "the-lovers-by-vendela-vida": {
+    "cover": "https://covers.openlibrary.org/b/id/8018330-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Lovers&tag=bookgateway02-20"
+  },
+  "the-lumo-project-john": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Lumo%20Project%3A%20John&tag=bookgateway02-20"
+  },
+  "the-maid-of-fairbourne-hall": {
+    "cover": "https://covers.openlibrary.org/b/id/10227929-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Maid%20of%20Fairbourne%20Hall&tag=bookgateway02-20"
+  },
+  "the-marriage-youve-always-wanted-giveaway": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "the-memory-jar": {
+    "cover": "https://covers.openlibrary.org/b/id/11789426-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Memory%20Jar&tag=bookgateway02-20"
+  },
+  "the-mercy-2": {
+    "cover": "https://covers.openlibrary.org/b/id/10813093-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Mercy&tag=bookgateway02-20"
+  },
+  "the-mercy": {
+    "cover": "https://covers.openlibrary.org/b/id/10813093-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Mercy&tag=bookgateway02-20"
+  },
+  "the-middle-kingdom-by-wingrove": {
+    "cover": "https://covers.openlibrary.org/b/id/280359-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Middle%20Kingdom&tag=bookgateway02-20"
+  },
+  "the-missionary": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Missionary&tag=bookgateway02-20"
+  },
+  "the-miting-by-dee-yoder": {
+    "cover": "https://covers.openlibrary.org/b/id/10787602-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Miting&tag=bookgateway02-20"
+  },
+  "the-mockingjay": {
+    "cover": "https://covers.openlibrary.org/b/id/12878880-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Mockingjay&tag=bookgateway02-20"
+  },
+  "the-modern-life-study-bible-nkjv": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Modern%20%20Life%20Study%20Bible%20NKJV&tag=bookgateway02-20"
+  },
+  "the-mystery-of-the-indian-carvings-by-gloria-repp": {
+    "cover": "https://covers.openlibrary.org/b/id/1936649-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Mystery%20of%20the%20Indian%20Carvings&tag=bookgateway02-20"
+  },
+  "the-night-bookmobile": {
+    "cover": "https://covers.openlibrary.org/b/id/7400001-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Night%20Bookmobile&tag=bookgateway02-20"
+  },
+  "the-off-season": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Off%20Season&tag=bookgateway02-20"
+  },
+  "the-one-year-devotions-for-women-by-spangler": {
+    "cover": "https://covers.openlibrary.org/b/id/7265855-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20One%20Year%20Devotions%20for%20Women&tag=bookgateway02-20"
+  },
+  "the-orphan-sister": {
+    "cover": "https://covers.openlibrary.org/b/id/11690867-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Orphan%20Sister&tag=bookgateway02-20"
+  },
+  "the-pack-retribution": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Pack%3A%20Retribution&tag=bookgateway02-20"
+  },
+  "the-painter-by-heller": {
+    "cover": "https://covers.openlibrary.org/b/id/10231595-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Painter&tag=bookgateway02-20"
+  },
+  "the-pleasures-of-men": {
+    "cover": "https://covers.openlibrary.org/b/id/10226304-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Pleasures%20of%20Men&tag=bookgateway02-20"
+  },
+  "the-postmistress": {
+    "cover": "https://covers.openlibrary.org/b/id/6294685-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Postmistress&tag=bookgateway02-20"
+  },
+  "the-pursuit-of-tamsen-littlejohn-by-lori-benton": {
+    "cover": "https://covers.openlibrary.org/b/id/7751138-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Pursuit%20of%20Tamsen%20Littlejohn&tag=bookgateway02-20"
+  },
+  "the-radleys": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Radleys%3A%20A%20Novel&tag=bookgateway02-20"
+  },
+  "the-reason-by-sirls": {
+    "cover": "https://covers.openlibrary.org/b/id/8943437-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Reason&tag=bookgateway02-20"
+  },
+  "the-reichenbach-problem-by-martin-allison-booth": {
+    "cover": "https://covers.openlibrary.org/b/id/8200447-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Reichenbach%20Problem&tag=bookgateway02-20"
+  },
+  "the-rewards-of-simplicity-by-pam-chuck-d-pierce": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Rewards%20of%20Simplicity&tag=bookgateway02-20"
+  },
+  "the-river-by-beverly-lewis": {
+    "cover": "https://covers.openlibrary.org/b/id/7292268-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20River&tag=bookgateway02-20"
+  },
+  "the-road-to-woodbury": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Road%20to%20Woodbury&tag=bookgateway02-20"
+  },
+  "the-rogue-trust-by-deanne-durrett": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Rogue%20Trust&tag=bookgateway02-20"
+  },
+  "the-scroll": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Scroll&tag=bookgateway02-20"
+  },
+  "the-search-to-belong": {
+    "cover": "https://covers.openlibrary.org/b/id/170716-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Search%20to%20Belong&tag=bookgateway02-20"
+  },
+  "the-secret-life-of-a-fool": {
+    "cover": "https://covers.openlibrary.org/b/id/12003068-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Secret%20Life%20of%20a%20Fool&tag=bookgateway02-20"
+  },
+  "the-secret-of-indigo-moon-by-g-p-taylor-2": {
+    "cover": "https://covers.openlibrary.org/b/id/9510786-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Secret%20of%20Indigo%20Moon&tag=bookgateway02-20"
+  },
+  "the-secret-of-indigo-moon-by-g-p-taylor": {
+    "cover": "https://covers.openlibrary.org/b/id/9510786-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Secret%20of%20Indigo%20Moon&tag=bookgateway02-20"
+  },
+  "the-secret-of-paper-and-ink-by-harrel": {
+    "cover": "https://covers.openlibrary.org/b/id/8802554-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Secret%20Of%20Paper%20And%20Ink&tag=bookgateway02-20"
+  },
+  "the-separatists-by-wiehl": {
+    "cover": "https://covers.openlibrary.org/b/id/8839207-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Separatists&tag=bookgateway02-20"
+  },
+  "the-shadow-constant-by-scudiere": {
+    "cover": "https://covers.openlibrary.org/b/id/12041260-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Shadow%20Constant&tag=bookgateway02-20"
+  },
+  "the-silent-governess-by-julie-klassen": {
+    "cover": "https://covers.openlibrary.org/b/id/8189062-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Silent%20Governess&tag=bookgateway02-20"
+  },
+  "the-silvered": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "the-solace-of-water-by-younts": {
+    "cover": "https://covers.openlibrary.org/b/id/9185920-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Solace%20of%20Water&tag=bookgateway02-20"
+  },
+  "the-soldiers-wife": {
+    "cover": "https://covers.openlibrary.org/b/id/6784864-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Soldier%27s%20Wife&tag=bookgateway02-20"
+  },
+  "the-spirit-of-god-illustrated-bible": {
+    "cover": "https://covers.openlibrary.org/b/id/8839840-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Spirit%20of%20God%20Illustrated%20Bible&tag=bookgateway02-20"
+  },
+  "the-spoils-of-eden": {
+    "cover": "https://covers.openlibrary.org/b/id/7920814-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Spoils%20of%20Eden&tag=bookgateway02-20"
+  },
+  "the-story-niv": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Story%3A%20Going%20Deeper%2C%20NIV%3A%20Find%20Your%20Place%20in%20God%27s%20Redemptive%20Plan&tag=bookgateway02-20"
+  },
+  "the-storyteller": {
+    "cover": "https://covers.openlibrary.org/b/id/8263407-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Storyteller&tag=bookgateway02-20"
+  },
+  "the-summer-my-life-began": {
+    "cover": "https://covers.openlibrary.org/b/id/7523115-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Summer%20My%20Life%20Began&tag=bookgateway02-20"
+  },
+  "the-surface-by-scudiere": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Surface&tag=bookgateway02-20"
+  },
+  "the-sword": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Sword&tag=bookgateway02-20"
+  },
+  "the-taken-by-iserles": {
+    "cover": "https://covers.openlibrary.org/b/id/10166673-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Taken&tag=bookgateway02-20"
+  },
+  "the-tapper-twins-go-to-war-with-each-other-by-rodkey": {
+    "cover": "https://covers.openlibrary.org/b/id/10304051-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Tapper%20Twins%20Go%20to%20War%20%28With%20Each%20Other%29&tag=bookgateway02-20"
+  },
+  "the-technologists": {
+    "cover": "https://covers.openlibrary.org/b/id/9324614-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Technologists&tag=bookgateway02-20"
+  },
+  "the-thorn-by-beverly-lewis": {
+    "cover": "https://covers.openlibrary.org/b/id/6582673-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Thorn&tag=bookgateway02-20"
+  },
+  "the-thorn": {
+    "cover": "https://covers.openlibrary.org/b/id/6582673-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Thorn&tag=bookgateway02-20"
+  },
+  "the-time-in-between": {
+    "cover": "https://covers.openlibrary.org/b/id/7963086-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Time%20in%20Between&tag=bookgateway02-20"
+  },
+  "the-transformation-of-bartholomew-fortuno-by-ellen-bryson": {
+    "cover": "https://covers.openlibrary.org/b/id/6810095-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Transformation%20of%20Bartholomew%20Fortuno&tag=bookgateway02-20"
+  },
+  "the-tutors-daughter-2": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Tutor%27s%20Daughter&tag=bookgateway02-20"
+  },
+  "the-tutors-daughter-3": {
+    "cover": "https://covers.openlibrary.org/b/id/10224505-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Tutor%27s%20Daughter&tag=bookgateway02-20"
+  },
+  "the-tutors-daughter": {
+    "cover": "https://covers.openlibrary.org/b/id/10224505-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Tutor%27s%20Daughter&tag=bookgateway02-20"
+  },
+  "the-unbelievable-gospel-by-dodson": {
+    "cover": "https://covers.openlibrary.org/b/id/7333576-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Unbelievable%20Gospel&tag=bookgateway02-20"
+  },
+  "the-uncoupling": {
+    "cover": "https://covers.openlibrary.org/b/id/6716815-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Uncoupling&tag=bookgateway02-20"
+  },
+  "the-unholy": {
+    "cover": "https://covers.openlibrary.org/b/id/8110040-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Unholy&tag=bookgateway02-20"
+  },
+  "the-unmaking-by-nordeman": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "the-utterly-uninteresting-and-unadventurous-tales-of-fred-the-vampire-accountant": {
+    "cover": "https://covers.openlibrary.org/b/id/8667882-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Utterly%20Uninteresting%20and%20Unadventurous%20Tales%20of%20Fred%2C%20the%20Vampire%20Accountant&tag=bookgateway02-20"
+  },
+  "the-vicars-wife-by-katherine-swartz": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Vicar%27s%20Wife&tag=bookgateway02-20"
+  },
+  "the-vigilantes-bride-by-yvonne-harris": {
+    "cover": "https://covers.openlibrary.org/b/id/9435232-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Vigilante%27s%20Bride&tag=bookgateway02-20"
+  },
+  "the-voice-new-testament": {
+    "cover": "https://covers.openlibrary.org/b/id/7825516-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Voice%20New%20Testament&tag=bookgateway02-20"
+  },
+  "the-voice-revised-and-updated": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Voice%20New%20Testament%3A%20Revised%20and%20Updated&tag=bookgateway02-20"
+  },
+  "the-voyage-of-lucy-p-simmons": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "the-war-room-by-tristar-and-faithstep-films": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20War%20Room&tag=bookgateway02-20"
+  },
+  "the-whipping-club": {
+    "cover": "https://covers.openlibrary.org/b/id/10822523-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Whipping%20Club&tag=bookgateway02-20"
+  },
+  "the-windup-girl": {
+    "cover": "https://covers.openlibrary.org/b/id/6463375-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Windup%20Girl&tag=bookgateway02-20"
+  },
+  "the-witness": {
+    "cover": "https://covers.openlibrary.org/b/id/6425430-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Witness&tag=bookgateway02-20"
+  },
+  "the-women-of-christmas-by-liz-curtis-higgs": {
+    "cover": "https://covers.openlibrary.org/b/id/8266617-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Women%20of%20Christmas&tag=bookgateway02-20"
+  },
+  "the-woodcutter-by-kate-danley": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "then-everything-changed": {
+    "cover": "https://covers.openlibrary.org/b/id/7889776-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Then%20Everything%20Changed&tag=bookgateway02-20"
+  },
+  "these-things-hidden": {
+    "cover": "https://covers.openlibrary.org/b/id/6679749-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=These%20Things%20Hidden&tag=bookgateway02-20"
+  },
+  "this-is-your-life-harriet-chance": {
+    "cover": "https://covers.openlibrary.org/b/id/10229692-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=This%20Is%20Your%20Life%2C%20Harriet%20Chance%21&tag=bookgateway02-20"
+  },
+  "thomas-jefferson-by-meacham": {
+    "cover": "https://covers.openlibrary.org/b/id/7248434-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Thomas%20Jefferson&tag=bookgateway02-20"
+  },
+  "thor-goddess-of-thunder-vol-1": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Thor%3A%20Goddess%20of%20Thunder%2C%20Vol.%201&tag=bookgateway02-20"
+  },
+  "though-my-heart-is-torn-by-joanne-bischof": {
+    "cover": "https://covers.openlibrary.org/b/id/7745739-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Though%20My%20Heart%20Is%20Torn&tag=bookgateway02-20"
+  },
+  "though-waters-roar-by-lynn-austin": {
+    "cover": "https://covers.openlibrary.org/b/id/6936514-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Though%20Waters%20Roar&tag=bookgateway02-20"
+  },
+  "threads-suspensions-henderson": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Threads%20of%20Suspensions&tag=bookgateway02-20"
+  },
+  "three-hearts": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Three%20Hearts%20%28DVD%29%20from%20Samaritan%27s%20Purse&tag=bookgateway02-20"
+  },
+  "through-the-deep-waters-by-kim-vogel-sawyer": {
+    "cover": "https://covers.openlibrary.org/b/id/9251312-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Through%20the%20Deep%20Waters&tag=bookgateway02-20"
+  },
+  "tic-tac-tome-by-yonkers": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Tic-Tac-Tome&tag=bookgateway02-20"
+  },
+  "to-swim-at-midnight-by-suzanne-d-willi": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=To%20Swim%20At%20Midnight&tag=bookgateway02-20"
+  },
+  "to-win-her-heart": {
+    "cover": "https://covers.openlibrary.org/b/id/12770843-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=To%20Win%20Her%20Heart&tag=bookgateway02-20"
+  },
+  "tornado-slim-and-the-magic-cowboy-hat": {
+    "cover": "https://covers.openlibrary.org/b/id/10896098-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Tornado%20Slim%20and%20the%20Magic%20Cowboy%20Hat&tag=bookgateway02-20"
+  },
+  "touching-the-sky": {
+    "cover": "https://covers.openlibrary.org/b/id/8120487-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Touching%20the%20Sky&tag=bookgateway02-20"
+  },
+  "traces-of-mercy-by-michael-landon-jr-cindy-kelley": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Traces%20of%20Mercy&tag=bookgateway02-20"
+  },
+  "tractor-herbert": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Red%20Tractor%20%26%20Halfway%20Herbert&tag=bookgateway02-20"
+  },
+  "transcendence": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "travelers-rest": {
+    "cover": "https://covers.openlibrary.org/b/id/8314238-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Travelers%20Rest&tag=bookgateway02-20"
+  },
+  "treasured": {
+    "cover": "https://covers.openlibrary.org/b/id/6305997-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Treasured&tag=bookgateway02-20"
+  },
+  "treasury-of-bible-stories-rhythmical-rhymes-of-biblical-times-by-pulley": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Treasury%20of%20Bible%20Stories%3A%20Rhythmical%20Rhymes%20of%20Biblical%20Times&tag=bookgateway02-20"
+  },
+  "trickster-girl": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Trickster%20Girl&tag=bookgateway02-20"
+  },
+  "trillium-by-jeff-lemire": {
+    "cover": "https://covers.openlibrary.org/b/id/11732731-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Trillium&tag=bookgateway02-20"
+  },
+  "triplanetary": {
+    "cover": "https://covers.openlibrary.org/b/id/4627686-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Triplanetary&tag=bookgateway02-20"
+  },
+  "true-believers": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=True%20Believers&tag=bookgateway02-20"
+  },
+  "true-images": {
+    "cover": "https://covers.openlibrary.org/b/id/1166808-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=True%20Images%3A%20The%20Bible%20for%20Teen%20Girls&tag=bookgateway02-20"
+  },
+  "truth-and-life-dramatized-audio-bible-new-testament": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Truth%20and%20Life%20Dramatized%20Audio%20Bible%20New%20Testament&tag=bookgateway02-20"
+  },
+  "tune": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Tune%20Volume%201&tag=bookgateway02-20"
+  },
+  "twilights-last-gleaming": {
+    "cover": "https://covers.openlibrary.org/b/id/9048614-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Twilight%27s%20Last%20Gleaming&tag=bookgateway02-20"
+  },
+  "twist-faith-green": {
+    "cover": "https://covers.openlibrary.org/b/id/11368665-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Twist%20of%20Faith&tag=bookgateway02-20"
+  },
+  "twitter-cosplay-feed-wizardworld-comic-con-nashville-2015": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Twitter%20Cosplay%20Feed%20-%20%23WizardWorld%20Comic%20Con%20Nashville%202015&tag=bookgateway02-20"
+  },
+  "two-moon-princess": {
+    "cover": "https://covers.openlibrary.org/b/id/8154099-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Two%20Moon%20Princess&tag=bookgateway02-20"
+  },
+  "two-moon-princess2": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Two%20Moon%20Princess&tag=bookgateway02-20"
+  },
+  "unbelievable-by-brierley": {
+    "cover": "https://covers.openlibrary.org/b/id/8806492-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Unbelievable%3F&tag=bookgateway02-20"
+  },
+  "unbelievable-by-katy-tur": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Unbelievable&tag=bookgateway02-20"
+  },
+  "unbidden-magic-series": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Unbidden%20Magic%20Series&tag=bookgateway02-20"
+  },
+  "under-dark-skies-by-scudiere": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Under%20Dark%20Skies&tag=bookgateway02-20"
+  },
+  "under-the-sea-holy-bible-and-giveaway": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Under%20The%20Sea%20Holy%20Bible%20and%20Giveaway&tag=bookgateway02-20"
+  },
+  "undetected-by-dee-henderson": {
+    "cover": "https://covers.openlibrary.org/b/id/8451695-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Undetected&tag=bookgateway02-20"
+  },
+  "unembraceable-by-precarious-yates": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=UnEmbraceable&tag=bookgateway02-20"
+  },
+  "unforeseeable-by-nancy-mehl": {
+    "cover": "https://covers.openlibrary.org/b/id/9018188-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Unforeseeable&tag=bookgateway02-20"
+  },
+  "unhinged-by-schroeder": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Unhinged&tag=bookgateway02-20"
+  },
+  "unstoppable": {
+    "cover": "https://covers.openlibrary.org/b/id/10245739-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Unstoppable&tag=bookgateway02-20"
+  },
+  "unveiling-the-kings-of-israel": {
+    "cover": "https://covers.openlibrary.org/b/id/7137679-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Unveiling%20the%20kings%20of%20Israel&tag=bookgateway02-20"
+  },
+  "up-from-slavery-by-washington": {
+    "cover": "https://covers.openlibrary.org/b/id/119317-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Up%20From%20Slavery&tag=bookgateway02-20"
+  },
+  "vaclav-lena": {
+    "cover": "https://covers.openlibrary.org/b/id/8260109-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Vaclav%20%26%20Lena&tag=bookgateway02-20"
+  },
+  "valley-of-dry-bones": {
+    "cover": "https://covers.openlibrary.org/b/id/12815884-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Valley%20of%20Dry%20Bones&tag=bookgateway02-20"
+  },
+  "veggietales-pirates-mess-detectives-and-a-superhero-by-poth": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=VeggieTales%3A%20Pirates%2C%20Mess%20Detectives%20and%20a%20Superhero&tag=bookgateway02-20"
+  },
+  "vengeance": {
+    "cover": "https://covers.openlibrary.org/b/id/10173673-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Vengeance&tag=bookgateway02-20"
+  },
+  "victory-lab": {
+    "cover": "https://covers.openlibrary.org/b/id/9046358-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Victory%20Lab&tag=bookgateway02-20"
+  },
+  "video-game-plotline-tester-by-atamanov": {
+    "cover": "https://covers.openlibrary.org/b/id/10481404-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Video%20Game%20Plotline%20Tester&tag=bookgateway02-20"
+  },
+  "vienna-secrets": {
+    "cover": "https://covers.openlibrary.org/b/id/6298051-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Vienna%20Secrets&tag=bookgateway02-20"
+  },
+  "vigilantes-bride": {
+    "cover": "https://covers.openlibrary.org/b/id/9435232-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Vigilante%27s%20Bride&tag=bookgateway02-20"
+  },
+  "vip-by-manic-drive": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "visions-of-the-coming-days-by-sanford": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Visions%20of%20the%20Coming%20Days&tag=bookgateway02-20"
+  },
+  "viva-jacquelina-by-meyer": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Viva%20Jacquelina%21&tag=bookgateway02-20"
+  },
+  "voyage-with-the-vikings": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Imagination%20Station%3A%20Voyage%20with%20the%20Vikings&tag=bookgateway02-20"
+  },
+  "wabanaki-blues": {
+    "cover": "https://covers.openlibrary.org/b/id/10820772-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Wabanaki%20Blues&tag=bookgateway02-20"
+  },
+  "walking-dead-vol-18": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Walking%20Dead%20Vol.%2018%3A%20What%20Comes%20After&tag=bookgateway02-20"
+  },
+  "walking-dead": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Walking%20Dead%3A%20Rise%20of%20the%20Governor&tag=bookgateway02-20"
+  },
+  "walking-ghost-phase": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "warlord": {
+    "cover": "https://covers.openlibrary.org/b/id/10437800-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Warlord&tag=bookgateway02-20"
+  },
+  "waterfall": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "wayward-saints": {
+    "cover": "https://covers.openlibrary.org/b/id/8343682-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Wayward%20Saints&tag=bookgateway02-20"
+  },
+  "wee-free-men-by-pratchett": {
+    "cover": "https://covers.openlibrary.org/b/id/14645723-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Wee%20Free%20Men&tag=bookgateway02-20"
+  },
+  "what-blooms-from-dust-by-markert": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=What%20Blooms%20From%20Dust&tag=bookgateway02-20"
+  },
+  "what-once-was-lost-by-kim-vogel-sawyer": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=What%20Once%20Was%20Lost&tag=bookgateway02-20"
+  },
+  "what-your-husband-isnt-telling-you": {
+    "cover": "https://covers.openlibrary.org/b/id/7245058-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=What%20Your%20Husband%20Isn%E2%80%99t%20Telling%20You&tag=bookgateway02-20"
+  },
+  "when-heaven-comes-down": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=When%20Heaven%20Comes%20Down&tag=bookgateway02-20"
+  },
+  "when-hope-blossoms": {
+    "cover": "https://covers.openlibrary.org/b/id/12462520-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=When%20Hope%20Blossoms&tag=bookgateway02-20"
+  },
+  "when-the-blue-shift-comes": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=When%20the%20Blue%20Shift%20Comes&tag=bookgateway02-20"
+  },
+  "where-hope-begins-by-west": {
+    "cover": "https://covers.openlibrary.org/b/id/9185925-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Where%20Hope%20Begins&tag=bookgateway02-20"
+  },
+  "where-lilacs-still-bloom": {
+    "cover": "https://covers.openlibrary.org/b/id/12179763-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Where%20Lilacs%20Still%20Bloom&tag=bookgateway02-20"
+  },
+  "why-evil": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=If%20God%2C%20Why%20Evil%3F&tag=bookgateway02-20"
+  },
+  "why-i-failed": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Why%20I%20Failed%20In%20The%20Music%20Business&tag=bookgateway02-20"
+  },
+  "wife-22": {
+    "cover": "https://covers.openlibrary.org/b/id/10182441-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Wife%2022&tag=bookgateway02-20"
+  },
+  "wildefire": {
+    "cover": "https://covers.openlibrary.org/b/id/9459138-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Wildefire&tag=bookgateway02-20"
+  },
+  "wildest-dreams-by-kade": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Wildest%20Dreams&tag=bookgateway02-20"
+  },
+  "will-save-galaxy-food-croshaw": {
+    "cover": "https://covers.openlibrary.org/b/id/9250022-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Will%20Save%20Galaxy%20for%20Food&tag=bookgateway02-20"
+  },
+  "william-shakespeares-star-wars-by-doescher": {
+    "cover": "https://covers.openlibrary.org/b/id/7260543-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=William%20Shakespeare%E2%80%99s%20Star%20Wars&tag=bookgateway02-20"
+  },
+  "winters-fire": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Winter%27s%20Fire&tag=bookgateway02-20"
+  },
+  "wisdom-of-pixar": {
+    "cover": "https://covers.openlibrary.org/b/id/10353593-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=The%20Wisdom%20of%20Pixar&tag=bookgateway02-20"
+  },
+  "wisdomantics": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "wishcraft-by-kade": {
+    "cover": "https://covers.openlibrary.org/b/id/9197689-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Wishcraft&tag=bookgateway02-20"
+  },
+  "within-my-heart": {
+    "cover": "https://covers.openlibrary.org/b/id/13161554-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Within%20My%20Heart&tag=bookgateway02-20"
+  },
+  "wizard-world-comic-con-nashville-coming": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Wizard%20World%20Comic%20Con%20Nashville%20Coming%21&tag=bookgateway02-20"
+  },
+  "wizard-world-comic-con-nashville-is-coming": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Wizard%20World%20Comic%20Con%20Nashville%20is%20Coming%21&tag=bookgateway02-20"
+  },
+  "wolf-gift": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "wolves-by-molles": {
+    "cover": "https://covers.openlibrary.org/b/id/8762361-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Wolves&tag=bookgateway02-20"
+  },
+  "works-of-darkness-by-v-b-tenery": {
+    "cover": "https://covers.openlibrary.org/b/id/10405198-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Works%20of%20Darkness&tag=bookgateway02-20"
+  },
+  "would-you-read-me-to-sleep": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Would%20You...%20Read%20Me%20To%20Sleep%3F&tag=bookgateway02-20"
+  },
+  "wrens-nest-by-deanne-durrett": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Wren%27s%20Nest&tag=bookgateway02-20"
+  },
+  "wwes-roman-reigns-qa-video-wizardworld-comic-con-nashville": {
+    "cover": null,
+    "isbn": null,
+    "amazon": null,
+    "non_book": true
+  },
+  "year-one-roberts": {
+    "cover": "https://covers.openlibrary.org/b/id/8841058-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Year%20One&tag=bookgateway02-20"
+  },
+  "yes-chef": {
+    "cover": "https://covers.openlibrary.org/b/id/7263727-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=Yes%2C%20Chef&tag=bookgateway02-20"
+  },
+  "you-cant-sit-with-us-by-nancy-rue": {
+    "cover": null,
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=You%20Can%27t%20Sit%20With%20Us&tag=bookgateway02-20"
+  },
+  "youre-gonna-love-me-by-hatcher": {
+    "cover": "https://covers.openlibrary.org/b/id/9932112-M.jpg",
+    "isbn": null,
+    "amazon": "https://www.amazon.com/s?k=You%27re%20Gonna%20Love%20Me&tag=bookgateway02-20"
+  }
+}
