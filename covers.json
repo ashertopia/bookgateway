@@ -1004,7 +1004,7 @@
     "cover_source": "game_branding"
   },
   "asher-dad-plays-retro-bowl": {
-    "cover": "/assets/games/retro-bowl.png",
+    "cover": "/assets/games/retro-bowl.jpg",
     "amazon": null,
     "non_book": true,
     "isbn13": null,
@@ -1040,7 +1040,7 @@
     "cover_source": "game_branding"
   },
   "asher-dad-reviews-football-gm": {
-    "cover": "/assets/games/football-gm.png",
+    "cover": "/assets/games/football-gm.jpg",
     "amazon": null,
     "non_book": true,
     "isbn13": null,
@@ -1049,7 +1049,7 @@
     "cover_source": "game_branding"
   },
   "asher-dad-unboxes-amazon-luna": {
-    "cover": "/assets/games/amazon-luna.png",
+    "cover": "/assets/games/amazon-luna.jpg",
     "amazon": null,
     "non_book": true,
     "isbn13": null,
@@ -4415,10 +4415,11 @@
     "isbn10": "1504018729"
   },
   "panga-online-death-and-axes-by-rowland": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Death%20and%20Axes%20S.L.%20Rowland&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B0CQBFGTZY.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B0CQBFGTZY/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin_user"
   },
   "paradise-valley": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0764208381.01.LZZZZZZZ.jpg",

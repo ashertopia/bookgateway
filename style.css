@@ -93,7 +93,7 @@ nav a.nav-link.nav-all:hover { color: rgba(255,255,255,0.85); }
   height: auto;
   min-width: unset;
   flex-shrink: 0;
-  background: #1a1a2e;
+  background: #f0f0f4;
   overflow: hidden;
   position: relative;
 }
@@ -241,7 +241,7 @@ footer a:hover { color: white; text-decoration: none; }
   .card-cover {
     aspect-ratio: 2 / 3;
     max-height: 280px;
-    background: #111;
+    background: #f0f0f4;
   }
   .card-cover img, .card-cover-img {
     object-fit: contain !important;
