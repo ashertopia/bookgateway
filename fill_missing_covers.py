@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 """
-Fill missing book covers via Open Library + Amazon CDN + optional Google Books.
+Fill missing book covers: Amazon CDN first (verified ISBN-10 / ASIN), then Google Books.
+Open Library is metadata-only (ISBN / id_amazon) — never used as an image source.
 Requires author match — never accepts title-only fallbacks.
 Uses HTML-parsed title/author/publisher from book_meta.
+Affiliate tag: bookgateway02-20
 """
 from __future__ import annotations
 
@@ -26,10 +28,10 @@ from book_meta import (
 
 REVIEWS_FILE = "reviews.json"
 COVERS_FILE = "covers.json"
-DELAY = 0.75
-GB_DELAY = 1.6
-CHECKPOINT_EVERY = 15
-UA = "BookGateway/3.2 (fill-missing-covers)"
+DELAY = 1.0
+GB_DELAY = 1.5
+CHECKPOINT_EVERY = 12
+UA = "BookGateway/3.4 (fill-missing-covers)"
 
 NON_BOOK_SLUGS = re.compile(
     r"asher-dad|football-gm|retro-bowl|amazon-luna|cbs-franchise|hey-mr-president|"
@@ -54,6 +56,8 @@ PROSE_HINT = re.compile(
     r"excellent|film that|dvd)\b",
     re.I,
 )
+ISBN10_RE = re.compile(r"^[0-9X]{10}$", re.I)
+ASIN_LIKE_RE = re.compile(r"^[A-Z0-9]{10}$", re.I)
 
 
 def is_non_book(slug, cats):
@@ -107,6 +111,20 @@ def pick_isbns(isbn_list):
     return None, None
 
 
+def pick_asin(amazon_ids, isbn10=None):
+    """Prefer numeric ISBN-10 style ASIN; else first B0… Kindle ASIN."""
+    ids = [str(a).upper() for a in (amazon_ids or []) if ASIN_LIKE_RE.match(str(a))]
+    if isbn10 and ISBN10_RE.match(isbn10):
+        return isbn10.upper()
+    for a in ids:
+        if ISBN10_RE.match(a):
+            return a
+    for a in ids:
+        if a.startswith("B"):
+            return a
+    return ids[0] if ids else None
+
+
 def clean_author(author: str) -> str:
     if not author:
         return ""
@@ -114,11 +132,9 @@ def clean_author(author: str) -> str:
     a = ROLE_PREFIX.sub("", a)
     a = GIVEAWAY_PAREN.sub("", a).strip()
     a = re.sub(r"\s*\(Give Away!?\)\s*", "", a, flags=re.I).strip()
-    # Drop trailing role notes
     a = re.sub(r"\s*\(.*\)\s*$", "", a).strip()
     if len(a) > 90 or PROSE_HINT.search(a):
         return ""
-    # "Mary Asher, the Golden Reviewer" style
     if re.search(r"\b(reviewer|golden reviewer)\b", a, re.I):
         return ""
     return a
@@ -134,7 +150,6 @@ def resolve_title_author(meta: dict, review: dict) -> tuple[str, str, str]:
 
     if not book_title and card_title:
         book_title = card_title
-    # If bib title looks like review prose, prefer card
     if book_title and (
         len(book_title) > 100
         or PROSE_HINT.search(book_title)
@@ -145,19 +160,27 @@ def resolve_title_author(meta: dict, review: dict) -> tuple[str, str, str]:
 
     if not author and card_author:
         author = card_author
-    # Prefer card author when bib is empty/bad and card has one
     if card_author and (not author or len(card_author) < len(author) * 0.5):
-        # keep fuller bib author when it matches card surname
         if author and author_match(card_author, [author]):
             pass
         elif not author:
             author = card_author
 
-    # Strip series clutter from title for search? keep as-is; OL handles
     return book_title, author, publisher
 
 
-def fetch_json(url, retries=4):
+# Global cooldown timestamps (epoch) after 429s
+_RATE_COOLDOWN = {"gb": 0.0, "ol": 0.0}
+
+
+def fetch_json(url, retries=3, kind="ol"):
+    """Fetch JSON; on 429 set a cooldown and bail instead of multi-minute stalls."""
+    now = time.time()
+    cool = _RATE_COOLDOWN.get(kind, 0.0)
+    if cool > now:
+        # Still in cooldown — skip without waiting
+        return None
+
     for attempt in range(retries):
         try:
             req = Request(url, headers={"User-Agent": UA})
@@ -165,20 +188,21 @@ def fetch_json(url, retries=4):
                 return json.loads(r.read().decode("utf-8"))
         except HTTPError as e:
             if e.code == 429:
-                wait = 35 * (2 ** attempt)
-                print(f"  Rate limited ({e.code}), waiting {wait}s...")
-                time.sleep(wait)
+                wait = min(90, 20 * (2 ** attempt))
+                _RATE_COOLDOWN[kind] = time.time() + wait
+                print(f"  Rate limited ({kind} {e.code}), cooldown {wait}s — skipping source")
+                return None
             elif e.code in (500, 502, 503, 504):
-                time.sleep(5 * (attempt + 1))
+                time.sleep(3 * (attempt + 1))
             else:
                 print(f"  HTTP {e.code} for {url[:90]}")
                 return None
         except (URLError, TimeoutError, OSError) as e:
             print(f"  fetch error: {e}")
-            time.sleep(3 * (attempt + 1))
+            time.sleep(2 * (attempt + 1))
         except Exception as e:
             print(f"  fetch error: {e}")
-            time.sleep(2)
+            time.sleep(1)
     return None
 
 
@@ -201,7 +225,6 @@ def url_ok(url, min_bytes=2000):
                     data = r.read()
                     if len(data) < min_bytes:
                         continue
-                    # reject tiny gif placeholders
                     if ctype.startswith("image/gif") and len(data) < min_bytes:
                         continue
                 if ctype.startswith("image/") or "octet-stream" in ctype or not ctype:
@@ -212,13 +235,12 @@ def url_ok(url, min_bytes=2000):
 
 
 def title_variants(title: str) -> list[str]:
-    """Generate alternate titles for stubborn OL lookups."""
+    """Generate alternate titles for stubborn lookups."""
     variants = []
     t = (title or "").strip()
     if not t:
         return variants
     variants.append(t)
-    # A/The swap
     m = re.match(r"^(a|an|the)\s+(.+)$", t, re.I)
     if m:
         rest = m.group(2)
@@ -230,11 +252,13 @@ def title_variants(title: str) -> list[str]:
     else:
         variants.append(f"The {t}")
         variants.append(f"A {t}")
-    # Drop subtitle after colon/emdash
     for sep in (":", "—", "–", " - "):
         if sep in t:
             variants.append(t.split(sep, 1)[0].strip())
-    # Dedupe preserving order
+    # Drop edition/volume noise
+    t2 = re.sub(r"\s*\((?:revised|updated|expanded|anniversary)[^)]*\)\s*", "", t, flags=re.I)
+    if t2 != t:
+        variants.append(t2.strip())
     seen = set()
     out = []
     for v in variants:
@@ -246,6 +270,7 @@ def title_variants(title: str) -> list[str]:
 
 
 def score_ol_doc(title, author, publisher, doc):
+    """Score OL doc for metadata. Cover URL ignored by callers (policy)."""
     doc_title = doc.get("title") or ""
     doc_authors = doc.get("author_name") or []
     doc_pubs = doc.get("publisher") or []
@@ -262,55 +287,99 @@ def score_ol_doc(title, author, publisher, doc):
         if any(publisher_match(publisher, p) for p in doc_pubs):
             pscore = 0.15
 
-    cover = None
-    if doc.get("cover_i"):
-        cover = f"https://covers.openlibrary.org/b/id/{doc['cover_i']}-L.jpg"
     isbns = doc.get("isbn") or []
     i13, i10 = pick_isbns(isbns)
-    score = tscore + pscore + (0.05 if cover else 0) + (0.05 if i10 else 0)
-    return (score, cover, i13, i10, doc_title, doc_authors)
+    amz_ids = doc.get("id_amazon") or []
+    asin = pick_asin(amz_ids, i10)
+    score = tscore + pscore + (0.05 if i10 else 0) + (0.04 if asin else 0)
+    return (score, i13, i10, asin, doc_title, doc_authors)
 
 
-def open_library_search(title, author="", publisher=""):
+def open_library_meta(title, author="", publisher=""):
     """
-    Return best matching (cover_url, isbn13, isbn10) with author verification.
-    Never accepts a result without author match when author is provided.
+    Author-verified OL search for ISBN-13/10 + Amazon ASIN only.
+    Never returns an OL cover URL (library photos rejected by policy).
+    Returns (isbn13, isbn10, asin, extra_ids) where extra_ids is a list of
+    alternate ISBN-10 / ASIN candidates to try on Amazon CDN.
     """
     if not title or not author:
-        return None, None, None
+        return None, None, None, []
 
     attempts = []
-    for tv in title_variants(title)[:4]:
-        attempts.append({"title": tv, "author": author, "limit": "12",
-                         "fields": "cover_i,isbn,title,author_name,publisher"})
-    # Combined free-text query often finds stubborn titles
+    for tv in title_variants(title)[:3]:
+        attempts.append({
+            "title": tv,
+            "author": author,
+            "limit": "12",
+            "fields": "isbn,title,author_name,publisher,id_amazon",
+        })
     attempts.append({
         "q": f"{title} {author}",
         "limit": "12",
-        "fields": "cover_i,isbn,title,author_name,publisher",
+        "fields": "isbn,title,author_name,publisher,id_amazon",
     })
 
-    best = None
+    scored_docs = []
     for params in attempts:
-        data = fetch_json("https://openlibrary.org/search.json?" + urlencode(params))
-        time.sleep(DELAY)
+        if _RATE_COOLDOWN.get("ol", 0) > time.time():
+            break
+        data = fetch_json("https://openlibrary.org/search.json?" + urlencode(params), kind="ol")
         if not data:
+            if _RATE_COOLDOWN.get("ol", 0) > time.time():
+                break
+            time.sleep(0.3)
             continue
+        time.sleep(DELAY)
         for doc in data.get("docs", []):
             scored = score_ol_doc(title, author, publisher, doc)
             if not scored:
-                # Also try matching against variant title if title param differed
                 qt = params.get("title") or title
                 if qt != title:
                     scored = score_ol_doc(qt, author, publisher, doc)
-            if scored and (best is None or scored[0] > best[0]):
-                best = scored
-        if best and best[0] >= 0.9 and best[1]:
-            break
+            if scored:
+                scored_docs.append((scored, doc))
+        if scored_docs and max(s[0][0] for s in scored_docs) >= 0.9:
+            # keep searching one more query for alternate ISBNs, then stop
+            if params.get("q"):
+                break
 
-    if not best:
-        return None, None, None
-    return best[1], best[2], best[3]
+    if not scored_docs:
+        return None, None, None, []
+
+    scored_docs.sort(key=lambda x: x[0][0], reverse=True)
+    best = scored_docs[0][0]
+    # Collect alternate ISBN-10 / ASINs from top matching docs
+    extras = []
+    seen = set()
+    for scored, doc in scored_docs[:8]:
+        if scored[0] < 0.55:
+            continue
+        i13, i10 = pick_isbns(doc.get("isbn") or [])
+        for cand in [i10] + list(doc.get("id_amazon") or []):
+            if not cand:
+                continue
+            c = str(cand).upper()
+            if not ASIN_LIKE_RE.match(c) or c in seen:
+                continue
+            seen.add(c)
+            extras.append(c)
+        # Also convert any 978 ISBN-13s in the list
+        for raw in (doc.get("isbn") or [])[:12]:
+            c = clean_isbn(raw)
+            if len(c) == 13 and c.startswith("978"):
+                i10b = isbn13_to_isbn10(c)
+                if i10b and i10b.upper() not in seen:
+                    seen.add(i10b.upper())
+                    extras.append(i10b.upper())
+
+    return best[1], best[2], best[3], extras
+
+
+# Back-compat alias used by upgrade_covers.py
+def open_library_search(title, author="", publisher=""):
+    """Legacy: returns (cover_url=None, isbn13, isbn10). Cover always None."""
+    i13, i10, _asin, _extras = open_library_meta(title, author, publisher)
+    return None, i13, i10
 
 
 def google_books_search(title, author="", publisher=""):
@@ -318,24 +387,37 @@ def google_books_search(title, author="", publisher=""):
     if not title or not author:
         return None, None, None
 
+    author_q = author.split(",")[0].split(" and ")[0].strip()
     queries = [
-        f'intitle:"{title}" inauthor:"{author.split(",")[0].split(" and ")[0].strip()}"',
+        f'intitle:"{title}" inauthor:"{author_q}"',
         f"{title} {author}",
     ]
+    # Shorter title variant for stubborn matches
+    for sep in (":", "—", "–"):
+        if sep in title:
+            queries.append(f'intitle:"{title.split(sep, 1)[0].strip()}" inauthor:"{author_q}"')
+            break
+
     best = None
     for q in queries:
+        if _RATE_COOLDOWN.get("gb", 0) > time.time():
+            break
         params = urlencode({
             "q": q,
-            "maxResults": "5",
+            "maxResults": "8",
+            "printType": "books",
             "fields": (
                 "items(volumeInfo(title,authors,publisher,imageLinks,"
                 "industryIdentifiers))"
             ),
         })
-        data = fetch_json(f"https://www.googleapis.com/books/v1/volumes?{params}")
-        time.sleep(GB_DELAY)
+        data = fetch_json(f"https://www.googleapis.com/books/v1/volumes?{params}", kind="gb")
         if not data or "items" not in data:
+            if _RATE_COOLDOWN.get("gb", 0) > time.time():
+                break
+            time.sleep(0.3)
             continue
+        time.sleep(GB_DELAY)
         for item in data["items"]:
             vi = item.get("volumeInfo") or {}
             doc_title = vi.get("title") or ""
@@ -351,9 +433,10 @@ def google_books_search(title, author="", publisher=""):
             il = vi.get("imageLinks") or {}
             src = il.get("thumbnail") or il.get("smallThumbnail")
             if src:
-                src = src.replace("http://", "https://").replace("zoom=1", "zoom=2")
-                # Prefer larger
+                src = src.replace("http://", "https://")
                 src = re.sub(r"zoom=\d", "zoom=2", src)
+                if "zoom=" not in src:
+                    src = src + ("&" if "?" in src else "?") + "zoom=2"
 
             isbn13 = isbn10 = None
             for ident in vi.get("industryIdentifiers") or []:
@@ -365,35 +448,18 @@ def google_books_search(title, author="", publisher=""):
                 isbn10 = isbn13_to_isbn10(isbn13)
 
             pscore = 0.1 if publisher and doc_pub and publisher_match(publisher, doc_pub) else 0
-            score = tscore + pscore + (0.05 if src else 0)
+            score = tscore + pscore + (0.05 if src else 0) + (0.05 if isbn10 else 0)
             cand = (score, src, isbn13, isbn10)
             if best is None or score > best[0]:
                 best = cand
         if best and best[0] >= 0.9 and best[1]:
             break
 
-    if not best or not best[1]:
-        return (None, best[2] if best else None, best[3] if best else None)
+    if not best:
+        return None, None, None
+    if not best[1]:
+        return None, best[2], best[3]
     return best[1], best[2], best[3]
-
-
-def try_cover_by_isbn(isbn10=None, isbn13=None):
-    candidates = []
-    for isbn in (isbn13, isbn10):
-        if isbn:
-            candidates.append(f"https://covers.openlibrary.org/b/isbn/{isbn}-L.jpg")
-    if isbn10 and not isbn10.upper().startswith("B"):
-        candidates.append(
-            f"https://images-na.ssl-images-amazon.com/images/P/{isbn10}.01.LZZZZZZZ.jpg"
-        )
-        candidates.append(
-            f"https://images-na.ssl-images-amazon.com/images/P/{isbn10}.01._SCLZZZZZZZ_.jpg"
-        )
-    for url in candidates:
-        if url_ok(url):
-            return url
-        time.sleep(0.15)
-    return None
 
 
 def try_amazon_asin_cover(asin: str) -> str | None:
@@ -402,15 +468,28 @@ def try_amazon_asin_cover(asin: str) -> str | None:
         return None
     asin = asin.upper()
     candidates = [
-        f"https://images-na.ssl-images-amazon.com/images/P/{asin}.01.MAIN._SCRM_.jpg",
-        f"https://images-na.ssl-images-amazon.com/images/P/{asin}.01._SCLZZZZZZZ_.jpg",
         f"https://images-na.ssl-images-amazon.com/images/P/{asin}.01.LZZZZZZZ.jpg",
+        f"https://images-na.ssl-images-amazon.com/images/P/{asin}.01._SCLZZZZZZZ_.jpg",
+        f"https://images-na.ssl-images-amazon.com/images/P/{asin}.01.MAIN._SCRM_.jpg",
         f"https://m.media-amazon.com/images/P/{asin}.01.LZZZZZZZ.jpg",
     ]
     for url in candidates:
         if url_ok(url, min_bytes=2500):
             return url
-        time.sleep(0.15)
+        time.sleep(0.12)
+    return None
+
+
+def try_cover_by_isbn(isbn10=None, isbn13=None):
+    """Amazon CDN only — never Open Library cover URLs."""
+    if isbn10 and not str(isbn10).upper().startswith("B"):
+        cover = try_amazon_asin_cover(isbn10)
+        if cover:
+            return cover
+    if isbn13:
+        i10 = isbn13_to_isbn10(clean_isbn(isbn13))
+        if i10:
+            return try_amazon_asin_cover(i10)
     return None
 
 
@@ -427,7 +506,7 @@ def verify_amazon_asin(asin: str, title: str, author: str) -> bool:
         req = Request(
             url,
             headers={
-                "User-Agent": "Mozilla/5.0 (compatible; BookGateway/3.2)",
+                "User-Agent": "Mozilla/5.0 (compatible; BookGateway/3.4)",
                 "Accept-Language": "en-US,en;q=0.9",
             },
         )
@@ -435,10 +514,8 @@ def verify_amazon_asin(asin: str, title: str, author: str) -> bool:
             html = r.read().decode("utf-8", errors="ignore")
     except Exception as e:
         print(f"  ASIN page fetch failed ({asin}): {e}")
-        # CDN-only path: allow if we have author (ASIN already on this review)
         return True
 
-    # Extract title-ish signals
     signals = []
     for pat in [
         r"<title>([^<]+)</title>",
@@ -450,19 +527,13 @@ def verify_amazon_asin(asin: str, title: str, author: str) -> bool:
             signals.append(re.sub(r"\s+", " ", m.group(1)).strip())
 
     page_blob = " ".join(signals).lower()
-    # Author often in byline
     byline = ""
-    m = re.search(
-        r'id="bylineInfo"[^>]*>(.*?)</div>',
-        html,
-        re.I | re.S,
-    )
+    m = re.search(r'id="bylineInfo"[^>]*>(.*?)</div>', html, re.I | re.S)
     if m:
         byline = re.sub(r"<[^>]+>", " ", m.group(1))
         byline = re.sub(r"\s+", " ", byline).strip()
 
     t_ok = any(title_similarity(title, s) >= 0.5 for s in signals) if signals else False
-    # Also token check against page title
     if not t_ok and signals:
         nt = set(re.findall(r"[a-z0-9]+", title.lower()))
         ns = set(re.findall(r"[a-z0-9]+", page_blob))
@@ -471,7 +542,6 @@ def verify_amazon_asin(asin: str, title: str, author: str) -> bool:
 
     a_ok = author_match(author, [byline]) if byline else False
     if not a_ok:
-        # author tokens in page blob / byline area
         for part in re.split(r"[,&]| and ", author):
             part = part.strip()
             if len(part) >= 4 and part.lower() in (page_blob + " " + byline.lower()):
@@ -483,8 +553,53 @@ def verify_amazon_asin(asin: str, title: str, author: str) -> bool:
         return False
     if t_ok or a_ok:
         return True
-    # No clear signals — permissive keep for known ASIN + author present
     return True
+
+
+def search_amazon_asin(title: str, author: str) -> str | None:
+    """
+    Discover an ASIN via Amazon search HTML when no ISBN is known.
+    Verifies candidate /dp/ links against title+author before accepting.
+    """
+    if not title or not author:
+        return None
+    q = f"{title} {author}"
+    url = f"https://www.amazon.com/s?k={quote(q)}&i=stripbooks"
+    try:
+        req = Request(
+            url,
+            headers={
+                "User-Agent": (
+                    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+                    "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                ),
+                "Accept-Language": "en-US,en;q=0.9",
+                "Accept": "text/html",
+            },
+        )
+        with urlopen(req, timeout=20) as r:
+            html = r.read().decode("utf-8", errors="ignore")
+    except Exception as e:
+        print(f"  Amazon search failed: {e}")
+        return None
+
+    # Collect ordered unique ASINs from search result /dp/ links
+    asins = []
+    seen = set()
+    for m in re.finditer(r"/dp/([A-Z0-9]{10})", html, re.I):
+        a = m.group(1).upper()
+        if a in seen:
+            continue
+        seen.add(a)
+        asins.append(a)
+        if len(asins) >= 6:
+            break
+
+    for asin in asins:
+        if verify_amazon_asin(asin, title, author):
+            return asin
+        time.sleep(0.35)
+    return None
 
 
 def extract_asin(entry: dict) -> str | None:
@@ -548,9 +663,10 @@ def main():
 
     total = len(candidates)
     print(f"Candidates missing cover: {total}")
+    print("Policy: Amazon CDN (ISBN/ASIN) > Google Books zoom=2; never OL images")
 
     filled = missed = processed = 0
-    sources = {"ol": 0, "isbn": 0, "gb": 0, "asin": 0}
+    sources = {"amazon_cdn": 0, "amazon_asin": 0, "gb": 0}
 
     for review in candidates:
         slug = review["slug"]
@@ -565,6 +681,7 @@ def main():
         source = None
         isbn13 = entry.get("isbn13")
         isbn10 = entry.get("isbn10")
+        asin = extract_asin(entry)
 
         if not book_title or not author:
             print(f"[{processed+1}/{total}] skip (no author/title) {book_title[:50]!r}")
@@ -574,84 +691,116 @@ def main():
             covers[slug] = entry
             continue
 
-        # 1) Open Library (author-required)
-        c, i13, i10 = open_library_search(book_title, author, publisher)
-        if c:
-            cover, source = c, "ol"
-        if i10 and not isbn10:
-            isbn10 = i10
-        if i13 and not isbn13:
-            isbn13 = i13
-
-        # 2) Existing ISBN cover URLs (only if we have ISBN from this verified search
-        #    or previously stored — still require that OL/GB matched author above,
-        #    or try OL books API lightly via cover URL only when ISBN came from OL)
-        if not cover and (isbn10 or isbn13):
-            # Prefer ISBN obtained from author-matched OL above
-            cover = try_cover_by_isbn(isbn10=isbn10, isbn13=isbn13)
-            time.sleep(0.25)
+        # 1) Existing ISBN-10 / ASIN → Amazon CDN
+        if isbn10 and ISBN10_RE.match(str(isbn10)):
+            cover = try_amazon_asin_cover(isbn10)
             if cover:
-                source = "isbn"
+                source = "amazon_cdn"
+                asin = asin or isbn10.upper()
 
-        # 3) Google Books (author-verified) — only if still missing
-        if not cover:
-            c, i13, i10 = google_books_search(book_title, author, publisher)
-            if c:
-                cover, source = c, "gb"
+        if not cover and asin:
+            if verify_amazon_asin(asin, book_title, author):
+                cover = try_amazon_asin_cover(asin)
+                if cover:
+                    source = "amazon_asin"
+            time.sleep(0.2)
+
+        # 2) Open Library metadata only (ISBN + id_amazon) — never OL image
+        extras = []
+        if not cover or not (isbn10 or asin):
+            i13, i10, ol_asin, extras = open_library_meta(book_title, author, publisher)
             if i10 and not isbn10:
                 isbn10 = i10
             if i13 and not isbn13:
                 isbn13 = i13
-            # If GB gave ISBN but weak/no image, try ISBN CDN
-            if not cover and (isbn10 or isbn13):
-                cover = try_cover_by_isbn(isbn10=isbn10, isbn13=isbn13)
-                if cover:
-                    source = "isbn"
+            if ol_asin and not asin:
+                asin = ol_asin
 
-        # 4) Known ASIN / ISBN10 in amazon field (ebook/audiobook)
+        # Try Amazon CDN across primary + alternate IDs from OL
         if not cover:
-            asin = extract_asin(entry)
-            if asin and verify_amazon_asin(asin, book_title, author):
-                cover = try_amazon_asin_cover(asin)
+            candidates = []
+            for c in [isbn10, asin] + list(extras):
+                if not c:
+                    continue
+                cu = str(c).upper()
+                if cu not in candidates and ASIN_LIKE_RE.match(cu):
+                    candidates.append(cu)
+            for cand in candidates[:8]:
+                cover = try_amazon_asin_cover(cand)
                 if cover:
-                    source = "asin"
-                    # Keep Kindle ASINs as amazon dp; don't call them isbn10 unless numeric
-                    if asin[0].isdigit() or asin.upper().startswith(("0", "1", "2", "3", "4", "5", "6", "7", "8", "9")):
-                        if not isbn10 and re.fullmatch(r"[0-9X]{10}", asin, re.I):
-                            isbn10 = asin
-                    entry["amazon"] = amazon_dp_url(asin)
-                time.sleep(0.3)
+                    if ISBN10_RE.match(cand):
+                        isbn10 = cand
+                        source = "amazon_cdn"
+                    else:
+                        asin = cand
+                        source = "amazon_asin"
+                    break
+                time.sleep(0.08)
+
+        # 3) Amazon search scrape for ASIN when still no cover
+        #    (even if a dead ISBN was found — CDN may lack that edition)
+        if not cover:
+            found = search_amazon_asin(book_title, author)
+            time.sleep(0.45)
+            if found:
+                cover = try_amazon_asin_cover(found)
+                if cover:
+                    asin = found
+                    source = "amazon_asin"
+                    if ISBN10_RE.match(found) and not isbn10:
+                        isbn10 = found
+
+        # 4) Google Books last (author-verified zoom=2); also try Amazon CDN from its ISBN
+        if not cover:
+            c, i13, i10 = google_books_search(book_title, author, publisher)
+            if i10 and not isbn10:
+                isbn10 = i10
+            if i13 and not isbn13:
+                isbn13 = i13
+            if i10:
+                am = try_amazon_asin_cover(i10)
+                if am:
+                    cover = am
+                    source = "amazon_cdn"
+                    isbn10 = i10
+                    asin = asin or i10.upper()
+            if not cover and c:
+                cover = c
+                source = "gb"
 
         processed += 1
         if cover:
             entry["cover"] = cover
+            entry["cover_source"] = source
             if isbn13:
                 entry["isbn13"] = isbn13
-            if isbn10 and re.fullmatch(r"[0-9X]{10}", str(isbn10), re.I):
+            if isbn10 and ISBN10_RE.match(str(isbn10)):
                 entry["isbn10"] = isbn10
                 entry["amazon"] = amazon_dp_url(isbn10)
-            elif extract_asin(entry):
-                entry["amazon"] = amazon_dp_url(extract_asin(entry))
+            elif asin:
+                entry["amazon"] = amazon_dp_url(asin)
+                if ISBN10_RE.match(asin):
+                    entry["isbn10"] = asin
             else:
                 entry["amazon"] = amazon_search_url(book_title, author)
             filled += 1
-            sources[source or "ol"] = sources.get(source or "ol", 0) + 1
+            sources[source or "amazon_cdn"] = sources.get(source or "amazon_cdn", 0) + 1
             tag = f" [{source}]"
             if isbn10:
                 tag += f" isbn10={isbn10}"
+            elif asin:
+                tag += f" asin={asin}"
             print(f"[{processed}/{total}] ✓ cover{tag}  {book_title[:48]} / {author[:28]}")
         else:
             if isbn13:
                 entry["isbn13"] = isbn13
-            if isbn10 and re.fullmatch(r"[0-9X]{10}", str(isbn10), re.I):
+            if isbn10 and ISBN10_RE.match(str(isbn10)):
                 entry["isbn10"] = isbn10
                 entry["amazon"] = amazon_dp_url(isbn10)
+            elif asin:
+                entry["amazon"] = amazon_dp_url(asin)
             else:
-                asin = extract_asin(entry)
-                if asin:
-                    entry["amazon"] = amazon_dp_url(asin)
-                else:
-                    entry["amazon"] = amazon_search_url(book_title, author)
+                entry["amazon"] = amazon_search_url(book_title, author)
             missed += 1
             print(f"[{processed}/{total}] ✗ no cover  {book_title[:48]} / {author[:28]}")
 
@@ -684,6 +833,7 @@ def main():
     print(f"  Covers: {c_total}  |  ISBN-10s: {i_total}  |  Direct /dp/ links: {dp_total}")
     print(f"  This run: filled={filled} missed={missed}  |  Still missing: {still_missing}")
     print(f"  Sources: {sources}")
+    print(f"  Affiliate tag: {AFFILIATE_TAG}")
 
 
 if __name__ == "__main__":

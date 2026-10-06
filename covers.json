@@ -152,10 +152,11 @@
     "cover_source": "amazon_cdn"
   },
   "8-bit-bastards-level-2-by-mason": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=8-bit%20Bastards%20Level%202%20Joshua%20Mason&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B07V8SW864.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B07V8SW864/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "8-simple-tools-raising-great-kids-dr-cartmell": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0802413870.01.LZZZZZZZ.jpg",
@@ -185,16 +186,18 @@
     "cover_source": "amazon_cdn"
   },
   "a-call-to-arms-by-p-g-nagle": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=A%20Call%20to%20Arms%20P.%20G.%20Nagle&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1611383862.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1611383862/?tag=bookgateway02-20",
+    "isbn13": "9781611383843",
+    "isbn10": "1611383862",
+    "cover_source": "amazon_cdn"
   },
   "a-captive-heart": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=A%20Captive%20Heart%20Dale%20Cramer&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/076420839X.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/076420839X/?tag=bookgateway02-20",
+    "isbn13": "9781441269942",
+    "isbn10": "076420839X",
+    "cover_source": "amazon_cdn"
   },
   "a-chance-in-the-world": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1613750714.01.LZZZZZZZ.jpg",
@@ -218,10 +221,11 @@
     "cover_source": "amazon_cdn"
   },
   "a-daughters-walk": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=A%20Daughter%27s%20Walk%20Jane%20Kirkpatrick&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1400074290.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1400074290/?tag=bookgateway02-20",
+    "isbn13": "9781400074297",
+    "isbn10": "1400074290",
+    "cover_source": "amazon_cdn"
   },
   "a-different-dream-for-my-child": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1572933070.01.LZZZZZZZ.jpg",
@@ -245,10 +249,11 @@
     "cover_source": "amazon_cdn"
   },
   "a-hearts-home-by-laura-j-marshall": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=A%20Heart%27s%20Home%20Laura%20J.%20Marshall&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B00DH2JTE6.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B00DH2JTE6/?tag=bookgateway02-20",
+    "isbn13": "9781507603888",
+    "isbn10": "1507603886",
+    "cover_source": "amazon_asin"
   },
   "a-home-at-trails-end-by-melody-carlson": {
     "cover": "https://covers.openlibrary.org/b/id/8119464-M.jpg",
@@ -285,16 +290,18 @@
     "cover_source": "amazon_cdn"
   },
   "a-marriage-carol": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=A%20Marriage%20Carol%20Chris%20Fabry%20%26%20Gary%20Chapman&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/080240264X.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/080240264X/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "080240264X",
+    "cover_source": "amazon_asin"
   },
   "a-match-made-in-texas-a-novella-collection-by-mary-connealy-karen-witemeyer-and-": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Match%20Made%20in%20Texas%3A%20A%20Novella%20Collection%20Mary%20Connealy%2C%20Karen%20Witemeyer%2C%20and%20Carol%20Cox&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0764211765.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0764211765/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "0764211765",
+    "cover_source": "amazon_asin"
   },
   "a-match-of-wits-by-jen-turano": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0764211277.01.LZZZZZZZ.jpg",
@@ -380,10 +387,11 @@
     "isbn10": "0307730034"
   },
   "a-season-of-tending": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=A%20Season%20of%20Tending%20Cindy%20Woodsmall&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B007REKL1A.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B007REKL1A/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "a-sensible-arrangement-by-tracie-peterson": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1410464741.01.LZZZZZZZ.jpg",
@@ -428,10 +436,11 @@
     "cover_source": "amazon_cdn"
   },
   "a-year-with-g-k-chesterton": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=A%20Year%20with%20G.K.%20Chesterton%20Edited%20by%20Kevin%20Belmonte&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1595554947.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1595554947/?tag=bookgateway02-20",
+    "isbn13": "9781595554949",
+    "isbn10": "1595554947",
+    "cover_source": "amazon_cdn"
   },
   "a-young-wife": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1451612729.01.LZZZZZZZ.jpg",
@@ -455,10 +464,11 @@
     "cover_source": "amazon_cdn"
   },
   "action-bible": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Action%20Bible%20Illustrated%20by%20Sergio%20Cariello&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0781406080.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0781406080/?tag=bookgateway02-20",
+    "isbn13": "9780781406086",
+    "isbn10": "0781406080",
+    "cover_source": "amazon_cdn"
   },
   "admiral-by-danker": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0451475798.01.LZZZZZZZ.jpg",
@@ -468,10 +478,11 @@
     "cover_source": "amazon_cdn"
   },
   "after-the-fall-by-kylie-ladd": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=After%20The%20Fall%20Mary%20Asher%2C%20the%20Golden%20Reviewer&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1742372309.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1742372309/?tag=bookgateway02-20",
+    "isbn13": "9781742372303",
+    "isbn10": "1742372309",
+    "cover_source": "amazon_cdn"
   },
   "after-the-snow-falls-by-carey-jane-clark": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0991688627.01.LZZZZZZZ.jpg",
@@ -604,14 +615,15 @@
     "cover_source": "amazon_cdn"
   },
   "animal-man-volume-1": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Animal%20Man%20Volume%201%3A%20The%20Hunt%20Jeff%20Lemire%20%26%20Travel%20Foreman&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1401235077.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1401235077/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1401235077",
+    "cover_source": "amazon_asin"
   },
   "apocalypse-z-beginning-end-loureiro": {
     "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Apocalypse%20Z%3A%20The%20Beginning%20of%20the%20End%20By%3A%20Manel%20Loureiro&tag=bookgateway02-20",
+    "amazon": "https://www.amazon.com/s?k=Apocalypse%20Z%3A%20The%20Beginning%20of%20the%20End%20Manel%20Loureiro&tag=bookgateway02-20",
     "isbn13": null,
     "isbn10": null
   },
@@ -1108,16 +1120,18 @@
     "cover_source": "amazon_cdn"
   },
   "attack-of-the-arena": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Imagination%20Station%3A%20Attack%20of%20the%20Arena%20Paul%20McCusker%20%26%20Marianne%20Hering&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1589976282.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1589976282/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1589976282",
+    "cover_source": "amazon_asin"
   },
   "attack1": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Attack%20on%20Titan%201%20Hajime%20Isayama&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1632366991.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1632366991/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1632366991",
+    "cover_source": "amazon_asin"
   },
   "audrey-bunny-giveaway": {
     "cover": null,
@@ -1167,10 +1181,11 @@
     "cover_source": "amazon_cdn"
   },
   "batman-vol-1-the-court-of-owls": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Batman%20Vol.%201%3A%20The%20Court%20of%20Owls%20Artists%3A%20Greg%20Capullo%20and%20Jonathan%20Glapion&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1401235425.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1401235425/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1401235425",
+    "cover_source": "amazon_asin"
   },
   "battle-for-cannibal-island": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1589976746.01.LZZZZZZZ.jpg",
@@ -1181,7 +1196,7 @@
   },
   "batwoman": {
     "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Batwoman%20Vol.%201%3A%20Hydrology%20Artist%3A%20J.H.%20Williams%20III&tag=bookgateway02-20",
+    "amazon": "https://www.amazon.com/s?k=Batwoman%20Vol.%201%3A%20Hydrology%20J.H.%20Williams%20III&tag=bookgateway02-20",
     "isbn13": null,
     "isbn10": null
   },
@@ -1213,10 +1228,11 @@
     "cover_source": "amazon_cdn"
   },
   "beer-a-cookbook": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Beer%20-%20A%20Cookbook%20Good%20Food%20Made%20Better%20with%20Beer&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B007O2CWLC.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B007O2CWLC/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "before-i-fall-review": {
     "cover": null,
@@ -1231,10 +1247,11 @@
     "isbn10": null
   },
   "beforever-full-speed-ahead-by-tripp": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Full%20Speed%20Ahead%3A%20My%20Journey%20with%20Kit%20Valerie%20Tripp&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1609584619.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1609584619/?tag=bookgateway02-20",
+    "isbn13": "9781609584610",
+    "isbn10": "1609584619",
+    "cover_source": "amazon_cdn"
   },
   "befriend-by-sauls": {
     "cover": "https://covers.openlibrary.org/b/id/8893957-M.jpg",
@@ -1243,10 +1260,11 @@
     "isbn10": "1496418328"
   },
   "beguiled-by-deeanne-gist-and-j-mark-bertrand": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Beguiled%20Deeanne%20Gist%20and%20J.%20Mark%20Bertrand&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0764206281.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0764206281/?tag=bookgateway02-20",
+    "isbn13": "9780764206283",
+    "isbn10": "0764206281",
+    "cover_source": "amazon_cdn"
   },
   "beguiled-by-deeanne-gist-j-mark-bertrand": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0764206281.01.LZZZZZZZ.jpg",
@@ -1282,10 +1300,11 @@
     "cover_source": "amazon_cdn"
   },
   "best-american-comics-2011-edited-by-alison-bechdel": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Best%20American%20Comics%202011%20Edited%20by%20Alison%20Bechdel&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0547333625.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0547333625/?tag=bookgateway02-20",
+    "isbn13": "9780547333625",
+    "isbn10": "0547333625",
+    "cover_source": "amazon_cdn"
   },
   "between-sundays-by-karen-kingsbury": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0310283183.01.LZZZZZZZ.jpg",
@@ -1295,10 +1314,11 @@
     "cover_source": "amazon_cdn"
   },
   "beyond-edward-snowden-by-dorazio-and-lauer": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Beyond%3A%20Edward%20Snowden%20Valerie%20D%27Orazio&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B084Z24CFF.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B084Z24CFF/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "beyond-molasses-creek": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1611733170.01.LZZZZZZZ.jpg",
@@ -1315,10 +1335,11 @@
     "isbn10": null
   },
   "biblical-hebrew-by-alef-press": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Biblical%20Hebrew%20Alef%20Press&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0988173867.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0988173867/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "0988173867",
+    "cover_source": "amazon_asin"
   },
   "big-book-of-american-trivia": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0842304711.01.LZZZZZZZ.jpg",
@@ -1328,10 +1349,11 @@
     "cover_source": "amazon_cdn"
   },
   "big-nate-strikes-again": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Big%20Nate%20Strikes%20Again%20Lincoln%20Pierce%20%28Give%20Away%21%29&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0007424884.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0007424884/?tag=bookgateway02-20",
+    "isbn13": "9780007424887",
+    "isbn10": "0007424884",
+    "cover_source": "amazon_cdn"
   },
   "black-city-saint-by-knaak": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1633881377.01.LZZZZZZZ.jpg",
@@ -1369,10 +1391,11 @@
     "cover_source": "amazon_cdn"
   },
   "blessing-by-lyn-cote": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Blessing%20Lyn%20Cote&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1410481522.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1410481522/?tag=bookgateway02-20",
+    "isbn13": "9781496406903",
+    "isbn10": "1410481522",
+    "cover_source": "amazon_cdn"
   },
   "blood-covenant-2": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0310319064.01.LZZZZZZZ.jpg",
@@ -1402,10 +1425,11 @@
     "isbn10": null
   },
   "bound-for-glory": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Bound%20For%20Glory%20Tim%20R.%20Botts&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1414354533.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1414354533/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1414354533",
+    "cover_source": "amazon_asin"
   },
   "brain-in-love": {
     "cover": "https://covers.openlibrary.org/b/id/14666035-L.jpg",
@@ -1505,10 +1529,11 @@
     "cover_source": "amazon_cdn"
   },
   "captains-daughter-delamere": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Captain%E2%80%99s%20Daughter%20Jennifer%20Delamere&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0764219200.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0764219200/?tag=bookgateway02-20",
+    "isbn13": "9780764219207",
+    "isbn10": "0764219200",
+    "cover_source": "amazon_cdn"
   },
   "captive-heart": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/076420839X.01.LZZZZZZZ.jpg",
@@ -1545,10 +1570,11 @@
     "cover_source": "amazon_cdn"
   },
   "catch-the-wind-my-journey-with-caroline-american-girl-beforever-series-caroline": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Beforever%3A%20Catch%20the%20Wind%20Kathleen%20Ernst&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B00MX8BGJ6.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B00MX8BGJ6/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "catching-fire": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0545101433.01.LZZZZZZZ.jpg",
@@ -1565,10 +1591,11 @@
     "cover_source": "amazon_cdn"
   },
   "ceb-deep-blue-kids-bible": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=CEB%20Deep%20Blue%20Kid%27s%20Bible%20CEB%20Deep%20Blue%20Kid%27s%20Bible&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1609260813.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1609260813/?tag=bookgateway02-20",
+    "isbn13": "9781609260811",
+    "isbn10": "1609260813",
+    "cover_source": "amazon_cdn"
   },
   "ceb-with-apocrypha": {
     "cover": null,
@@ -1577,10 +1604,11 @@
     "isbn10": null
   },
   "cellar-doors": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Cellar%20Doors%20Lance%20La%20Coax&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B007TNHPTK.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B007TNHPTK/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "chasing-francis-by-ian-morgan-cron": {
     "cover": "https://covers.openlibrary.org/b/id/831832-M.jpg",
@@ -1652,10 +1680,11 @@
     "isbn10": null
   },
   "city-on-our-knees": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=CITY%20ON%20OUR%20KNEES%20Toby%20Mac&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0764208659.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0764208659/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "0764208659",
+    "cover_source": "amazon_asin"
   },
   "cleaning-house": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1610455126.01.LZZZZZZZ.jpg",
@@ -1671,10 +1700,11 @@
     "isbn10": null
   },
   "closer": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Closer%20Jim%20and%20Cathy%20Burns&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0764208608.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0764208608/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "0764208608",
+    "cover_source": "amazon_asin"
   },
   "coffee-tea-and-holy-water-by-hudson": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1426793146.01.LZZZZZZZ.jpg",
@@ -1758,10 +1788,11 @@
     "cover_source": "amazon_cdn"
   },
   "crazy-stories": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/dp/1433681277/?tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1433681285.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1433681285/?tag=bookgateway02-20",
     "isbn13": "9781433681271",
-    "isbn10": "1433681277"
+    "isbn10": "1433681285",
+    "cover_source": "amazon_cdn"
   },
   "creative-slow-cooker-meals": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0736944915.01.LZZZZZZZ.jpg",
@@ -1778,10 +1809,11 @@
     "cover_source": "amazon_cdn"
   },
   "crosscut": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Crosscut%20Jude%20Harden&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B083JNMDR7.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B083JNMDR7/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "crossed": {
     "cover": null,
@@ -1798,10 +1830,11 @@
     "cover_source": "amazon_cdn"
   },
   "danger-girl-revolver-1": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Danger%20Girl%3A%20Revolver%20%231%20Andy%20Hartnell&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B00GS8HSI0.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B00GS8HSI0/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "dark-blood-smith": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1781852286.01.LZZZZZZZ.jpg",
@@ -1901,10 +1934,11 @@
     "cover_source": "amazon_cdn"
   },
   "deja-vu-bride-by-debra-ullrick": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Deja%20Vu%20Bride%20Debra%20Ullrick&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B00200KCSS.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B00200KCSS/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "deja-vu-card-game": {
     "cover": null,
@@ -1954,10 +1988,11 @@
     "cover_source": "amazon_cdn"
   },
   "devils-kiss": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Devil%27s%20Kiss%20Sarwat%20Chadda&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1423119991.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1423119991/?tag=bookgateway02-20",
+    "isbn13": "9781423119999",
+    "isbn10": "1423119991",
+    "cover_source": "amazon_cdn"
   },
   "deweys-nine-lives": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0525951865.01.LZZZZZZZ.jpg",
@@ -1987,16 +2022,18 @@
     "isbn10": null
   },
   "do-hard-things": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Start%20Here%20Alex%20and%20Brett%20Harris&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1601422709.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1601422709/?tag=bookgateway02-20",
+    "isbn13": "9781601422705",
+    "isbn10": "1601422709",
+    "cover_source": "amazon_cdn"
   },
   "does-god-exist": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Does%20God%20Exist%3F%20Focus%20on%20the%20Family&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1589976916.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1589976916/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1589976916",
+    "cover_source": "amazon_asin"
   },
   "dogfight-a-love-story-by-matt-burgess": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/030747643X.01.LZZZZZZZ.jpg",
@@ -2026,16 +2063,18 @@
     "cover_source": "amazon_cdn"
   },
   "dragons-of-chiril": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Dragons%20of%20Chiril%20Donita%20K.%20Paul&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0307730115.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0307730115/?tag=bookgateway02-20",
+    "isbn13": "9780307730114",
+    "isbn10": "0307730115",
+    "cover_source": "amazon_cdn"
   },
   "dreamer": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Dreamer%2C%20Volume%201%20Lora%20Innes&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1600104657.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1600104657/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1600104657",
+    "cover_source": "amazon_asin"
   },
   "dressmaker": {
     "cover": "https://covers.openlibrary.org/b/id/6608058-M.jpg",
@@ -2087,10 +2126,11 @@
     "cover_source": "amazon_cdn"
   },
   "echoes": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Echoes%20art%20by%20Rahsan%20Ekedal&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1607062151.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1632158612/?tag=bookgateway02-20",
+    "isbn13": "9781632158611",
+    "isbn10": "1632158612",
+    "cover_source": "amazon_asin"
   },
   "eeny-meeny": {
     "cover": null,
@@ -2133,10 +2173,11 @@
     "isbn10": null
   },
   "enhancer-by-kane": {
-    "cover": null,
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B07T1FQ1CK.01.LZZZZZZZ.jpg",
     "isbn10": null,
     "isbn13": null,
-    "amazon": "https://www.amazon.com/dp/B07H8Q5BV7/?tag=bookgateway02-20"
+    "amazon": "https://www.amazon.com/dp/B07T1FQ1CK/?tag=bookgateway02-20",
+    "cover_source": "amazon_asin"
   },
   "escape-to-the-hiding": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1589976932.01.LZZZZZZZ.jpg",
@@ -2146,10 +2187,11 @@
     "cover_source": "amazon_cdn"
   },
   "esv-mens-devotional-bible": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=ESV%20Men%27s%20Devotional%20Bible%20ESV%20Men%27s%20Devotional%20Bible&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0718037413.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0718037413/?tag=bookgateway02-20",
+    "isbn13": "9781433606380",
+    "isbn10": "0718037413",
+    "cover_source": "amazon_cdn"
   },
   "eternally-bound-by-davies": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1543055168.01.LZZZZZZZ.jpg",
@@ -2195,7 +2237,7 @@
   },
   "explore-meteor-crater-and-petrified-forest-dvd-and-study-guide": {
     "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Explore%20Meteor%20Crater%20and%20Petrified%20Forest%20DVD%20and%20study%20guide%20Featuring%20Noah%20Justice&tag=bookgateway02-20",
+    "amazon": "https://www.amazon.com/s?k=Explore%20Meteor%20Crater%20and%20Petrified%20Forest%20DVD%20and%20Study%20Guide%20Featuring%20Noah%20Justice&tag=bookgateway02-20",
     "isbn13": null,
     "isbn10": null
   },
@@ -2233,10 +2275,11 @@
     "cover_source": "amazon_cdn"
   },
   "falcon-down-by-cobb": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Falcon%20Down%20C.H.%20Cobb&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B00DGL4736.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B00DGL4736/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "false-witness": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1414360436.01.LZZZZZZZ.jpg",
@@ -2374,10 +2417,11 @@
     "cover_source": "amazon_cdn"
   },
   "for-better-or-for-worse": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=For%20Better%20or%20For%20Worse%20Diane%20Hunt&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B007V8RR82.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B007V8RR82/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "forget-me-not-by-vicki-hinze": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1601422601.01.LZZZZZZZ.jpg",
@@ -2387,10 +2431,11 @@
     "cover_source": "amazon_cdn"
   },
   "fortune-gray-by-scudiere": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Fortune%20%28Gray%29%20A.%20J.%20Scudiere&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B07FWHNL7Z.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B07FWHNL7Z/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "fortune-red-by-scudiere": {
     "cover": null,
@@ -2399,16 +2444,18 @@
     "isbn10": null
   },
   "forty-days-of-celebration-by-baxter": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Forty%20Days%20of%20Celebration%20Elizabeth%20T.%20Baxter&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1609261828.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1609261828/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1609261828",
+    "cover_source": "amazon_asin"
   },
   "forty-days-of-meditation-by-hawkins": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Forty%20Days%20of%20Meditation%20Pam%20Hawkins&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/160926181X.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/160926181X/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "160926181X",
+    "cover_source": "amazon_asin"
   },
   "founders": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1476740089.01.LZZZZZZZ.jpg",
@@ -2418,10 +2465,11 @@
     "cover_source": "amazon_cdn"
   },
   "fragile-and-perfectly-cracked": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Fragile%20and%20Perfectly%20Cracked%20Sophie%20Wyndham&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B011IUW9JK.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B011IUW9JK/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "freedoms-light-by-coble": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1978606753.01.LZZZZZZZ.jpg",
@@ -2519,22 +2567,25 @@
     "isbn10": "0545765870"
   },
   "ghosted-1-by-williamson-sudzuka-and-mrva": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Ghosted%20%231%20Joshua%20Williamson&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1534399208.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1534399208/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1534399208",
+    "cover_source": "amazon_asin"
   },
   "ghosted-5": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Ghosted%20%235%20Joshua%20Williamson&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B015X9EI14.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B015X9EI14/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "gigi-gods-little-princess-gigis-big-break-by-sheila-walsh": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=GiGi%2C%20God%27s%20Little%20Princess%3A%20Gigi%27s%20Big%20Break%20Sheila%20Walsh&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1400314720.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1400314720/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1400314720",
+    "cover_source": "amazon_asin"
   },
   "girl-parts": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1441858415.01.LZZZZZZZ.jpg",
@@ -2625,10 +2676,11 @@
     "cover_source": "amazon_cdn"
   },
   "gods-not-dead-2": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=God%27s%20Not%20Dead%202%20God%27s%20Not%20Dead%202&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/149641361X.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/149641361X/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "149641361X",
+    "cover_source": "amazon_asin"
   },
   "gods-not-dead-by": {
     "cover": "https://covers.openlibrary.org/b/id/7277265-M.jpg",
@@ -2637,10 +2689,11 @@
     "isbn10": "0718037073"
   },
   "godzilla": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Godzilla%3A%20Gangsters%20and%20Goliaths%20John%20Layman&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1613770332.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1613770332/?tag=bookgateway02-20",
+    "isbn13": "9781613770337",
+    "isbn10": "1613770332",
+    "cover_source": "amazon_cdn"
   },
   "gone-south-by-moseley": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0307730808.01.LZZZZZZZ.jpg",
@@ -2650,10 +2703,11 @@
     "cover_source": "amazon_cdn"
   },
   "goose": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Goose%20Tony%20Siragusa%20and%20Don%20Yeager&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0307955982.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0307955982/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "0307955982",
+    "cover_source": "amazon_asin"
   },
   "gospel-science-fiction": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0664229018.01.LZZZZZZZ.jpg",
@@ -2717,10 +2771,11 @@
     "isbn10": "1433552388"
   },
   "growing-in-faith-hope-and-love-niv-bible-for-teen-girls": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Growing%20in%20Faith%2C%20Hope%2C%20and%20Love%20NIV%20Bible%20for%20Teen%20Girls%20Growing%20in%20Faith%2C%20Hope%2C%20and%20Love%20NIV%20Bible%20for%20Teen%20Girls&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0718037413.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0718037413/?tag=bookgateway02-20",
+    "isbn13": "9781433606380",
+    "isbn10": "0718037413",
+    "cover_source": "amazon_cdn"
   },
   "guardian-herd-starfire-by-alvarez": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0062286064.01.LZZZZZZZ.jpg",
@@ -2769,10 +2824,11 @@
     "isbn10": "1600065481"
   },
   "happiness-1-oshimi": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Happiness%20Shuzo%20Oshimi&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1632363631.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1632363631/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1632363631",
+    "cover_source": "amazon_asin"
   },
   "hard-carbon-by-david-m-salkin": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1618689452.01.LZZZZZZZ.jpg",
@@ -2884,16 +2940,18 @@
     "cover_source": "amazon_cdn"
   },
   "hide-and-seek": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Hide%20and%20Seek%20Jeff%20Struecker%20and%20Alton%20Gansky&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1433677954.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1433677954/?tag=bookgateway02-20",
+    "isbn13": "9781433677953",
+    "isbn10": "1433677954",
+    "cover_source": "amazon_cdn"
   },
   "hilo-the-boy-who-crashed-to-earth-by-winick": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Hilo%3A%20The%20Boy%20Who%20Crashed%20to%20Earth%20Judd%20Winick&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0593375351.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0593375351/?tag=bookgateway02-20",
+    "isbn13": "9780593375358",
+    "isbn10": "0593375351",
+    "cover_source": "amazon_cdn"
   },
   "his-majestys-hope-by-macneal": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1410462587.01.LZZZZZZZ.jpg",
@@ -2903,10 +2961,11 @@
     "cover_source": "amazon_cdn"
   },
   "holliday": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Holliday%20Doug%20Dabbs%20and%20Nate%20Bowden&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B00KRQ11KU.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B00KRQ11KU/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "home-by-yttrup": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1432839098.01.LZZZZZZZ.jpg",
@@ -3029,10 +3088,11 @@
     "isbn10": "0545642744"
   },
   "i-choose-you-today-31-choices-to-make-love-last-by-dearmond": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=I%20Choose%20You%20Today%3A%2031%20Choices%20to%20Make%20Love%20Last%20Deb%20DeArmond&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1426787960.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1426787960/?tag=bookgateway02-20",
+    "isbn13": "9781426787966",
+    "isbn10": "1426787960",
+    "cover_source": "amazon_cdn"
   },
   "i-love-gods-green-earth-by-michael-caroline-carroll": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1414331797.01.LZZZZZZZ.jpg",
@@ -3075,10 +3135,11 @@
     "cover_source": "amazon_cdn"
   },
   "illustrated-family-bible": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Illustrated%20Family%20Bible%20The%20Illustrated%20Family%20Bible&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0718037413.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0718037413/?tag=bookgateway02-20",
+    "isbn13": "9781433606380",
+    "isbn10": "0718037413",
+    "cover_source": "amazon_cdn"
   },
   "im-feeling-lucky": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0547416997.01.LZZZZZZZ.jpg",
@@ -3206,10 +3267,11 @@
     "isbn10": null
   },
   "invincible-universe-4-by-hester-nauck-eltaeb": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Invincible%20Universe%20%234%20Phil%20Hester&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B015XB3IMW.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B015XB3IMW/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "iq-by-ide": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0316449512.01.LZZZZZZZ.jpg",
@@ -3239,10 +3301,11 @@
     "cover_source": "amazon_cdn"
   },
   "israel-under-fire": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Israel%20Under%20Fire%20John%20Ankerberg%20and%20Jimmy%20DeYoung&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0736925848.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0736925848/?tag=bookgateway02-20",
+    "isbn13": "9780736925846",
+    "isbn10": "0736925848",
+    "cover_source": "amazon_cdn"
   },
   "it-can-t-happen-here-by-lewis": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1720337446.01.LZZZZZZZ.jpg",
@@ -3252,10 +3315,11 @@
     "cover_source": "amazon_cdn"
   },
   "jack-and-the-giant-barbecue": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Jack%20and%20the%20Giant%20Barbecue%20Eric%20A.%20Kimmel&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0761461280.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0761461280/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "0761461280",
+    "cover_source": "amazon_asin"
   },
   "janus-stone": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0547237448.01.LZZZZZZZ.jpg",
@@ -3340,10 +3404,11 @@
     "cover_source": "amazon_cdn"
   },
   "justice-league": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Collects%3A%20JUSTICE%20LEAGUE%20%231-6%20Artists%3A%20Jim%20Lee%20and%20Scott%20Williams&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1779510667.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1779510667/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1779510667",
+    "cover_source": "amazon_asin"
   },
   "kaplan-act-premier-2016": {
     "cover": null,
@@ -3360,10 +3425,11 @@
     "cover_source": "amazon_cdn"
   },
   "keep-the-change": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Keep%20the%20Change%20Steve%20Dublanica%20%28Give%20Away%21%29&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0061787302.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0061787302/?tag=bookgateway02-20",
+    "isbn13": "9780061787300",
+    "isbn10": "0061787302",
+    "cover_source": "amazon_cdn"
   },
   "keeping-the-feast": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1594488975.01.LZZZZZZZ.jpg",
@@ -3400,22 +3466,25 @@
     "cover_source": "amazon_cdn"
   },
   "kylie-jean-blueberry-queen": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Kylie%20Jean%20Blueberry%20Queen%20Marci%20Peschke&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1404867562.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1404867562/?tag=bookgateway02-20",
+    "isbn13": "9781404867567",
+    "isbn10": "1404867562",
+    "cover_source": "amazon_cdn"
   },
   "kylie-jean-drama-queen-by-peschke": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Kylie%20Jean%20Drama%20Queen%20Marci%20Peschke&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1406275271.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1406275271/?tag=bookgateway02-20",
+    "isbn13": "9781404889545",
+    "isbn10": "1406275271",
+    "cover_source": "amazon_cdn"
   },
   "kylie-jean-hoop-queen": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Kylie%20Jean%20Hoop%20Queen%20Marci%20Peschke&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1404866175.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1404866175/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1404866175",
+    "cover_source": "amazon_asin"
   },
   "la-la-land-review": {
     "cover": null,
@@ -3444,10 +3513,11 @@
     "cover_source": "amazon_cdn"
   },
   "last-call": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Last%20Call%3A%20The%20Rise%20and%20Fall%20of%20Prohibition%20Daniel%20Okrent&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0743599217.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0743599217/?tag=bookgateway02-20",
+    "isbn13": "9780743599214",
+    "isbn10": "0743599217",
+    "cover_source": "amazon_cdn"
   },
   "last-dragon": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1595827986.01.LZZZZZZZ.jpg",
@@ -3531,10 +3601,11 @@
     "isbn10": "1433522284"
   },
   "little-book-of-great-dates-by-smalley-and-smalley": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Little%20Book%20of%20Great%20Dates%20Greg%20and%20Erin%20Smalley&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1589977726.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1589977726/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1589977726",
+    "cover_source": "amazon_asin"
   },
   "little-princes": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0007354169.01.LZZZZZZZ.jpg",
@@ -3612,10 +3683,11 @@
     "isbn10": null
   },
   "lostfound": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Lost%2BFound%3A%20Finding%20Myself%20by%20Getting%20Lost%20in%20an%20Affair%20David%20Trotter&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1935798014.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1935798014/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1935798014",
+    "cover_source": "amazon_asin"
   },
   "louder-than-words": {
     "cover": null,
@@ -3652,16 +3724,18 @@
     "cover_source": "amazon_cdn"
   },
   "love-the-least-of-these-a-lot": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Love%20the%20Least%20of%20These%20%28A%20Lot%29%20Michael%20Spielman&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B00B40QR02.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B00B40QR02/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "love-war": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Love%20%26%20War%20John%20and%20Stasi%20Eldredge&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0307730212.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0307730212/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "0307730212",
+    "cover_source": "amazon_asin"
   },
   "love-wins": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/006204964X.01.LZZZZZZZ.jpg",
@@ -3692,16 +3766,18 @@
     "cover_source": "amazon_cdn"
   },
   "lucys-mansion-by-deanne-durrett": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Lucy%27s%20Mansion%20Deanne%20Durrett&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B00H4FLIBE.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B00H4FLIBE/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "makai-queen-by-tara-fairfield": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Makai%20Queen%20Tara%20Fairfield&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/193775670X.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/193775670X/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "193775670X",
+    "cover_source": "amazon_asin"
   },
   "make-a-difference": {
     "cover": null,
@@ -3718,22 +3794,25 @@
     "cover_source": "amazon_cdn"
   },
   "manara-library": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Manara%20Library%20Vol.%20One%20script%20by%20Hugo%20Pratt&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1595827838.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1595827838/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1595827838",
+    "cover_source": "amazon_asin"
   },
   "manifest-destinty-1": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Manifest%20Destiny%20%231%20Chris%20Dingess&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1607069822.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1607069822/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1607069822",
+    "cover_source": "amazon_asin"
   },
   "manifest-destiny-4-by-dingess-and-roberts": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Manifest%20Destiny%20%234%20Chris%20Dingess&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1632158906.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1632158906/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1632158906",
+    "cover_source": "amazon_asin"
   },
   "map-of-time": {
     "cover": "https://covers.openlibrary.org/b/id/7026716-M.jpg",
@@ -3770,10 +3849,11 @@
     "cover_source": "amazon_cdn"
   },
   "masters-and-slayers": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/dp/1617151793/?tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0899578845.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0899578845/?tag=bookgateway02-20",
     "isbn13": "9781617151798",
-    "isbn10": "1617151793"
+    "isbn10": "0899578845",
+    "cover_source": "amazon_cdn"
   },
   "matched-by-ally-condie": {
     "cover": null,
@@ -3830,10 +3910,11 @@
     "isbn10": null
   },
   "messiah-origin": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Messiah%3A%20Origin%20Matt%20Dorff%20and%20Mark%20Arey&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0310431611.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0310431611/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "0310431611",
+    "cover_source": "amazon_asin"
   },
   "midway-monkey-madness": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1404863052.01.LZZZZZZZ.jpg",
@@ -3863,10 +3944,11 @@
     "isbn10": "1433684837"
   },
   "moms-night-out-devotional-by-pomarolli": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/dp/1433684853/?tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1433684845.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1433684845/?tag=bookgateway02-20",
     "isbn13": "9781433684852",
-    "isbn10": "1433684853"
+    "isbn10": "1433684845",
+    "cover_source": "amazon_cdn"
   },
   "moondogs": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0385533780.01.LZZZZZZZ.jpg",
@@ -3951,10 +4033,11 @@
     "cover_source": "amazon_cdn"
   },
   "my-once-and-future-love": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=My%20Once%20and%20Future%20Love%20Karla%20Krae&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B00HHUIDDC.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B00HHUIDDC/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "mystery-at-discovery-lake": {
     "cover": null,
@@ -4038,10 +4121,11 @@
     "isbn10": null
   },
   "new-moody-atlas": {
-    "cover": null,
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0802404413.01.LZZZZZZZ.jpg",
     "amazon": "https://www.amazon.com/dp/157567372X/?tag=bookgateway02-20",
     "isbn13": "9781575673721",
-    "isbn10": "157567372X"
+    "isbn10": "157567372X",
+    "cover_source": "amazon_asin"
   },
   "newcomer-woods-fisher": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1410497054.01.LZZZZZZZ.jpg",
@@ -4064,10 +4148,11 @@
     "cover_source": "amazon_cdn"
   },
   "night-again": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=30%20Days%20of%20Night%3A%20Night%2C%20Again%20Joe%20R.%20Lansdale&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1613770774.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1613770774/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1613770774",
+    "cover_source": "amazon_asin"
   },
   "night-bird-freeman": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1531891012.01.LZZZZZZZ.jpg",
@@ -4098,34 +4183,39 @@
     "isbn10": null
   },
   "niv-boys-bible": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=NIV%20Boys%20Bible%20NIV%20Boys%20Bible&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0718037413.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0718037413/?tag=bookgateway02-20",
+    "isbn13": "9781433606380",
+    "isbn10": "0718037413",
+    "cover_source": "amazon_cdn"
   },
   "niv-college-devotional-bible": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=NIV%20College%20Devotional%20Bible%20NIV%20College%20Devotional%20Bible&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0718037413.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0718037413/?tag=bookgateway02-20",
+    "isbn13": "9781433606380",
+    "isbn10": "0718037413",
+    "cover_source": "amazon_cdn"
   },
   "niv-essentials-study-bible": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=NIV%20Essentials%20Study%20Bible%20New%20International%20Version&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/031046045X.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/031046045X/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "031046045X",
+    "cover_source": "amazon_asin"
   },
   "niv-faithgirlz-bible-revised-edition": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=NIV%20Faithgirlz%21%20Bible%2C%20Revised%20Edition%20NIV%20Faithgirlz%21%20Bible%2C%20Revised%20Edition&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0718037413.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0718037413/?tag=bookgateway02-20",
+    "isbn13": "9781433606380",
+    "isbn10": "0718037413",
+    "cover_source": "amazon_cdn"
   },
   "niv-kids-visual-study-bible": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=NIV%20Kid%27s%20Visual%20Study%20Bible%20NIV%20Kid%27s%20Visual%20Study%20Bible&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0718037413.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0718037413/?tag=bookgateway02-20",
+    "isbn13": "9781433606380",
+    "isbn10": "0718037413",
+    "cover_source": "amazon_cdn"
   },
   "niv-life-journey-bible": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0310432480.01.LZZZZZZZ.jpg",
@@ -4134,10 +4224,11 @@
     "isbn10": "0310432480"
   },
   "niv-one-impact-bible": {
-    "cover": null,
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0310439078.01.LZZZZZZZ.jpg",
     "amazon": "https://www.amazon.com/dp/0310440025/?tag=bookgateway02-20",
     "isbn13": "9780310440024",
-    "isbn10": "0310440025"
+    "isbn10": "0310440025",
+    "cover_source": "amazon_asin"
   },
   "niv-ragamuffin-bible": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0310405238.01.LZZZZZZZ.jpg",
@@ -4181,10 +4272,11 @@
     "cover_source": "amazon_cdn"
   },
   "not-by-sight-by-kathy-herman": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/dp/1624908578/?tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0764234706.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0764234706/?tag=bookgateway02-20",
     "isbn13": "9781624908576",
-    "isbn10": "1624908578"
+    "isbn10": "0764234706",
+    "cover_source": "amazon_cdn"
   },
   "not-so-humble-pies": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1440532915.01.LZZZZZZZ.jpg",
@@ -4303,16 +4395,18 @@
     "cover_source": "amazon_cdn"
   },
   "out-of-darkness-by-darrell-case": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Out%20of%20Darkness%20Darrell%20Case&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B007I4ANZ8.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B007I4ANZ8/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "outcast-1-by-kirkman-and-azaceta": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Outcast%20%231%20Robert%20Kirkman&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1632150530.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1632150530/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1632150530",
+    "cover_source": "amazon_asin"
   },
   "oxblood-by-grant": {
     "cover": "https://covers.openlibrary.org/b/id/14760260-L.jpg",
@@ -4387,10 +4481,11 @@
     "cover_source": "amazon_cdn"
   },
   "phoenix-rising": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Phoenix%20Rising%20Pip%20Ballantine%20%26%20Tee%20Morris&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B0DQG28CZP.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B0DQG28CZP/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "pilot-x-by-merritt": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1942645317.01.LZZZZZZZ.jpg",
@@ -4474,10 +4569,11 @@
     "cover_source": "amazon_cdn"
   },
   "preview-invincible-universe-10": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Invincible%20Universe%20%2310%20Phil%20Hester&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B00I9GV9I4.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B00I9GV9I4/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "primal": {
     "cover": "https://covers.openlibrary.org/b/id/6429915-M.jpg",
@@ -4500,10 +4596,11 @@
     "cover_source": "amazon_cdn"
   },
   "progeny": {
-    "cover": null,
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B004M8S7T2.01.LZZZZZZZ.jpg",
     "amazon": "https://www.amazon.com/dp/1458125351/?tag=bookgateway02-20",
     "isbn13": "9781458125354",
-    "isbn10": "1458125351"
+    "isbn10": "1458125351",
+    "cover_source": "amazon_asin"
   },
   "progeny1": {
     "cover": null,
@@ -4513,10 +4610,11 @@
     "isbn10": null
   },
   "promise-me-always-by-kade": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Promise%20Me%20Always%20Savannah%20Kade&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B083HV5W72.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B083HV5W72/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "promises-to-keep-by-ann-tatlock": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0764208098.01.LZZZZZZZ.jpg",
@@ -4562,10 +4660,11 @@
     "cover_source": "amazon_cdn"
   },
   "radical-taking-back-your-faith-from-the-american-dream-by-david-platt": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Radical%20Taking%20Back%20Your%20Faith%20From%20the%20American%20Dream%20David%20Platt&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1601422210.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1601422210/?tag=bookgateway02-20",
+    "isbn13": "9781601422224",
+    "isbn10": "1601422210",
+    "cover_source": "amazon_cdn"
   },
   "rainbows-for-rainy-days-by-campbell": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0857212893.01.LZZZZZZZ.jpg",
@@ -4609,10 +4708,11 @@
     "cover_source": "amazon_cdn"
   },
   "rebel-by-kade": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Rebel%20Savannah%20Kade&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B07TM8GXQQ.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B07TM8GXQQ/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "reclaiming-lily-2": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1410442497.01.LZZZZZZZ.jpg",
@@ -4683,10 +4783,11 @@
     "isbn10": "0062065661"
   },
   "restorer": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Restorer%3A%20Expanded%20Edition%20Sharon%20Hinck&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B0DCQ8R3CJ.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B0DCQ8R3CJ/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "return-to-me-by-lynn-austin": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0764208985.01.LZZZZZZZ.jpg",
@@ -4731,10 +4832,11 @@
     "cover_source": "amazon_cdn"
   },
   "review-chasing-francis": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Chasing%20Francis%3A%20A%20Pilgrim%27s%20Tale%20Ian%20Morgan%20Cron&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1598598856.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1598598856/?tag=bookgateway02-20",
+    "isbn13": "9780310336709",
+    "isbn10": "1598598856",
+    "cover_source": "amazon_cdn"
   },
   "review-eternal-on-the-water": {
     "cover": "https://covers.openlibrary.org/b/id/9064282-M.jpg",
@@ -4783,10 +4885,11 @@
     "isbn10": "1418580988"
   },
   "review-sense-and-sensiblity-insight-edition": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Sense%20and%20Sensiblity%20Insight%20Edition%20Jane%20Austen&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B008CGQM10.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B008CGQM10/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "review-shes-so-dead-to-us": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1416999523.01.LZZZZZZZ.jpg",
@@ -4810,10 +4913,11 @@
     "cover_source": "amazon_cdn"
   },
   "ricky-the-remarkable-raccoon-unlike-any-other-by-roger-carey-and-miles": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Ricky%2C%20The%20Remarkable%20Raccoon%20%28Unlike%20Any%20Other%29%20Peggy%20Roger-Carey&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B005JJWAJ6.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B005JJWAJ6/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "rise-of-the-governor": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0330541366.01.LZZZZZZZ.jpg",
@@ -4823,10 +4927,11 @@
     "cover_source": "amazon_cdn"
   },
   "river-oaks-plantation-by-b-j-robinson": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=River%20Oaks%20Plantation%20B.%20J.%20Robinson&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B01CSOTHQS.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B01CSOTHQS/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "robbie-forester": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0142424382.01.LZZZZZZZ.jpg",
@@ -4843,16 +4948,18 @@
     "cover_source": "amazon_cdn"
   },
   "robopocalypse": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Robopocalypse%3A%20A%20Novel%20Daniel%20H.%20Wilson&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0385533853.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0385533853/?tag=bookgateway02-20",
+    "isbn13": "9780385533850",
+    "isbn10": "0385533853",
+    "cover_source": "amazon_cdn"
   },
   "rodeo-queen": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Kylie%20Jean%20Rodeo%20Queen%20M.%20Pescke&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B00ITYV01M.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B00ITYV01M/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "rose-conspiracy": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0736915141.01.LZZZZZZZ.jpg",
@@ -4944,10 +5051,11 @@
     "cover_source": "amazon_cdn"
   },
   "scorpion-queen": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Scorpion%20Queen%20Alexis%20Ke&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/160310593X.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/160310593X/?tag=bookgateway02-20",
+    "isbn13": "9781603105934",
+    "isbn10": "160310593X",
+    "cover_source": "amazon_cdn"
   },
   "screwtape-letters-audio": {
     "cover": null,
@@ -4976,10 +5084,11 @@
     "isbn10": "0786219483"
   },
   "sense-and-sensibility-insight-edition-by-jane-austen": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Sense%20and%20Sensibility%2C%20Insight%20Edition%20Jane%20Austen&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B008CGQM10.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B008CGQM10/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "shades-of-morning-by-marlo-schalesky-2": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1601422873.01.LZZZZZZZ.jpg",
@@ -5044,16 +5153,18 @@
     "cover_source": "amazon_cdn"
   },
   "shut-up-and-kiss-me-by-christie-craig": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Shut%20Up%20And%20Kiss%20Me%20Christie%20Craig&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B07RC7XNG2.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B07RC7XNG2/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "silver-streak": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Silver%20Streak%20Archives%20Featuring%20the%20Original%20Daredevil%20Volume%201%20Jack%20Cole%2C%20Jack%20Binder%2C%20Bob%20Wood%2C%20Dick%20Briefer%2C%20Ralph%20Johns%2C%20Kane%20Miller&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1595829296.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1595829296/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1595829296",
+    "cover_source": "amazon_asin"
   },
   "sir-quinlan-and-the-swords-of-valor": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1601421281.01.LZZZZZZZ.jpg",
@@ -5119,10 +5230,11 @@
     "isbn10": null
   },
   "skid-the-too-tiny-tunnel-by-jeffery-stoddard": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Skid%20%26%20the%20Too%20Tiny%20Tunnel%20Jeffery%20Stoddard&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1593173555.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1593173555/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1593173555",
+    "cover_source": "amazon_asin"
   },
   "skyfall": {
     "cover": null,
@@ -5138,10 +5250,11 @@
     "isbn10": "1683222032"
   },
   "sluagh-demon-of-the-night-by-darrell-case": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Sluagh%3A%20Demon%20of%20the%20Night%20Darrell%20Case&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/149281542X.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/149281542X/?tag=bookgateway02-20",
+    "isbn13": "9781492815426",
+    "isbn10": "149281542X",
+    "cover_source": "amazon_cdn"
   },
   "small-is-big": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1414339410.01.LZZZZZZZ.jpg",
@@ -5217,10 +5330,11 @@
     "isbn10": null
   },
   "spaceheadz": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Spaceheadz%20Jon%20Scieszka%20and%20Fransesco%20Sedita&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1847389678.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1847389678/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1847389678",
+    "cover_source": "amazon_asin"
   },
   "speaking-from-among-the-bones": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0385344031.01.LZZZZZZZ.jpg",
@@ -5250,10 +5364,11 @@
     "isbn10": "1480355011"
   },
   "star-trek-legion-1": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Star%20Trek%20/%20Legion%20of%20Super-Heroes%20%231%20Chris%20Roberson&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1613772300.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1613772300/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1613772300",
+    "cover_source": "amazon_asin"
   },
   "star-trek-the-next-generationdoctor-who-assimilation2": {
     "cover": null,
@@ -5262,10 +5377,11 @@
     "isbn10": null
   },
   "star-trek-tng-the-hive": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Star%20Trek%20The%20Next%20Generation%3A%20The%20Hive%20Travis%20Fickett%20and%20Joe%20Corroney&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B00BKDH3RY.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B00BKDH3RY/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "star-wars-annihilation": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0345529421.01.LZZZZZZZ.jpg",
@@ -5275,10 +5391,11 @@
     "cover_source": "amazon_cdn"
   },
   "star-wars-darth-vader-and-the-ghost-prison": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Star%20Wars%3A%20Darth%20Vader%20and%20the%20Ghost%20Prison%20Haden%20Blackman&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1593075804.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1593075804/?tag=bookgateway02-20",
+    "isbn13": "9781415681701",
+    "isbn10": "1593075804",
+    "cover_source": "amazon_cdn"
   },
   "star-wars-honor-among-thieves-by-corey": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0804191670.01.LZZZZZZZ.jpg",
@@ -5399,10 +5516,11 @@
     "cover_source": "amazon_cdn"
   },
   "strategem-by-caroll": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/dp/1683229592/?tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1683227301.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1683227301/?tag=bookgateway02-20",
     "isbn13": "9781683229599",
-    "isbn10": "1683229592"
+    "isbn10": "1683227301",
+    "cover_source": "amazon_cdn"
   },
   "strong-female-characters-panel-video-wizardworld-comic-con-nashville": {
     "cover": "https://img.youtube.com/vi/Wqklc3myuRI/hqdefault.jpg",
@@ -5494,10 +5612,11 @@
     "cover_source": "amazon_cdn"
   },
   "teen-titans": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Teen%20Titans%20Scott%20Lobdel&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1401252370.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1401252370/?tag=bookgateway02-20",
+    "isbn13": "9781401252373",
+    "isbn10": "1401252370",
+    "cover_source": "amazon_cdn"
   },
   "tell-her-no-lies-by-irvin": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/172134716X.01.LZZZZZZZ.jpg",
@@ -5623,10 +5742,11 @@
     "isbn10": null
   },
   "the-bible-as-improv": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Bible%20as%20Improv%20Ron%20Mortoia&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B0037B6R6A.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B0037B6R6A/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "the-biggest-story-by-deyoung-and-clark": {
     "cover": null,
@@ -5642,10 +5762,11 @@
     "isbn10": "0720613302"
   },
   "the-bloodlight-chronicles": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Bloodlight%20Chronicles%3A%20Reconciliation%20Steve%20Stanton&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1770901817.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1770901817/?tag=bookgateway02-20",
+    "isbn13": "9781770901810",
+    "isbn10": "1770901817",
+    "cover_source": "amazon_cdn"
   },
   "the-bones-of-you": {
     "cover": "https://covers.openlibrary.org/b/id/10126250-M.jpg",
@@ -5781,10 +5902,11 @@
     "cover_source": "amazon_cdn"
   },
   "the-dopple-ganger-chronicles-the-secret-of-indigo-moon-by-g-p-taylor": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Dopple%20Ganger%20Chronicles%3A%20The%20Secret%20of%20Indigo%20Moon%20G.P.%20Taylor&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1414319487.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1414319487/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1414319487",
+    "cover_source": "amazon_asin"
   },
   "the-dressmaker2": {
     "cover": "https://covers.openlibrary.org/b/id/6608058-M.jpg",
@@ -5828,10 +5950,11 @@
     "cover_source": "amazon_cdn"
   },
   "the-facebook-diet": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Facebook%20Diet%20Gemini%20Adams&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/095546563X.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/095546563X/?tag=bookgateway02-20",
+    "isbn13": "9780955465635",
+    "isbn10": "095546563X",
+    "cover_source": "amazon_cdn"
   },
   "the-fall-of-the-governor": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1427229449.01.LZZZZZZZ.jpg",
@@ -5848,10 +5971,11 @@
     "cover_source": "amazon_cdn"
   },
   "the-family-of-mine": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Family%20of%20Mine%20Victoria%20Gotti&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1439154511.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1439154511/?tag=bookgateway02-20",
+    "isbn13": "9781439154519",
+    "isbn10": "1439154511",
+    "cover_source": "amazon_cdn"
   },
   "the-fashion-designer-by-moser": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1683226011.01.LZZZZZZZ.jpg",
@@ -5886,10 +6010,11 @@
     "isbn10": "067964430X"
   },
   "the-galaxy-pirates-hunt-for-the-pyxis-by-ferraris": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Galaxy%20Pirates%3A%20Hunt%20for%20the%20Pyxis%20Zoe%20Ferraris&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0385392176.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0385392176/?tag=bookgateway02-20",
+    "isbn13": "9780385392174",
+    "isbn10": "0385392176",
+    "cover_source": "amazon_cdn"
   },
   "the-girl-in-the-wall": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1440552711.01.LZZZZZZZ.jpg",
@@ -5906,10 +6031,11 @@
     "isbn10": null
   },
   "the-god-puzzle-by-ackerman": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20God%20Puzzle%20Valerie%20Ackermann&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1939183197.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1939183197/?tag=bookgateway02-20",
+    "isbn13": "9781939183194",
+    "isbn10": "1939183197",
+    "cover_source": "amazon_cdn"
   },
   "the-golden-cross-by-angela-elwell-hunt": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1961394014.01.LZZZZZZZ.jpg",
@@ -6135,10 +6261,11 @@
     "cover_source": "amazon_cdn"
   },
   "the-missionary": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Missionary%20William%20Carmichael%20%26%20David%20Lambert&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1632696096.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1632696096/?tag=bookgateway02-20",
+    "isbn13": "9781632696090",
+    "isbn10": "1632696096",
+    "cover_source": "amazon_cdn"
   },
   "the-miting-by-dee-yoder": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0825443008.01.LZZZZZZZ.jpg",
@@ -6148,16 +6275,18 @@
     "cover_source": "amazon_cdn"
   },
   "the-mockingjay": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Mockingjay%20Suzanne%20Collins&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1407157884.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1407157884/?tag=bookgateway02-20",
+    "isbn13": "9781407157887",
+    "isbn10": "1407157884",
+    "cover_source": "amazon_cdn"
   },
   "the-modern-life-study-bible-nkjv": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Modern%20Life%20Study%20Bible%20The%20Modern%20Life%20Study%20Bible&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0718037413.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0718037413/?tag=bookgateway02-20",
+    "isbn13": "9781433606380",
+    "isbn10": "0718037413",
+    "cover_source": "amazon_cdn"
   },
   "the-mystery-of-the-indian-carvings-by-gloria-repp": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1579247261.01.LZZZZZZZ.jpg",
@@ -6268,10 +6397,11 @@
     "isbn10": "1250013445"
   },
   "the-rogue-trust-by-deanne-durrett": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Rogue%20Trust%20Deanne%20Durrett&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1480256463.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1480256463/?tag=bookgateway02-20",
+    "isbn13": "9781480256460",
+    "isbn10": "1480256463",
+    "cover_source": "amazon_cdn"
   },
   "the-scroll": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1410442446.01.LZZZZZZZ.jpg",
@@ -6370,10 +6500,11 @@
     "cover_source": "amazon_cdn"
   },
   "the-story-niv": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Story%3A%20Going%20Deeper%2C%20NIV%20Find%20Your%20Place%20in%20God%27s%20Redemptive%20Plan&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0310440130.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0310440130/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "0310440130",
+    "cover_source": "amazon_asin"
   },
   "the-storyteller": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1439102767.01.LZZZZZZZ.jpg",
@@ -6390,16 +6521,18 @@
     "cover_source": "amazon_cdn"
   },
   "the-surface-by-scudiere": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Surface%20A.%20J.%20Scudiere&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1948059517.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1948059517/?tag=bookgateway02-20",
+    "isbn13": "9781948059510",
+    "isbn10": "1948059517",
+    "cover_source": "amazon_cdn"
   },
   "the-sword": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Sword%20Brian%20M.%20Liftin&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B0BYBFJ9D7.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B0BYBFJ9D7/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "the-taken-by-iserles": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0545690811.01.LZZZZZZZ.jpg",
@@ -6505,10 +6638,11 @@
     "cover_source": "amazon_cdn"
   },
   "the-vicars-wife-by-katherine-swartz": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Vicar%27s%20Wife%20Katherine%20Swartz&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1782640703.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1782640703/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1782640703",
+    "cover_source": "amazon_asin"
   },
   "the-vigilantes-bride-by-yvonne-harris": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0764208047.01.LZZZZZZZ.jpg",
@@ -6525,10 +6659,11 @@
     "cover_source": "amazon_cdn"
   },
   "the-voice-revised-and-updated": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Thomas%20Nelson%20hopes%20for%20a%20redo%20with%20the%20Voice%20New%20Testament%3A%20Revised%20and%20Updated.%20Revised%20and%20Updated&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B003GAMZMC.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B003GAMZMC/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "the-voyage-of-lucy-p-simmons": {
     "cover": null,
@@ -6538,10 +6673,11 @@
     "isbn10": null
   },
   "the-war-room-by-tristar-and-faithstep-films": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20War%20Room%20is%20an%20excellent%2C%20feel-good%20family%20film%20that%20will%20likely%20make%20you%20laugh%20and%20cry.%20TriStar%20%26%20Faithstep%20Films&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B0DVBL912R.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B0DVBL912R/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "the-whipping-club": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0984553177.01.LZZZZZZZ.jpg",
@@ -6712,10 +6848,11 @@
     "cover_source": "amazon_cdn"
   },
   "treasury-of-bible-stories-rhythmical-rhymes-of-biblical-times-by-pulley": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Treasury%20of%20Bible%20Stories%3A%20Rhythmical%20Rhymes%20of%20Biblical%20Times%20Kelly%20Pulley&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0781409179.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0781409179/?tag=bookgateway02-20",
+    "isbn13": "9780781409179",
+    "isbn10": "0781409179",
+    "cover_source": "amazon_cdn"
   },
   "trickster-girl": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0547196202.01.LZZZZZZZ.jpg",
@@ -6746,16 +6883,18 @@
     "cover_source": "amazon_cdn"
   },
   "true-images": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=True%20Images%20The%20Bible%20for%20Teen%20Girls&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0310080045.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0310080045/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "0310080045",
+    "cover_source": "amazon_asin"
   },
   "truth-and-life-dramatized-audio-bible-new-testament": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Truth%20and%20Life%20Dramatized%20Audio%20Bible%20New%20Testament%20Truth%20and%20Life%20Dramatized%20Audio%20Bible%20New%20Testament&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1591713250.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1591713250/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1591713250",
+    "cover_source": "amazon_asin"
   },
   "tune": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/159643760X.01.LZZZZZZZ.jpg",
@@ -6813,21 +6952,23 @@
   },
   "unbidden-magic-series": {
     "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Unbidden%20Magic%20Series%20Marilee%20Brothers&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "amazon": "https://www.amazon.com/dp/1453630171/?tag=bookgateway02-20",
+    "isbn13": "9781453630174",
+    "isbn10": "1453630171"
   },
   "under-dark-skies-by-scudiere": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Under%20Dark%20Skies%20A.%20J.%20Scudiere&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/B00MY8JUD4.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B00MY8JUD4/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "amazon_asin"
   },
   "under-the-sea-holy-bible-and-giveaway": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Under%20The%20Sea%20Holy%20Bible%20Under%20The%20Sea%20Holy%20Bible&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0718037413.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0718037413/?tag=bookgateway02-20",
+    "isbn13": "9781433606380",
+    "isbn10": "0718037413",
+    "cover_source": "amazon_cdn"
   },
   "undetected-by-dee-henderson": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0764212435.01.LZZZZZZZ.jpg",
@@ -6890,10 +7031,11 @@
     "cover_source": "amazon_cdn"
   },
   "veggietales-pirates-mess-detectives-and-a-superhero-by-poth": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=VeggieTales%3A%20Pirates%2C%20Mess%20Detectives%20and%20a%20Superhero%20Karen%20Poth&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0310742048.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0310742048/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "0310742048",
+    "cover_source": "amazon_asin"
   },
   "vengeance": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1982572353.01.LZZZZZZZ.jpg",
@@ -6951,10 +7093,11 @@
     "cover_source": "amazon_cdn"
   },
   "voyage-with-the-vikings": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=The%20Imagination%20Station%3A%20Voyage%20with%20the%20Vikings%20Paul%20McCusker%20%26%20Marianne%20Hering&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1589976274.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1589976274/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "1589976274",
+    "cover_source": "amazon_asin"
   },
   "wabanaki-blues": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1929345127.01.LZZZZZZZ.jpg",
@@ -6970,10 +7113,11 @@
     "isbn10": null
   },
   "walking-dead": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Walking%20Dead%3A%20Rise%20of%20the%20Governor%20Robert%20Kirkman%20and%20Jay%20Bonansinga&tag=bookgateway02-20",
-    "isbn13": null,
-    "isbn10": null
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/1466882891.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/1466882891/?tag=bookgateway02-20",
+    "isbn13": "9781466882898",
+    "isbn10": "1466882891",
+    "cover_source": "amazon_cdn"
   },
   "walking-ghost-phase": {
     "cover": null,
@@ -7111,10 +7255,11 @@
     "cover_source": "amazon_cdn"
   },
   "winters-fire": {
-    "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Winter%27s%20Fire%20Janice%20Miller&tag=bookgateway02-20",
+    "cover": "https://images-na.ssl-images-amazon.com/images/P/0802479219.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/0802479219/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": "0802479219",
+    "cover_source": "amazon_asin"
   },
   "wisdom-of-pixar": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0830832971.01.LZZZZZZZ.jpg",
