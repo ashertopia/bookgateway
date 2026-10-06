@@ -59,7 +59,7 @@
 <footer><div class="footer-inner"><p class="affiliate-footer">As an Amazon Associate I earn from qualifying purchases.</p><p>&copy; BookGateway.com &mdash; <a href="index.html">Home</a></p></div></footer>
 
 <script>
-/* BookGateway card enhancer v4 — covers.json lookup + logo fallback */
+/* BookGateway card enhancer v5 — covers.json lookup + logo fallback */
 (function(){
   var LOGO_FALLBACK = '/logo.svg';
   var coversData = null;
@@ -180,22 +180,23 @@
       footer.appendChild(rm);
     }
 
-    /* Resolve cover */
+    /* Resolve cover — prefer covers.json image even for non_book (e.g. YouTube thumbs) */
+    var entry = coversMap && coversMap[slug];
+    if (entry && entry.cover) {
+      applyImg(coverEl, entry.cover);
+      return;
+    }
+    if (entry && (entry.non_book || isNonBook(slug, catsText))) {
+      useLogo(coverEl);
+      return;
+    }
     if (isNonBook(slug, catsText)) {
       useLogo(coverEl);
       return;
     }
-
-    var entry = coversMap && coversMap[slug];
     if (entry) {
-      if (entry.non_book) {
-        useLogo(coverEl);
-      } else if (entry.cover) {
-        applyImg(coverEl, entry.cover);
-      } else {
-        /* Known miss — skip API, use logo */
-        useLogo(coverEl);
-      }
+      /* Known miss — skip API, use logo */
+      useLogo(coverEl);
     } else {
       /* Not in covers.json yet — try API */
       fetchFromAPI(bookTitle, author, coverEl);

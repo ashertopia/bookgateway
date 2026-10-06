@@ -86,17 +86,24 @@ nav a.nav-link.nav-all:hover { color: rgba(255,255,255,0.85); }
   z-index: 1;
 }
 
-/* Cover — top of card, fixed height */
+/* Cover — portrait book aspect (~2:3), full-bleed, no letterboxing crop */
 .card-cover {
   width: 100%;
-  height: 170px;
+  aspect-ratio: 2 / 3;
+  height: auto;
   min-width: unset;
   flex-shrink: 0;
-  background: linear-gradient(160deg, #d8d8e8 0%, #b8b8cc 100%);
+  background: #1a1a2e;
   overflow: hidden;
   position: relative;
 }
-.card-cover img { width: 100%; height: 100%; object-fit: cover; object-position: center top; display: block; }
+.card-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+  display: block;
+}
 .card-cover-placeholder { position: absolute; inset: 0; background: linear-gradient(160deg, #dcdce8 0%, #c0c0d4 100%); }
 
 /* Card body */
@@ -141,10 +148,24 @@ nav a.nav-link.nav-all:hover { color: rgba(255,255,255,0.85); }
 .post-divider { border: none; border-top: 1px solid var(--rule); margin: 20px 0; }
 .post-content { font-family: var(--font-serif); font-size: 1.02rem; line-height: 1.85; color: var(--ink); }
 .post-content p { margin-bottom: 1.1em; }
+.post-content { text-align: justify; hyphens: auto; }
 .post-content img { max-width: 150px; height: auto; float: left; margin: 4px 20px 14px 0; border-radius: 4px; box-shadow: 0 3px 12px rgba(0,0,0,0.15); }
 .post-content a { color: var(--red); }
 .post-content::after { content: ''; display: table; clear: both; }
-.book-cover-img { max-width: 140px !important; float: left !important; margin: 0 22px 14px 0 !important; border-radius: 4px !important; box-shadow: 0 4px 16px rgba(0,0,0,0.18) !important; }
+.book-cover-img {
+  max-width: 160px !important;
+  width: 38% !important;
+  height: auto !important;
+  float: left !important;
+  margin: 0 22px 16px 0 !important;
+  border-radius: 4px !important;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.18) !important;
+  object-fit: contain !important;
+  shape-outside: margin-box;
+}
+@media (max-width: 480px) {
+  .book-cover-img { max-width: 120px !important; width: 42% !important; margin: 0 14px 12px 0 !important; }
+}
 
 .card-genre-tag { display: inline-block; font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--red); margin-bottom: 16px; }
 .card-cats { font-size: 0.72rem; color: var(--ink-soft); margin-bottom: 10px; }
@@ -216,7 +237,7 @@ footer a:hover { color: white; text-decoration: none; }
 }
 @media (max-width: 480px) {
   .cards-grid { grid-template-columns: 1fr; }
-  .card-cover { height: 200px; }
+  /* Keep 2:3 aspect — do not force a landscape height (was cropping covers badly) */
 }
 
 /* ── Hero brand text (white on dark hero bg) ── */

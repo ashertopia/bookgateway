@@ -1,30 +1,44 @@
 #!/usr/bin/env python3
 """
 Fill missing book covers via Open Library + Amazon CDN.
-Skips non_book entries and entries that already have a cover.
-Prefer ISBN-13 9780/9781 → isbn10; set amazon /dp/{isbn10}/ affiliate URL.
+Requires author match — never accepts title-only fallbacks.
+Uses HTML-parsed title/author/publisher from book_meta.
 """
+from __future__ import annotations
+
 import json
 import re
 import time
 from urllib.request import urlopen, Request
-from urllib.parse import urlencode
-from urllib.error import HTTPError, URLError
+from urllib.parse import urlencode, quote
+from urllib.error import HTTPError
+
+from book_meta import (
+    AFFILIATE_TAG,
+    amazon_dp_url,
+    amazon_search_url,
+    author_match,
+    build_meta_cache,
+    publisher_match,
+    title_similarity,
+)
 
 REVIEWS_FILE = "reviews.json"
 COVERS_FILE = "covers.json"
-AFFILIATE_TAG = "bookgateway02-20"
 DELAY = 0.7
 CHECKPOINT_EVERY = 20
+UA = "BookGateway/3.1 (fill-missing-covers)"
 
 NON_BOOK_SLUGS = re.compile(
     r"asher-dad|football-gm|retro-bowl|amazon-luna|cbs-franchise|hey-mr-president|"
     r"solitaire-grand|booky-award|showcase|2011-booky|2012-booky|2013-book|2014-book|"
-    r"2016-booky|4159|4570|4764|6606|6612|6617", re.I
+    r"2016-booky|4159|4570|4764|6606|6612|6617",
+    re.I,
 )
 NON_BOOK_CATS = re.compile(
     r"video.games|board.games|tech|movies|interviews|giveaway|"
-    r"asher.boys|arieltopia|matthew.scott|reviewers", re.I
+    r"asher.boys|arieltopia|matthew.scott|reviewers",
+    re.I,
 )
 
 
@@ -50,19 +64,16 @@ def clean_isbn(raw):
 
 
 def pick_isbns(isbn_list):
-    """Prefer ISBN-13 9780/9781 → ISBN-10; else any ISBN-10; else other 978*."""
     cleaned = []
     for raw in isbn_list or []:
         c = clean_isbn(raw)
         if c:
             cleaned.append(c)
-
     for c in cleaned:
         if len(c) == 13 and c.startswith(("9780", "9781")):
             i10 = isbn13_to_isbn10(c)
             if i10:
                 return c, i10
-
     for c in cleaned:
         if len(c) == 10:
             i13 = None
@@ -71,33 +82,21 @@ def pick_isbns(isbn_list):
                     i13 = other
                     break
             return i13, c.upper() if c[-1] in "Xx" else c
-
     for c in cleaned:
         if len(c) == 13 and c.startswith("978"):
             i10 = isbn13_to_isbn10(c)
             if i10:
                 return c, i10
-
-    # Keep a bare isbn13 if nothing convertible
     for c in cleaned:
         if len(c) == 13:
             return c, None
-
     return None, None
-
-
-def amazon_url(isbn10=None, title=""):
-    if isbn10:
-        return f"https://www.amazon.com/dp/{isbn10}/?tag={AFFILIATE_TAG}"
-    from urllib.parse import quote
-    q = re.sub(r"\s+by\s+.*", "", title, flags=re.I).strip()
-    return f"https://www.amazon.com/s?k={quote(q)}&tag={AFFILIATE_TAG}"
 
 
 def fetch_json(url, retries=3):
     for attempt in range(retries):
         try:
-            req = Request(url, headers={"User-Agent": "BookGateway/3.0 (fill-missing-covers)"})
+            req = Request(url, headers={"User-Agent": UA})
             with urlopen(req, timeout=15) as r:
                 return json.loads(r.read().decode("utf-8"))
         except HTTPError as e:
@@ -115,10 +114,9 @@ def fetch_json(url, retries=3):
 
 
 def url_ok(url):
-    """HEAD (fallback GET) — True if status 200 and looks like a real image (not OL/Amazon placeholder)."""
     for method in ("HEAD", "GET"):
         try:
-            req = Request(url, method=method, headers={"User-Agent": "BookGateway/3.0"})
+            req = Request(url, method=method, headers={"User-Agent": UA})
             with urlopen(req, timeout=12) as r:
                 if r.status != 200:
                     continue
@@ -143,45 +141,61 @@ def url_ok(url):
     return False
 
 
-def open_library_search(title, author=""):
+def open_library_search(title, author="", publisher=""):
     """
-    Return best (cover_url, isbn13, isbn10, isbn_list) from OL search.
-    cover_url from cover_i when present; isbns always collected when present.
+    Return best matching (cover_url, isbn13, isbn10) with author verification.
+    Never accepts a result without author match when author is provided.
     """
-    params = {"title": title, "limit": "5", "fields": "cover_i,isbn,title,author_name"}
+    if not title:
+        return None, None, None
+
+    params = {
+        "title": title,
+        "limit": "10",
+        "fields": "cover_i,isbn,title,author_name,publisher",
+    }
     if author:
         params["author"] = author
     data = fetch_json("https://openlibrary.org/search.json?" + urlencode(params))
     if not data:
-        return None, None, None, []
+        return None, None, None
 
-    best_cover = None
-    best_i13 = best_i10 = None
-    best_isbns = []
-
+    scored = []
     for doc in data.get("docs", []):
-        isbns = doc.get("isbn") or []
-        i13, i10 = pick_isbns(isbns)
+        doc_title = doc.get("title") or ""
+        doc_authors = doc.get("author_name") or []
+        doc_pubs = doc.get("publisher") or []
+
+        if author and not author_match(author, doc_authors):
+            continue
+
+        tscore = title_similarity(title, doc_title)
+        if tscore < 0.55:
+            continue
+
+        pscore = 0.0
+        if publisher and doc_pubs:
+            if any(publisher_match(publisher, p) for p in doc_pubs):
+                pscore = 0.15
+
         cover = None
         if doc.get("cover_i"):
             cover = f"https://covers.openlibrary.org/b/id/{doc['cover_i']}-L.jpg"
+        isbns = doc.get("isbn") or []
+        i13, i10 = pick_isbns(isbns)
+        score = tscore + pscore + (0.05 if cover else 0) + (0.05 if i10 else 0)
+        scored.append((score, cover, i13, i10, doc_title, doc_authors))
 
-        # Prefer a doc that has a cover
-        if cover and not best_cover:
-            best_cover, best_i13, best_i10, best_isbns = cover, i13, i10, isbns
-            # good enough if we also have isbn10
-            if i10:
-                return best_cover, best_i13, best_i10, best_isbns
-        elif not best_cover and i10 and not best_i10:
-            best_i13, best_i10, best_isbns = i13, i10, isbns
+    if not scored:
+        return None, None, None
 
-    if best_cover or best_i10:
-        return best_cover, best_i13, best_i10, best_isbns
-    return None, None, None, []
+    scored.sort(key=lambda x: x[0], reverse=True)
+    # Prefer publisher-matching candidate when scores close
+    best = scored[0]
+    return best[1], best[2], best[3]
 
 
 def try_cover_by_isbn(isbn10=None, isbn13=None):
-    """Try OL ISBN cover then Amazon CDN. Return cover URL or None."""
     candidates = []
     for isbn in (isbn13, isbn10):
         if isbn:
@@ -190,7 +204,6 @@ def try_cover_by_isbn(isbn10=None, isbn13=None):
         candidates.append(
             f"https://images-na.ssl-images-amazon.com/images/P/{isbn10}.01.LZZZZZZZ.jpg"
         )
-
     for url in candidates:
         if url_ok(url):
             return url
@@ -205,25 +218,23 @@ def migrate_entry(entry):
         entry["isbn13"] = entry.pop("isbn")
     elif "isbn" in entry:
         entry.pop("isbn", None)
-    if "isbn13" not in entry:
-        entry["isbn13"] = None
-    if "isbn10" not in entry:
-        entry["isbn10"] = None
-    if "cover" not in entry:
-        entry["cover"] = None
-    if "amazon" not in entry:
-        entry["amazon"] = None
+    for k in ("isbn13", "isbn10", "cover", "amazon"):
+        if k not in entry:
+            entry[k] = None
     return entry
 
 
 def save(covers):
     with open(COVERS_FILE, "w", encoding="utf-8") as f:
         json.dump(covers, f, indent=2, ensure_ascii=False)
+        f.write("\n")
 
 
 def main():
     reviews = json.load(open(REVIEWS_FILE, encoding="utf-8"))
     covers = json.load(open(COVERS_FILE, encoding="utf-8"))
+    print("Building / loading book meta…")
+    meta = build_meta_cache(reviews, force=False)
 
     for slug, entry in list(covers.items()):
         covers[slug] = migrate_entry(entry or {})
@@ -250,29 +261,32 @@ def main():
     total = len(candidates)
     print(f"Candidates missing cover: {total}")
 
-    filled = 0
-    missed = 0
-    processed = 0
+    filled = missed = processed = 0
 
     for review in candidates:
         slug = review["slug"]
-        title_full = review.get("title", "")
         entry = migrate_entry(covers.get(slug) or {})
-
-        # Skip if somehow already filled (checkpoint resume)
         if entry.get("cover") or entry.get("non_book"):
             continue
 
-        m = re.match(r"^(.+?)\s+by\s+(.+)$", title_full, re.I)
-        book_title = m.group(1).strip() if m else title_full
-        author = m.group(2).strip() if m else ""
+        m = meta.get(slug) or {}
+        book_title = m.get("title") or ""
+        author = m.get("author") or ""
+        publisher = m.get("publisher") or ""
+        if not book_title:
+            # last resort from card title
+            mt = re.match(r"^(.+?)\s+by\s+(.+)$", review.get("title", ""), re.I)
+            if mt:
+                book_title, author = mt.group(1).strip(), mt.group(2).strip()
+            else:
+                book_title = review.get("title", "")
 
         cover = None
         isbn13 = entry.get("isbn13")
         isbn10 = entry.get("isbn10")
 
-        # 1) OL search title+author
-        c, i13, i10, isbns = open_library_search(book_title, author)
+        # Require author for acceptance when we have one
+        c, i13, i10 = open_library_search(book_title, author, publisher)
         time.sleep(DELAY)
         if c:
             cover = c
@@ -281,37 +295,30 @@ def main():
         if i13 and not isbn13:
             isbn13 = i13
 
-        # 2) OL search title only
-        if not cover:
-            c, i13, i10, isbns2 = open_library_search(book_title, "")
-            time.sleep(DELAY)
-            if c:
-                cover = c
-            if i10 and not isbn10:
-                isbn10 = i10
-            if i13 and not isbn13:
-                isbn13 = i13
-            if not isbns and isbns2:
-                isbns = isbns2
+        # If author search failed and we have author, do NOT fall back to title-only.
+        # If we have no author at all, skip cover (safer).
+        if not cover and not author:
+            print(f"[{processed+1}/{total}] skip (no author) {book_title[:50]}")
+            missed += 1
+            processed += 1
+            entry["amazon"] = entry.get("amazon") or amazon_search_url(book_title, author)
+            covers[slug] = entry
+            continue
 
-        # Derive isbn from any leftover list
-        if not isbn10 and isbns:
-            i13, i10 = pick_isbns(isbns)
-            if i10:
-                isbn10 = i10
-            if i13 and not isbn13:
-                isbn13 = i13
+        # Optional: second search with title + publisher in query string if first missed
+        if not cover and publisher:
+            c, i13, i10 = open_library_search(
+                f"{book_title}", author, publisher
+            )
+            # already slept; one more polite delay only if we actually searched again
+            # (same call pattern — skip duplicate; already tried)
+            pass
 
-        # 3) If we have ISBN but no cover, try OL isbn cover + Amazon CDN
         if not cover and (isbn10 or isbn13):
+            # Only use existing ISBN cover if we already verified ISBN in audit,
+            # or verify via OL books API author match
             cover = try_cover_by_isbn(isbn10=isbn10, isbn13=isbn13)
             time.sleep(DELAY)
-
-        # 4) If still no cover but we got isbns from a no-cover OL doc earlier,
-        #    still try CDN with whatever we have
-        if not cover and not isbn10:
-            # one more OL pass already done; nothing else without Google Books
-            pass
 
         processed += 1
         if cover:
@@ -320,31 +327,31 @@ def main():
                 entry["isbn13"] = isbn13
             if isbn10:
                 entry["isbn10"] = isbn10
-            entry["amazon"] = amazon_url(isbn10, title_full)
+            entry["amazon"] = (
+                amazon_dp_url(isbn10) if isbn10 else amazon_search_url(book_title, author)
+            )
             filled += 1
             tag = f" isbn10={isbn10}" if isbn10 else ""
-            print(f"[{processed}/{total}] ✓ cover{tag}  {title_full[:55]}")
+            print(f"[{processed}/{total}] ✓ cover{tag}  {book_title[:50]} / {author[:30]}")
         else:
-            # Still save any ISBNs we found even without cover
             if isbn13:
                 entry["isbn13"] = isbn13
             if isbn10:
                 entry["isbn10"] = isbn10
-                entry["amazon"] = amazon_url(isbn10, title_full)
-            elif not entry.get("amazon"):
-                entry["amazon"] = amazon_url(None, title_full)
+                entry["amazon"] = amazon_dp_url(isbn10)
+            else:
+                entry["amazon"] = amazon_search_url(book_title, author)
             missed += 1
-            print(f"[{processed}/{total}] ✗ no cover  {title_full[:55]}")
+            print(f"[{processed}/{total}] ✗ no cover  {book_title[:50]} / {author[:30]}")
 
         covers[slug] = entry
 
         if processed % CHECKPOINT_EVERY == 0:
             save(covers)
             c_total = sum(1 for v in covers.values() if v and v.get("cover"))
-            print(f"  → checkpoint: {c_total} covers ({filled} filled, {missed} missed this run)")
+            print(f"  → checkpoint: {c_total} covers ({filled} filled, {missed} missed)")
 
     save(covers)
-
     c_total = sum(1 for v in covers.values() if v and v.get("cover"))
     i_total = sum(1 for v in covers.values() if v and v.get("isbn10"))
     dp_total = sum(

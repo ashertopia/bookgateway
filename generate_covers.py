@@ -153,18 +153,13 @@ def main():
 
         # ── PASS 1: find cover if missing ────────────────────────────────────
         if not has_cover:
-            # Try Google Books: title + author
-            c, i13, i10 = google_books(f"{book_title} {author}".strip())
+            # Title+author only — never accept title-only matches (wrong covers)
+            c, i13, i10 = google_books(f"{book_title} {author}".strip()) if author else (None, None, None)
             time.sleep(DELAY)
-            if not c:
-                c, i13, i10 = google_books(book_title)
-                time.sleep(DELAY)
-            if not c:
+            if not c and author:
                 c, i13, i10 = open_library(book_title, author)
                 time.sleep(DELAY)
-            if not c:
-                c, i13, i10 = open_library(book_title)
-                time.sleep(DELAY)
+            # Title-only fallback REMOVED (caused mismatches e.g. Enhancer/Ask Me To Stay)
             if c:
                 cover, isbn13, isbn10 = c, i13, i10
                 covers_added += 1
