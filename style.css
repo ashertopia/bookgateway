@@ -97,7 +97,7 @@ nav a.nav-link.nav-all:hover { color: rgba(255,255,255,0.85); }
   overflow: hidden;
   position: relative;
 }
-.card-cover img {
+.card-cover img, .card-cover-img {
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -237,7 +237,21 @@ footer a:hover { color: white; text-decoration: none; }
 }
 @media (max-width: 480px) {
   .cards-grid { grid-template-columns: 1fr; }
-  /* Keep 2:3 aspect — do not force a landscape height (was cropping covers badly) */
+  /* Phone: show full cover (contain) with capped height — less huge/cropped trash */
+  .card-cover {
+    aspect-ratio: 2 / 3;
+    max-height: 280px;
+    background: #111;
+  }
+  .card-cover img, .card-cover-img {
+    object-fit: contain !important;
+    object-position: center center;
+  }
+  .book-cover-img {
+    max-width: 110px !important;
+    width: 38% !important;
+    max-height: 170px !important;
+  }
 }
 
 /* ── Hero brand text (white on dark hero bg) ── */
