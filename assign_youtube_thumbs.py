@@ -33,11 +33,23 @@ def main():
             continue
         entry = covers.get(slug) or {}
         url = thumb_url(vid)
-        entry["cover"] = url
         entry["youtube_id"] = vid
-        # Keep/mark non_book for video posts
-        if entry.get("non_book") is not False:
-            # If already a book with isbn, don't force non_book — but most YT are non_book
+        # Do not overwrite Amazon CDN / Google Books / local branding covers
+        existing = entry.get("cover") or ""
+        is_book = bool(entry.get("isbn10") or entry.get("isbn13")) and not entry.get("non_book")
+        prefer_keep = (
+            is_book
+            or existing.startswith("/assets/")
+            or "images-amazon.com" in existing
+            or "books.google" in existing
+            or entry.get("cover_source") in ("game_branding", "amazon_cdn", "amazon_asin", "gb", "publisher_site")
+        )
+        if not existing or not prefer_keep:
+            entry["cover"] = url
+        # Keep/mark non_book for video posts (never force a real book to non_book)
+        if is_book:
+            entry["non_book"] = False
+        elif entry.get("non_book") is not False:
             if not entry.get("isbn10") and not entry.get("isbn13"):
                 entry["non_book"] = True
         covers[slug] = entry

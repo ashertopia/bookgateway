@@ -45,6 +45,8 @@ GAME_CATS = {"Video Games", "Board Games"}
 MEDIA_CATS = {"Movies & Entertainment", "Movie", "Tech", "Family Fun"}
 EVENT_RE = re.compile(r"booky|live-blog|showcase|comic-con|^interview", re.I)
 BUYBOX_KINDS = {"book", "other"}
+# Kinds that get a cover image in the post aside (buy button only when /dp/ or search href exists)
+COVER_KINDS = {"book", "other", "media", "game"}
 
 GENRE_BOX_RE = re.compile(
     r'<div class="sidebar-box"><h3>Browse by Genre</h3><ul>.*?</ul></div>', re.S)
@@ -138,6 +140,7 @@ def build_index():
             "author": author_key(slug),
             "cover": cov.get("cover") if is_real_cover(cov.get("cover")) else None,
             "dp": amazon if "/dp/" in amazon else None,
+            "amazon": amazon or None,  # /dp/ preferred; search URL last resort
             "kind": kind_of(row, cov),
             "date": row.get("date") or "",
             "asher": "Asher Boys" in (row.get("categories") or []),
@@ -259,23 +262,30 @@ def patch_post(path: Path, idx: dict, genres: list[str], report: dict) -> bool:
 
     # ---- 2/3. Amazon links ---------------------------------------------
     page_href = current_amazon_href(html)
-    href = src["dp"] or page_href
+    href = src["dp"] or src.get("amazon") or page_href
     title_main, _ = split_title(src["title"], slug)
     if href:
         href = ensure_tag(href)
     h = esc(href) if href else ""
 
-    # top aside (cover + buy box) for book reviews
+    # top aside (cover + optional buy box)
     aside = ""
-    if src["kind"] in BUYBOX_KINDS and (src["cover"] or href):
+    show_cover = src["kind"] in COVER_KINDS and src["cover"]
+    show_buy = src["kind"] in BUYBOX_KINDS and href
+    # Media/games: show buy only for verified /dp/ product links (not bare search)
+    if src["kind"] in ("media", "game") and href and "/dp/" in href:
+        show_buy = True
+    if show_cover or show_buy:
         inner = ""
-        if src["cover"]:
-            inner += (f'<img class="book-cover-img" src="{esc(src["cover"])}" alt="Cover of {esc(title_main)}" '
+        if show_cover:
+            alt = "Poster" if src["kind"] == "media" else ("Cover" if src["kind"] in BUYBOX_KINDS else "Art")
+            inner += (f'<img class="book-cover-img" src="{esc(src["cover"])}" alt="{alt} of {esc(title_main)}" '
                       f'width="180" height="270" decoding="async" onerror="this.style.display=\'none\'">')
-        if href:
-            inner += (f'<div class="buy-box"><a class="buy-btn" href="{h}" {REL_AMAZON}>Buy on Amazon</a>'
+        if show_buy:
+            btn = "Buy on Amazon" if src["kind"] in BUYBOX_KINDS or "/dp/" in (href or "") else "Find on Amazon"
+            inner += (f'<div class="buy-box"><a class="buy-btn" href="{h}" {REL_AMAZON}>{btn}</a>'
                       f'<p class="buy-disclosure">{DISCLOSURE}</p></div>')
-        cls = "book-aside" + ("" if src["cover"] else " no-cover")
+        cls = "book-aside" + ("" if show_cover else " no-cover")
         aside = region("bookaside", f'<aside class="{cls}">{inner}</aside>')
     if region_re("bookaside").search(html):
         html = region_re("bookaside").sub(lambda m: aside, html, count=1)
