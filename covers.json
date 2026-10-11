@@ -1428,10 +1428,11 @@
     "cover_source": "amazon_cdn"
   },
   "blue-to-remember-by-suzanne-d-williams": {
-    "cover": null,
+    "cover": "/assets/covers/blue-to-remember-by-suzanne-d-williams.jpg",
     "amazon": "https://www.amazon.com/s?k=Blue%20to%20Remember%20Suzanne%20D.%20Williams&tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": "goodreads:18308380"
   },
   "bound-for-glory": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1414354533.01.LZZZZZZZ.jpg",
@@ -7333,9 +7334,11 @@
   },
   "wildest-dreams-by-kade": {
     "cover": null,
-    "amazon": "https://www.amazon.com/s?k=Wildest%20Dreams%20Savannah%20Kade&tag=bookgateway02-20",
+    "amazon": "https://www.amazon.com/dp/B07HJGDXKZ/?tag=bookgateway02-20",
     "isbn13": null,
-    "isbn10": null
+    "isbn10": null,
+    "cover_source": null,
+    "non_book": false
   },
   "will-save-galaxy-food-croshaw": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1506701655.01.LZZZZZZZ.jpg",
