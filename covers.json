@@ -7503,5 +7503,12 @@
     "isbn13": "9780593135204",
     "isbn10": "0593135202",
     "cover_source": "amazon_cdn_local"
+  },
+  "hinds-feet-on-high-places-by-hurnard": {
+    "cover": "/assets/covers/hinds-feet-on-high-places-by-hurnard.jpg",
+    "amazon": "https://www.amazon.com/dp/0842314296/?tag=bookgateway02-20",
+    "isbn13": "9780842314299",
+    "isbn10": "0842314296",
+    "cover_source": "amazon_cdn_local"
   }
 }
