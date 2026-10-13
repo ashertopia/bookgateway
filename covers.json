@@ -7496,5 +7496,12 @@
     "isbn10": null,
     "asin": "B0DSGQ5XPS",
     "cover_source": "amazon_cdn_local"
+  },
+  "project-hail-mary-by-weir": {
+    "cover": "/assets/covers/project-hail-mary-by-weir.jpg",
+    "amazon": "https://www.amazon.com/dp/0593135202/?tag=bookgateway02-20",
+    "isbn13": "9780593135204",
+    "isbn10": "0593135202",
+    "cover_source": "amazon_cdn_local"
   }
 }
