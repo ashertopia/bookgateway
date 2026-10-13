@@ -284,7 +284,9 @@
     "slug": "8-bit-bastards-level-2-by-mason",
     "url": "https://bookgateway.com/posts/8-bit-bastards-level-2-by-mason.html",
     "title": "8-Bit Bastards Level 2 by Mason",
-    "categories": [],
+    "categories": [
+      "LitRPG"
+    ],
     "reviewer": "Reviewed by Scott Asher",
     "date": "2020-03-06",
     "amazon_url": "https://www.amazon.com/s?k=8-Bit+Bastards+Level+2+by+Mason&tag=bookgateway02-20",
@@ -792,7 +794,8 @@
     "title": "A Trap for the Potentate by Atamanov",
     "categories": [
       "Science Fiction",
-      "Fantasy"
+      "Fantasy",
+      "LitRPG"
     ],
     "reviewer": "Reviewed by Scott Asher",
     "date": "2018-07-01",
@@ -3649,7 +3652,8 @@
     "url": "https://bookgateway.com/posts/divine-dungeon-1-4-by-krout.html",
     "title": "Divine Dungeon 1-4 by Krout",
     "categories": [
-      "Fantasy, Fiction, Scott Asher"
+      "Fantasy, Fiction, Scott Asher",
+      "LitRPG"
     ],
     "reviewer": "Reviewed by Scott Asher",
     "date": "2020-01-26",
@@ -5286,7 +5290,8 @@
     "title": "Hell to Pay by Chmilenko",
     "categories": [
       "Science Fiction",
-      "Fantasy"
+      "Fantasy",
+      "LitRPG"
     ],
     "reviewer": "Reviewed by Scott Asher",
     "date": "2018-09-09",
@@ -8094,7 +8099,9 @@
     "slug": "panga-online-death-and-axes-by-rowland",
     "url": "https://bookgateway.com/posts/panga-online-death-and-axes-by-rowland.html",
     "title": "Pangea Online: Death and Axes by Rowland",
-    "categories": [],
+    "categories": [
+      "LitRPG"
+    ],
     "reviewer": "",
     "date": "2020-08-26",
     "amazon_url": "https://www.amazon.com/s?k=Pangea+Online:+Death+and+Axes+by+Rowland&tag=bookgateway02-20",
@@ -10052,7 +10059,8 @@
     "title": "Stay on the Wing by Atamanov",
     "categories": [
       "Science Fiction",
-      "Fantasy"
+      "Fantasy",
+      "LitRPG"
     ],
     "reviewer": "Reviewed by Scott Asher",
     "date": "2018-06-26",
@@ -13031,7 +13039,8 @@
     "title": "Video Game Plotline Tester by Atamanov",
     "categories": [
       "Science Fiction",
-      "Fantasy"
+      "Fantasy",
+      "LitRPG"
     ],
     "reviewer": "Reviewed by Scott Asher",
     "date": "2018-04-11",
@@ -13621,5 +13630,18 @@
     "date": "2018-06-04",
     "amazon_url": "https://www.amazon.com/s?k=You're+Gonna+Love+Me+by+Hatcher&tag=bookgateway02-20",
     "excerpt": "Samantha Winters and Nick Chastain had been dating for several months. Nick is a brilliant professor at Organ State University and an adrenaline junkie. Samantha liked everything organized and safe...."
+  },
+  {
+    "slug": "level-one-god-by-scott",
+    "url": "https://bookgateway.com/posts/level-one-god-by-scott.html",
+    "title": "Level One God by Scott",
+    "categories": [
+      "Fantasy",
+      "LitRPG"
+    ],
+    "reviewer": "Reviewed by Scott Asher",
+    "date": "2026-10-13",
+    "amazon_url": "https://www.amazon.com/dp/B0FG89CQX2/?tag=bookgateway02-20",
+    "excerpt": "I used to read a lot of traditional fantasy growing up. Level One God is not that. It’s slice-of-life LitRPG, and if you go in knowing that, it’s a fun ride..."
   }
 ]

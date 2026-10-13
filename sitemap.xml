@@ -6805,6 +6805,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://bookgateway.com/category/litrpg.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://bookgateway.com/category/featured-page-2.html</loc>
     <lastmod>2026-04-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -8087,5 +8093,11 @@
     <lastmod>2026-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://bookgateway.com/posts/level-one-god-by-scott.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>

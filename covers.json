@@ -7472,5 +7472,13 @@
     "isbn13": "9781432845421",
     "isbn10": "143284542X",
     "cover_source": "amazon_cdn"
+  },
+  "level-one-god-by-scott": {
+    "cover": "/assets/covers/level-one-god-by-scott.jpg",
+    "amazon": "https://www.amazon.com/dp/B0FG89CQX2/?tag=bookgateway02-20",
+    "isbn13": null,
+    "isbn10": null,
+    "asin": "B0FG89CQX2",
+    "cover_source": "amazon_cdn_local"
   }
 }
