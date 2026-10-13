@@ -8096,7 +8096,13 @@
   </url>
   <url>
     <loc>https://bookgateway.com/posts/level-one-god-by-scott.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bookgateway.com/posts/level-one-god-2-by-scott.html</loc>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

@@ -7480,5 +7480,13 @@
     "isbn10": null,
     "asin": "B0FG89CQX2",
     "cover_source": "amazon_cdn_local"
+  },
+  "level-one-god-2-by-scott": {
+    "cover": "/assets/covers/level-one-god-2-by-scott.jpg",
+    "amazon": "https://www.amazon.com/dp/B0FVZF9SBX/?tag=bookgateway02-20",
+    "isbn13": null,
+    "isbn10": null,
+    "asin": "B0FVZF9SBX",
+    "cover_source": "amazon_cdn_local"
   }
 }
