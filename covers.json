@@ -7488,5 +7488,13 @@
     "isbn10": null,
     "asin": "B0FVZF9SBX",
     "cover_source": "amazon_cdn_local"
+  },
+  "discount-dan-by-hunter": {
+    "cover": "/assets/covers/discount-dan-by-hunter.jpg",
+    "amazon": "https://www.amazon.com/dp/B0DSGQ5XPS/?tag=bookgateway02-20",
+    "isbn13": "9798309551392",
+    "isbn10": null,
+    "asin": "B0DSGQ5XPS",
+    "cover_source": "amazon_cdn_local"
   }
 }
