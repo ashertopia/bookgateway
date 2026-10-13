@@ -7518,5 +7518,13 @@
     "isbn10": null,
     "asin": "B0H5NQP7VZ",
     "cover_source": "amazon_cdn_local"
+  },
+  "a-small-town-in-southern-illvaria-by-acaswell": {
+    "cover": "/assets/covers/a-small-town-in-southern-illvaria-by-acaswell.jpg",
+    "amazon": "https://www.amazon.com/dp/B0CFW34H98/?tag=bookgateway02-20",
+    "isbn13": null,
+    "isbn10": null,
+    "asin": "B0CFW34H98",
+    "cover_source": "amazon_cdn_local"
   }
 }
