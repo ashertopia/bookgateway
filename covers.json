@@ -7526,5 +7526,13 @@
     "isbn10": null,
     "asin": "B0CFW34H98",
     "cover_source": "amazon_cdn_local"
+  },
+  "mage-tank-1-4-by-cornman": {
+    "cover": "/assets/covers/mage-tank-1-4-by-cornman.jpg",
+    "amazon": "https://www.amazon.com/dp/B0DGW4XTDH/?tag=bookgateway02-20",
+    "isbn13": null,
+    "isbn10": null,
+    "asin": "B0DGW4XTDH",
+    "cover_source": "amazon_cdn_local"
   }
 }
