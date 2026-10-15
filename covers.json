@@ -7550,5 +7550,13 @@
     "isbn10": "0312546343",
     "asin": "0312546343",
     "cover_source": "amazon_cdn_local"
+  },
+  "dangerous-calling-by-tripp": {
+    "cover": "/assets/covers/dangerous-calling-by-tripp.jpg",
+    "amazon": "https://www.amazon.com/dp/1433535823/?tag=bookgateway02-20",
+    "isbn13": "9781433535826",
+    "isbn10": "1433535823",
+    "asin": "1433535823",
+    "cover_source": "amazon_cdn_local"
   }
 }
