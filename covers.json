@@ -7566,5 +7566,13 @@
     "isbn10": "1906173419",
     "asin": "1906173419",
     "cover_source": "amazon_cdn_local"
+  },
+  "leadership-and-emotional-sabotage-by-rigney": {
+    "cover": "/assets/covers/leadership-and-emotional-sabotage-by-rigney.jpg",
+    "amazon": "https://www.amazon.com/dp/1591280400/?tag=bookgateway02-20",
+    "isbn13": "9781591280408",
+    "isbn10": "1591280400",
+    "asin": "1591280400",
+    "cover_source": "amazon_cdn_local"
   }
 }
