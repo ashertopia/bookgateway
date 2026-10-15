@@ -7534,5 +7534,13 @@
     "isbn10": null,
     "asin": "B0DGW4XTDH",
     "cover_source": "amazon_cdn_local"
+  },
+  "john-dies-at-the-end-by-wong": {
+    "cover": "/assets/covers/john-dies-at-the-end-by-wong.jpg",
+    "amazon": "https://www.amazon.com/dp/0312555139/?tag=bookgateway02-20",
+    "isbn13": "9780312555139",
+    "isbn10": "0312555139",
+    "asin": "0312555139",
+    "cover_source": "openlibrary_isbn_local"
   }
 }
