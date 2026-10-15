@@ -7558,5 +7558,13 @@
     "isbn10": "1433535823",
     "asin": "1433535823",
     "cover_source": "amazon_cdn_local"
+  },
+  "the-freedom-of-self-forgetfulness-by-keller": {
+    "cover": "/assets/covers/the-freedom-of-self-forgetfulness-by-keller.jpg",
+    "amazon": "https://www.amazon.com/dp/1906173419/?tag=bookgateway02-20",
+    "isbn13": "9781906173418",
+    "isbn10": "1906173419",
+    "asin": "1906173419",
+    "cover_source": "amazon_cdn_local"
   }
 }
