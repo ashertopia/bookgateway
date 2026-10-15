@@ -7542,5 +7542,13 @@
     "isbn10": "0312555139",
     "asin": "0312555139",
     "cover_source": "openlibrary_isbn_local"
+  },
+  "this-book-is-full-of-spiders-by-wong": {
+    "cover": "/assets/covers/this-book-is-full-of-spiders-by-wong.jpg",
+    "amazon": "https://www.amazon.com/dp/0312546343/?tag=bookgateway02-20",
+    "isbn13": "9780312546342",
+    "isbn10": "0312546343",
+    "asin": "0312546343",
+    "cover_source": "amazon_cdn_local"
   }
 }
