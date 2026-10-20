@@ -7574,5 +7574,13 @@
     "isbn10": "1591280400",
     "asin": "1591280400",
     "cover_source": "amazon_cdn_local"
+  },
+  "level-one-god-3-by-scott": {
+    "cover": "/assets/covers/level-one-god-3-by-scott.jpg",
+    "amazon": "https://www.amazon.com/dp/B0GL9L2PKL/?tag=bookgateway02-20",
+    "isbn13": null,
+    "isbn10": null,
+    "asin": "B0GL9L2PKL",
+    "cover_source": "publisher_site_local"
   }
 }
