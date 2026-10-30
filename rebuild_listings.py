@@ -9,9 +9,21 @@ def parse(f):
     h=open(f).read()
     i=h.index(SPLIT)+len(SPLIT); j=h.index('</div><div class="pagination">',i)
     k=h.index('</div>',j+len('</div><div class="pagination">'))+6
-    cards=['<div class="review-card">'+c for c in h[i:j].split('<div class="review-card">')[1:]]
+    cards=[c for c in re.split(r'(?=<div class="review-card[^"]*">)',h[i:j]) if c.startswith('<div class="review-card')]
     # last card ends with </div> that closed grid? grid close is at j
     return h[:i],cards,h[j:j+6],h[k:]
+def other_type(e):
+    cats=set(e.get('categories',[]))
+    if 'giveaway' in e['title'].lower() or 'Giveaway' in cats: return 'Giveaway'
+    if cats&{'Movie','Movies & Entertainment'} or ' watch' in e['title'].lower(): return 'Movie'
+    if cats&{'Video Games','Board Games'} or re.search(r'\b(play|plays|reviews)\b',e['title'].lower()): return 'Game'
+    return 'Video'
+def decorate_other(card,by_slug):
+    """Other listing: is-video class (16:9 tiles) + a type line in place of the author line. Idempotent."""
+    e=by_slug.get(slug(card),{'title':'','categories':[]}); t=other_type(e)
+    if t!='Giveaway': card=card.replace('<div class="review-card">','<div class="review-card is-video">',1)
+    if 'card-type' not in card: card=card.replace('</h2>',f'</h2><div class="card-type">{t}</div>',1)
+    return card
 def slug(card): return re.search(r'href="(?:\.\./)?posts/([^"]+)\.html"',card).group(1)
 def series(base,d=''):
     p=os.path.join(d,base+'.html'); files=[p]; n=2
@@ -46,7 +58,7 @@ parsed=[parse(f) for f in files]; allcards=[c for p in parsed for c in p[1]]
 feed=[c for c in allcards if slug(c) not in OTHER]
 stats['index']=(len(allcards),len(feed),write('index','',files,pre,feed,parsed))
 # other listing from main-feed order (newest first)
-other=[c.replace('href="posts/','href="../posts/').replace('href="category/','href="../category/') for c in allcards if slug(c) in OTHER]
+other=[decorate_other(c.replace('href="posts/','href="../posts/').replace('href="category/','href="../category/'), {e['slug']:e for e in r}) for c in allcards if slug(c) in OTHER]
 ab,_=series('asher-boys','category'); tpl=parse(ab[0])
 head=tpl[0]
 head=re.sub(r'Asher Boys','Other: Games, Movies &amp; Giveaways',head)

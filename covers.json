@@ -658,7 +658,7 @@
     "youtube_id": "-MbIOcomt1U"
   },
   "asher-boys-dragon-videos-2019": {
-    "cover": "https://img.youtube.com/vi/aVRrgHqJriA/hqdefault.jpg",
+    "cover": null,
     "amazon": null,
     "non_book": true,
     "isbn13": null,
@@ -770,7 +770,7 @@
     "youtube_id": "uupeqMB-Xjk"
   },
   "asher-boys-play-lego-worlds": {
-    "cover": "https://img.youtube.com/vi/YbIzce7hXB0/hqdefault.jpg",
+    "cover": "https://img.youtube.com/vi/YbIzce7hXB0/mqdefault.jpg",
     "amazon": null,
     "non_book": true,
     "isbn13": null,
@@ -930,7 +930,7 @@
     "youtube_id": "ZspyiCvCo_I"
   },
   "asher-boys-watch-angry-birds-2": {
-    "cover": null,
+    "cover": "/assets/games/angry-birds-movie-2.jpg",
     "amazon": null,
     "non_book": true,
     "isbn13": null,
@@ -1067,7 +1067,7 @@
     "cover_source": "game_branding"
   },
   "asher-friends-build-lego-star-wars-echo-base": {
-    "cover": "https://img.youtube.com/vi/b2PAUjHiUYE/hqdefault.jpg",
+    "cover": "https://img.youtube.com/vi/b2PAUjHiUYE/mqdefault.jpg",
     "amazon": null,
     "non_book": true,
     "isbn13": null,

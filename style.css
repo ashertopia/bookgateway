@@ -47,8 +47,9 @@ nav { background: var(--ink); width: 100%; position: relative; }
 .nav-inner { max-width: var(--max-w); margin: 0 auto; display: flex; align-items: center; }
 nav a.nav-link { color: rgba(255,255,255,0.85); padding: 10px 11px; display: block; font-size: 0.8rem; font-weight: 500; white-space: nowrap; letter-spacing: 0.2px; transition: color 0.12s, background 0.12s; }
 nav a.nav-link:hover { color: #fff; background: rgba(255,255,255,0.08); text-decoration: none; }
-nav a.nav-link.nav-all { color: rgba(255,255,255,0.55); font-style: italic; }
-nav a.nav-link.nav-all:hover { color: rgba(255,255,255,0.85); }
+nav a.nav-link.nav-all { color: rgba(255,255,255,0.85); }
+nav a.nav-link.nav-all:hover { color: #fff; }
+nav a[aria-current=page] { color: #fff; box-shadow: inset 0 -2px 0 var(--red); }
 
 /* Hamburger (pure CSS: hidden checkbox + label) */
 .nav-toggle { position: absolute; opacity: 0; width: 1px; height: 1px; pointer-events: none; }
@@ -91,6 +92,7 @@ nav a.nav-link.nav-all:hover { color: rgba(255,255,255,0.85); }
   border: 1px solid var(--rule);
   display: flex;
   flex-direction: column;
+  height: 100%;
   transition: box-shadow 0.18s, transform 0.15s;
   cursor: pointer;
   position: relative;
@@ -187,8 +189,6 @@ nav a.nav-link.nav-all:hover { color: rgba(255,255,255,0.85); }
 .book-aside.no-cover { float: none; width: auto; max-width: 280px; margin: 0 0 22px; }
 
 .card-genre-tag { display: inline-block; font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--red); margin-bottom: 16px; }
-.card-cats { font-size: 0.72rem; color: var(--ink-soft); margin-bottom: 10px; }
-.card-cats a { color: var(--red); }
 
 .reviewer-line { margin-top: 28px; padding-top: 16px; border-top: 1px solid var(--rule); font-size: 0.85rem; color: var(--ink-mid); font-style: italic; }
 .post-meta-bottom { margin-top: 18px; padding-top: 14px; border-top: 1px solid var(--rule); font-size: 0.76rem; color: var(--ink-soft); }
@@ -253,7 +253,7 @@ footer a:hover { color: white; text-decoration: none; }
 }
 @media (max-width: 720px) {
   .header-inner { padding: 10px 16px; }
-  .site-hero { padding: 20px 16px; }
+  .site-hero { padding: 12px 16px; }
   .container { grid-template-columns: 1fr; padding: 16px; }
   .sidebar { margin-top: 24px; }
   .cards-grid { grid-template-columns: repeat(2, 1fr); gap: 14px; }
@@ -264,17 +264,7 @@ footer a:hover { color: white; text-decoration: none; }
   .footer-inner { flex-direction: column; text-align: center; }
 }
 @media (max-width: 480px) {
-  .cards-grid { grid-template-columns: 1fr; }
-  /* Phone: show full cover (contain) with capped height — less huge/cropped trash */
-  .card-cover {
-    aspect-ratio: 2 / 3;
-    max-height: 280px;
-    background: #f0f0f4;
-  }
-  .card-cover img, .card-cover-img {
-    object-fit: contain !important;
-    object-position: center center;
-  }
+  .cards-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
   .post-content > .book-cover-img { max-width: 110px; width: 38%; max-height: 170px; margin: 0 14px 12px 0; }
 }
 
@@ -290,3 +280,11 @@ footer a:hover { color: white; text-decoration: none; }
 .hero-brand { display: inline-flex; align-items: baseline; gap: 0; margin-bottom: 8px; }
 .hero-book    { font-family: Georgia,'Times New Roman',serif; font-size: 2.4rem; font-weight: normal; color: #ffffff; letter-spacing: -0.5px; }
 .hero-gateway { font-family: Georgia,'Times New Roman',serif; font-size: 2.4rem; font-style: italic; color: #e05555; letter-spacing: -0.5px; }
+
+/* ── Critiquito 10/30: even card heights, video tiles, touch ── */
+.card-title { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; min-height: 2.6em; }
+.card-cats { min-height: 1.4em; }
+.card-footer { margin-top: auto; }
+.card-type { font-size: 0.78rem; color: var(--ink-soft); margin-bottom: 6px; }
+.review-card.is-video .card-cover { aspect-ratio: 16 / 9; }
+@media (hover: none) { .review-card:hover { transform: none; } }
