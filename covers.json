@@ -7582,5 +7582,13 @@
     "isbn10": null,
     "asin": "B0GL9L2PKL",
     "cover_source": "publisher_site_local"
+  },
+  "adult-children-of-alcoholics-by-woititz": {
+    "cover": "/assets/covers/adult-children-of-alcoholics-by-woititz.jpg",
+    "amazon": "https://www.amazon.com/dp/1558741127/?tag=bookgateway02-20",
+    "isbn13": "9781558741126",
+    "isbn10": "1558741127",
+    "asin": "1558741127",
+    "cover_source": "amazon_cdn_local"
   }
 }
