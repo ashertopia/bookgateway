@@ -1608,11 +1608,12 @@
     "cover_source": "amazon_cdn"
   },
   "ceb-with-apocrypha": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/0718037413.01.LZZZZZZZ.jpg",
-    "amazon": "https://www.amazon.com/dp/0718037413/?tag=bookgateway02-20",
-    "isbn13": "9781433606380",
-    "isbn10": "0718037413",
-    "cover_source": "amazon_cdn"
+    "cover": "/assets/covers/ceb-with-apocrypha.jpg",
+    "amazon": "https://www.amazon.com/dp/1609261089/?tag=bookgateway02-20",
+    "isbn13": "9781609261085",
+    "isbn10": "1609261089",
+    "cover_source": "amazon_cdn_local",
+    "asin": "1609261089"
   },
   "cellar-doors": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/B007TNHPTK.01.LZZZZZZZ.jpg",
@@ -1635,7 +1636,7 @@
     "cover_source": "amazon_cdn"
   },
   "chimichanga": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/1616559020.01.LZZZZZZZ.jpg",
+    "cover": "/assets/covers/chimichanga.jpg",
     "amazon": "https://www.amazon.com/dp/1616559020/?tag=bookgateway02-20",
     "isbn13": "9781616559021",
     "isbn10": "1616559020",
@@ -1879,7 +1880,7 @@
     "cover_source": "amazon_cdn"
   },
   "darth-vader-and-friends-by-brown": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/1452138109.01.LZZZZZZZ.jpg",
+    "cover": "/assets/covers/darth-vader-and-friends-by-brown.jpg",
     "amazon": "https://www.amazon.com/dp/1452138109/?tag=bookgateway02-20",
     "isbn13": "9781452138107",
     "isbn10": "1452138109",
@@ -1893,11 +1894,12 @@
     "cover_source": "amazon_cdn"
   },
   "daughters-night-sky-runyan": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/1543613845.01.LZZZZZZZ.jpg",
-    "amazon": "https://www.amazon.com/dp/1543613845/?tag=bookgateway02-20",
-    "isbn13": "9781543613841",
-    "isbn10": "1543613845",
-    "cover_source": "amazon_cdn"
+    "cover": "/assets/covers/daughters-night-sky-runyan.jpg",
+    "amazon": "https://www.amazon.com/dp/154204586X/?tag=bookgateway02-20",
+    "isbn13": "9781542045865",
+    "isbn10": "154204586X",
+    "cover_source": "amazon_cdn_local",
+    "asin": "154204586X"
   },
   "david-trotter": {
     "cover": null,
@@ -2208,11 +2210,12 @@
     "cover_source": "amazon_cdn"
   },
   "esv-mens-devotional-bible": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/0718037413.01.LZZZZZZZ.jpg",
-    "amazon": "https://www.amazon.com/dp/0718037413/?tag=bookgateway02-20",
-    "isbn13": "9781433606380",
-    "isbn10": "0718037413",
-    "cover_source": "amazon_cdn"
+    "cover": "/assets/covers/esv-mens-devotional-bible.jpg",
+    "amazon": "https://www.amazon.com/dp/1433548410/?tag=bookgateway02-20",
+    "isbn13": "9781433548413",
+    "isbn10": "1433548410",
+    "cover_source": "amazon_cdn_local",
+    "asin": "1433548410"
   },
   "eternally-bound-by-davies": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1543055168.01.LZZZZZZZ.jpg",
@@ -2591,7 +2594,7 @@
     "cover_source": "amazon_cdn"
   },
   "ghost-shell-2017-review": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/B06XT6XTQQ.01.LZZZZZZZ.jpg",
+    "cover": "/assets/covers/ghost-shell-2017-review.jpg",
     "amazon": "https://www.amazon.com/dp/B06XT6XTQQ/?tag=bookgateway02-20",
     "isbn13": null,
     "isbn10": null,
@@ -2812,11 +2815,12 @@
     "isbn10": "1433552388"
   },
   "growing-in-faith-hope-and-love-niv-bible-for-teen-girls": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/0718037413.01.LZZZZZZZ.jpg",
-    "amazon": "https://www.amazon.com/dp/0718037413/?tag=bookgateway02-20",
-    "isbn13": "9781433606380",
-    "isbn10": "0718037413",
-    "cover_source": "amazon_cdn"
+    "cover": "/assets/covers/growing-in-faith-hope-and-love-niv-bible-for-teen-girls.jpg",
+    "amazon": "https://www.amazon.com/dp/0310749697/?tag=bookgateway02-20",
+    "isbn13": "9780310749691",
+    "isbn10": "0310749697",
+    "cover_source": "amazon_cdn_local",
+    "asin": "0310749697"
   },
   "guardian-herd-starfire-by-alvarez": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0062286064.01.LZZZZZZZ.jpg",
@@ -2889,11 +2893,12 @@
     "cover_source": "amazon_cdn"
   },
   "harry-potter-and-the-sorcerers-stone-by-rowling": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/0439211166.01.LZZZZZZZ.jpg",
-    "amazon": "https://www.amazon.com/dp/0439211166/?tag=bookgateway02-20",
-    "isbn13": "9780439211161",
-    "isbn10": "0439211166",
-    "cover_source": "amazon_cdn"
+    "cover": "/assets/covers/harry-potter-and-the-sorcerers-stone-by-rowling.jpg",
+    "amazon": "https://www.amazon.com/dp/059035342X/?tag=bookgateway02-20",
+    "isbn13": "9780590353427",
+    "isbn10": "059035342X",
+    "cover_source": "amazon_cdn_local",
+    "asin": "059035342X"
   },
   "has-god-spoken": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0849919703.01.LZZZZZZZ.jpg",
@@ -2918,7 +2923,7 @@
     "non_book": false
   },
   "he-chose-the-nails": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/0849942454.01.LZZZZZZZ.jpg",
+    "cover": "/assets/covers/he-chose-the-nails.jpg",
     "amazon": "https://www.amazon.com/dp/0849942454/?tag=bookgateway02-20",
     "isbn13": "9780849942457",
     "isbn10": "0849942454",
@@ -2993,7 +2998,7 @@
     "cover_source": "amazon_cdn"
   },
   "hilo-the-boy-who-crashed-to-earth-by-winick": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/0593375351.01.LZZZZZZZ.jpg",
+    "cover": "/assets/covers/hilo-the-boy-who-crashed-to-earth-by-winick.jpg",
     "amazon": "https://www.amazon.com/dp/0593375351/?tag=bookgateway02-20",
     "isbn13": "9780593375358",
     "isbn10": "0593375351",
@@ -3148,7 +3153,7 @@
     "isbn10": "1414331797"
   },
   "ice-and-fire-by-wingrove": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/1848877285.01.LZZZZZZZ.jpg",
+    "cover": "/assets/covers/ice-and-fire-by-wingrove.jpg",
     "amazon": "https://www.amazon.com/dp/1848877285/?tag=bookgateway02-20",
     "isbn13": "9781848877283",
     "isbn10": "1848877285",
@@ -3184,11 +3189,12 @@
     "cover_source": "amazon_cdn"
   },
   "illustrated-family-bible": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/0718037413.01.LZZZZZZZ.jpg",
-    "amazon": "https://www.amazon.com/dp/0718037413/?tag=bookgateway02-20",
-    "isbn13": "9781433606380",
-    "isbn10": "0718037413",
-    "cover_source": "amazon_cdn"
+    "cover": "/assets/covers/illustrated-family-bible.jpg",
+    "amazon": "https://www.amazon.com/dp/1405329610/?tag=bookgateway02-20",
+    "isbn13": "9781405329613",
+    "isbn10": "1405329610",
+    "cover_source": "amazon_cdn_local",
+    "asin": "1405329610"
   },
   "im-feeling-lucky": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0547416997.01.LZZZZZZZ.jpg",
@@ -3357,7 +3363,7 @@
     "cover_source": "amazon_cdn"
   },
   "it-can-t-happen-here-by-lewis": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/1720337446.01.LZZZZZZZ.jpg",
+    "cover": "/assets/covers/it-can-t-happen-here-by-lewis.jpg",
     "amazon": "https://www.amazon.com/dp/1720337446/?tag=bookgateway02-20",
     "isbn13": "9781720337447",
     "isbn10": "1720337446",
@@ -3608,11 +3614,12 @@
     "cover_source": "amazon_cdn"
   },
   "legends-by-scudiere": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/B07984JN3L.01.LZZZZZZZ.jpg",
-    "amazon": "https://www.amazon.com/dp/B07984JN3L/?tag=bookgateway02-20",
-    "isbn13": null,
+    "cover": "/assets/covers/legends-by-scudiere.jpg",
+    "amazon": "https://www.amazon.com/s?k=Legends+Landa+Landa+Aellai+Scudiere&tag=bookgateway02-20",
+    "isbn13": "9798215587041",
     "isbn10": null,
-    "cover_source": "amazon_asin"
+    "cover_source": "author_site_local",
+    "asin": null
   },
   "let-it-be-jesus-by-christy-nockels": {
     "cover": null,
@@ -3754,10 +3761,11 @@
     "isbn10": null
   },
   "louise-loves-art-by-kelly-light": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/0062248170.01.LZZZZZZZ.jpg",
+    "cover": "/assets/covers/louise-loves-art-by-kelly-light.jpg",
     "amazon": "https://www.amazon.com/dp/0062248170/?tag=bookgateway02-20",
     "isbn13": "9780062248176",
-    "isbn10": "0062248170"
+    "isbn10": "0062248170",
+    "cover_source": "local_trim"
   },
   "love-in-disguise": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1611734894.01.LZZZZZZZ.jpg",
@@ -3851,7 +3859,7 @@
     "cover_source": "amazon_cdn"
   },
   "manara-library": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/1595827838.01.LZZZZZZZ.jpg",
+    "cover": "/assets/covers/manara-library.jpg",
     "amazon": "https://www.amazon.com/dp/1595827838/?tag=bookgateway02-20",
     "isbn13": null,
     "isbn10": "1595827838",
@@ -4245,39 +4253,43 @@
     "isbn10": null
   },
   "niv-boys-bible": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/0718037413.01.LZZZZZZZ.jpg",
-    "amazon": "https://www.amazon.com/dp/0718037413/?tag=bookgateway02-20",
-    "isbn13": "9781433606380",
-    "isbn10": "0718037413",
-    "cover_source": "amazon_cdn"
+    "cover": "/assets/covers/niv-boys-bible.jpg",
+    "amazon": "https://www.amazon.com/dp/0310723086/?tag=bookgateway02-20",
+    "isbn13": "9780310723080",
+    "isbn10": "0310723086",
+    "cover_source": "amazon_cdn_local",
+    "asin": "0310723086"
   },
   "niv-college-devotional-bible": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/0718037413.01.LZZZZZZZ.jpg",
-    "amazon": "https://www.amazon.com/dp/0718037413/?tag=bookgateway02-20",
-    "isbn13": "9781433606380",
-    "isbn10": "0718037413",
-    "cover_source": "amazon_cdn"
+    "cover": "/assets/covers/niv-college-devotional-bible.jpg",
+    "amazon": "https://www.amazon.com/dp/0310442575/?tag=bookgateway02-20",
+    "isbn13": "9780310442578",
+    "isbn10": "0310442575",
+    "cover_source": "amazon_cdn_local",
+    "asin": "0310442575"
   },
   "niv-essentials-study-bible": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/031046045X.01.LZZZZZZZ.jpg",
+    "cover": "/assets/covers/niv-essentials-study-bible.jpg",
     "amazon": "https://www.amazon.com/dp/031046045X/?tag=bookgateway02-20",
     "isbn13": null,
     "isbn10": "031046045X",
     "cover_source": "amazon_asin"
   },
   "niv-faithgirlz-bible-revised-edition": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/0718037413.01.LZZZZZZZ.jpg",
-    "amazon": "https://www.amazon.com/dp/0718037413/?tag=bookgateway02-20",
-    "isbn13": "9781433606380",
-    "isbn10": "0718037413",
-    "cover_source": "amazon_cdn"
+    "cover": "/assets/covers/niv-faithgirlz-bible-revised-edition.jpg",
+    "amazon": "https://www.amazon.com/dp/0310722365/?tag=bookgateway02-20",
+    "isbn13": "9780310722366",
+    "isbn10": "0310722365",
+    "cover_source": "amazon_cdn_local",
+    "asin": "0310722365"
   },
   "niv-kids-visual-study-bible": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/0718037413.01.LZZZZZZZ.jpg",
-    "amazon": "https://www.amazon.com/dp/0718037413/?tag=bookgateway02-20",
-    "isbn13": "9781433606380",
-    "isbn10": "0718037413",
-    "cover_source": "amazon_cdn"
+    "cover": "/assets/covers/niv-kids-visual-study-bible.jpg",
+    "amazon": "https://www.amazon.com/dp/0310758602/?tag=bookgateway02-20",
+    "isbn13": "9780310758600",
+    "isbn10": "0310758602",
+    "cover_source": "amazon_cdn_local",
+    "asin": "0310758602"
   },
   "niv-life-journey-bible": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0310432480.01.LZZZZZZZ.jpg",
@@ -4838,10 +4850,11 @@
     "cover_source": "amazon_cdn"
   },
   "restless-in-the-grave": {
-    "cover": "https://covers.openlibrary.org/b/id/7074456-M.jpg",
+    "cover": "/assets/covers/restless-in-the-grave.jpg",
     "amazon": "https://www.amazon.com/dp/1429950382/?tag=bookgateway02-20",
     "isbn13": "9781429950381",
-    "isbn10": "1429950382"
+    "isbn10": "1429950382",
+    "cover_source": "local_trim"
   },
   "restoration": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0062065661.01.LZZZZZZZ.jpg",
@@ -5044,10 +5057,11 @@
     "media_kind": "giveaway"
   },
   "rufus-and-ryan-go-to-church-by-bostrom-and-thornburgh": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/0824919033.01.LZZZZZZZ.jpg",
+    "cover": "/assets/covers/rufus-and-ryan-go-to-church-by-bostrom-and-thornburgh.jpg",
     "amazon": "https://www.amazon.com/dp/0824919033/?tag=bookgateway02-20",
     "isbn13": "9780824919030",
-    "isbn10": "0824919033"
+    "isbn10": "0824919033",
+    "cover_source": "local_trim"
   },
   "ruined-by-kade": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1948059371.01.LZZZZZZZ.jpg",
@@ -5141,11 +5155,12 @@
     "cover_source": "amazon_cdn"
   },
   "secondborn-by-bartol": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/1536682705.01.LZZZZZZZ.jpg",
-    "amazon": "https://www.amazon.com/dp/1536682705/?tag=bookgateway02-20",
-    "isbn13": "9781536682700",
-    "isbn10": "1536682705",
-    "cover_source": "amazon_cdn"
+    "cover": "/assets/covers/secondborn-by-bartol.jpg",
+    "amazon": "https://www.amazon.com/dp/1477848355/?tag=bookgateway02-20",
+    "isbn13": "9781477848357",
+    "isbn10": "1477848355",
+    "cover_source": "amazon_cdn_local",
+    "asin": "1477848355"
   },
   "secrets-by-robin-jones-gunn": {
     "cover": "https://covers.openlibrary.org/b/id/1472457-M.jpg",
@@ -5300,7 +5315,7 @@
     "isbn10": null
   },
   "skid-the-too-tiny-tunnel-by-jeffery-stoddard": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/1593173555.01.LZZZZZZZ.jpg",
+    "cover": "/assets/covers/skid-the-too-tiny-tunnel-by-jeffery-stoddard.jpg",
     "amazon": "https://www.amazon.com/dp/1593173555/?tag=bookgateway02-20",
     "isbn13": null,
     "isbn10": "1593173555",
@@ -5908,11 +5923,12 @@
     "isbn10": "1623027268"
   },
   "the-collapsing-empire-by-scalzi": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/1543613985.01.LZZZZZZZ.jpg",
-    "amazon": "https://www.amazon.com/dp/1543613985/?tag=bookgateway02-20",
-    "isbn13": "9781543613988",
-    "isbn10": "1543613985",
-    "cover_source": "amazon_cdn"
+    "cover": "/assets/covers/the-collapsing-empire-by-scalzi.jpg",
+    "amazon": "https://www.amazon.com/dp/0765388898/?tag=bookgateway02-20",
+    "isbn13": "9780765388896",
+    "isbn10": "0765388898",
+    "cover_source": "amazon_cdn_local",
+    "asin": "0765388898"
   },
   "the-crooked-path-by-joubert": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0718098188.01.LZZZZZZZ.jpg",
@@ -6366,11 +6382,12 @@
     "cover_source": "amazon_cdn"
   },
   "the-modern-life-study-bible-nkjv": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/0718037413.01.LZZZZZZZ.jpg",
-    "amazon": "https://www.amazon.com/dp/0718037413/?tag=bookgateway02-20",
-    "isbn13": "9781433606380",
-    "isbn10": "0718037413",
-    "cover_source": "amazon_cdn"
+    "cover": "/assets/covers/the-modern-life-study-bible-nkjv.jpg",
+    "amazon": "https://www.amazon.com/dp/140167514X/?tag=bookgateway02-20",
+    "isbn13": "9781401675141",
+    "isbn10": "140167514X",
+    "cover_source": "amazon_cdn_local",
+    "asin": "140167514X"
   },
   "the-mystery-of-the-indian-carvings-by-gloria-repp": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1579247261.01.LZZZZZZZ.jpg",
@@ -6504,10 +6521,11 @@
     "cover_source": "amazon_cdn"
   },
   "the-secret-life-of-a-fool": {
-    "cover": "https://covers.openlibrary.org/b/id/12003068-M.jpg",
+    "cover": "/assets/covers/the-secret-life-of-a-fool.jpg",
     "amazon": "https://www.amazon.com/dp/1617950386/?tag=bookgateway02-20",
     "isbn13": "9781617950384",
-    "isbn10": "1617950386"
+    "isbn10": "1617950386",
+    "cover_source": "local_trim"
   },
   "the-secret-of-indigo-moon-by-g-p-taylor-2": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/1414319487.01.LZZZZZZZ.jpg",
@@ -6759,7 +6777,7 @@
     "isbn10": null
   },
   "the-war-room-by-tristar-and-faithstep-films": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/B0DVBL912R.01.LZZZZZZZ.jpg",
+    "cover": null,
     "amazon": "https://www.amazon.com/dp/B0DVBL912R/?tag=bookgateway02-20",
     "isbn13": null,
     "isbn10": null,
@@ -6975,7 +6993,7 @@
     "cover_source": "amazon_cdn"
   },
   "true-images": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/0310080045.01.LZZZZZZZ.jpg",
+    "cover": "/assets/covers/true-images.jpg",
     "amazon": "https://www.amazon.com/dp/0310080045/?tag=bookgateway02-20",
     "isbn13": null,
     "isbn10": "0310080045",
@@ -7061,11 +7079,12 @@
     "cover_source": "amazon_asin"
   },
   "under-the-sea-holy-bible-and-giveaway": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/0718037413.01.LZZZZZZZ.jpg",
-    "amazon": "https://www.amazon.com/dp/0718037413/?tag=bookgateway02-20",
-    "isbn13": "9781433606380",
-    "isbn10": "0718037413",
-    "cover_source": "amazon_cdn"
+    "cover": "/assets/covers/under-the-sea-holy-bible-and-giveaway.jpg",
+    "amazon": "https://www.amazon.com/dp/0310754046/?tag=bookgateway02-20",
+    "isbn13": "9780310754046",
+    "isbn10": "0310754046",
+    "cover_source": "amazon_cdn_local",
+    "asin": "0310754046"
   },
   "undetected-by-dee-henderson": {
     "cover": "https://images-na.ssl-images-amazon.com/images/P/0764212435.01.LZZZZZZZ.jpg",
@@ -7211,7 +7230,7 @@
     "cover_source": "amazon_cdn"
   },
   "walking-dead": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/1466882891.01.LZZZZZZZ.jpg",
+    "cover": "/assets/covers/walking-dead.jpg",
     "amazon": "https://www.amazon.com/dp/1466882891/?tag=bookgateway02-20",
     "isbn13": "9781466882898",
     "isbn10": "1466882891",
@@ -7306,7 +7325,7 @@
     "isbn10": "0307729427"
   },
   "why-evil": {
-    "cover": "https://images-na.ssl-images-amazon.com/images/P/0764208128.01.LZZZZZZZ.jpg",
+    "cover": "/assets/covers/why-evil.jpg",
     "amazon": "https://www.amazon.com/dp/0764208128/?tag=bookgateway02-20",
     "isbn13": "9780764208126",
     "isbn10": "0764208128",
