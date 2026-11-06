@@ -1785,6 +1785,14 @@
     "isbn10": "1841497932",
     "cover_source": "amazon_cdn"
   },
+  "contend-by-mitchell": {
+    "cover": "/assets/covers/contend-by-mitchell.jpg",
+    "amazon": "https://www.amazon.com/dp/1400356822/?tag=bookgateway02-20",
+    "isbn13": null,
+    "isbn10": "1400356822",
+    "asin": "1400356822",
+    "cover_source": "amazon_cdn_local"
+  },
   "cooking-up-love-by-cynthia-hickey": {
     "cover": "https://covers.openlibrary.org/b/id/8940582-L.jpg",
     "amazon": "https://www.amazon.com/dp/1460316193/?tag=bookgateway02-20",
